@@ -120,6 +120,8 @@ def upload_video() -> str:
         json=body,
         timeout=30,
     )
+    if init_resp.status_code != 200:
+        print(f"  Upload init failed ({init_resp.status_code}): {init_resp.text}")
     init_resp.raise_for_status()
     upload_url = init_resp.headers["Location"]
 
