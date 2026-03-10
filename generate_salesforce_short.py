@@ -3,7 +3,9 @@ import json
 import os
 import random
 import re
+import shutil
 from dataclasses import dataclass
+from datetime import datetime
 from pathlib import Path
 from typing import List, Optional
 
@@ -30,10 +32,16 @@ BUILD_DIR = Path("build")
 CLIPS_DIR = BUILD_DIR / "clips"
 AUDIO_DIR = BUILD_DIR / "audio_parts"
 MUSIC_PATH = BUILD_DIR / "music.mp3"
+HISTORY_PATH = BUILD_DIR / "topic_history.json"
+MAX_HISTORY = 12  # remember last N topics to avoid repeats
 
-# Voice: American English male, professional tone
-TTS_VOICE = "en-US-GuyNeural"
-TTS_RATE = "+8%"
+# Voice rotation for variety
+TTS_VOICES = [
+    "en-US-GuyNeural",
+    "en-US-AndrewMultilingualNeural",
+    "en-US-BrianMultilingualNeural",
+]
+TTS_RATE_OPTIONS = ["+5%", "+8%", "+10%"]
 
 # Pronunciation fixes for Salesforce-specific terms
 TTS_PRONUNCIATION_FIXES = {
@@ -106,6 +114,12 @@ PEXELS_QUERIES = [
     "laptop work",
     "digital transformation",
     "tech workspace",
+    "server room data center",
+    "person typing keyboard",
+    "startup office modern",
+    "video conference call",
+    "whiteboard planning",
+    "mobile app business",
 ]
 
 
@@ -119,6 +133,43 @@ class VideoMetadata:
     title: str
     description: str
     tags: List[str]
+
+
+# ── Topic deduplication ────────────────────────────────────────────────
+
+def _load_topic_history() -> list:
+    if HISTORY_PATH.exists():
+        try:
+            return json.loads(HISTORY_PATH.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+    return []
+
+
+def _save_topic_history(history: list) -> None:
+    HISTORY_PATH.parent.mkdir(parents=True, exist_ok=True)
+    HISTORY_PATH.write_text(json.dumps(history, ensure_ascii=False), encoding="utf-8")
+
+
+def _pick_unique_topic() -> str:
+    """Pick a topic not recently used."""
+    history = _load_topic_history()
+    available = [t for t in SF_TOPICS if t not in history]
+    if not available:
+        available = SF_TOPICS
+    topic = random.choice(available)
+    history.append(topic)
+    if len(history) > MAX_HISTORY:
+        history = history[-MAX_HISTORY:]
+    _save_topic_history(history)
+    return topic
+
+
+def _clean_build_dir() -> None:
+    """Remove previous build artifacts to save disk space."""
+    if BUILD_DIR.exists():
+        shutil.rmtree(BUILD_DIR, ignore_errors=True)
+        print("  Cleaned previous build directory")
 
 
 def ensure_dirs() -> None:
@@ -136,6 +187,102 @@ FALLBACK_METADATA = VideoMetadata(
     ),
     tags=["salesforce", "admin", "flowbuilder", "automation", "shorts", "trailblazer", "crm"],
 )
+
+_CORE_TAGS = ["salesforce", "shorts", "admin", "crm", "trailblazer", "automation"]
+
+_DESCRIPTION_FOOTER = (
+    "\n\n#salesforce #admin #shorts #crm #trailblazer #automation"
+    "\nFollow for daily Salesforce tips!"
+)
+
+
+def _enrich_metadata(meta: VideoMetadata) -> VideoMetadata:
+    """Ensure title has #shorts, tags have core keywords, description has footer."""
+    title = meta.title
+    if "#shorts" not in title.lower():
+        title = title.rstrip() + " #shorts"
+    if "#salesforce" not in title.lower():
+        title = title.rstrip() + " #salesforce"
+
+    tags = list(meta.tags)
+    for t in _CORE_TAGS:
+        if t not in tags:
+            tags.append(t)
+
+    desc = meta.description
+    if "#salesforce" not in desc.lower():
+        desc = desc + _DESCRIPTION_FOOTER
+
+    return VideoMetadata(title=title[:100], description=desc, tags=tags)
+
+
+_FALLBACK_POOL = [
+    [
+        ScriptPart("Five Flow Builder tricks that every Salesforce admin needs to know right now."),
+        ScriptPart("Number one — use Decision elements instead of multiple flows. One flow with branches runs faster than five separate ones."),
+        ScriptPart("Number two — always add a Fault path. Without it, your flow fails silently and users see a generic error."),
+        ScriptPart("Number three — use Custom Metadata Types for configuration values. Change them without deploying code."),
+        ScriptPart("Number four — debug faster with the Flow Debug tool. Click Debug in the top right, set your input values, and trace every step."),
+        ScriptPart("Number five — add entry conditions to Record-Triggered Flows. Without them, the flow runs on EVERY save, killing performance."),
+        ScriptPart("A flow without entry conditions on an Account runs six hundred thousand times a year for just a thousand records. Add conditions."),
+        ScriptPart("Bonus — name every element clearly. Future-you will thank present-you when debugging at two AM."),
+        ScriptPart("Which trick was new to you? Drop a comment. Follow for daily Salesforce tips!"),
+    ],
+    [
+        ScriptPart("Stop giving users Profile-level field access. Here's why Permission Sets are better."),
+        ScriptPart("Profiles are rigid — one per user. Permission Sets are additive — stack as many as you need."),
+        ScriptPart("Go to Setup, search Permission Sets, click New. Give it a clear name like 'Finance Field Access'."),
+        ScriptPart("Add only the fields and objects this group needs. No more, no less."),
+        ScriptPart("Now assign it to users. One user can have five Permission Sets — perfect for cross-functional roles."),
+        ScriptPart("Need to remove access fast? Just unassign the Permission Set. No Profile cloning needed."),
+        ScriptPart("Pro tip — use Permission Set Groups to bundle related sets. Assign one group instead of five sets."),
+        ScriptPart("Audit time? Setup, search 'Permission Set Assignments' to see who has what."),
+        ScriptPart("This approach scales from ten users to ten thousand. Start migrating from Profiles today."),
+        ScriptPart("Save this for later. Follow for more Salesforce admin tips!"),
+    ],
+    [
+        ScriptPart("Your SOQL queries are slow? Here are four fixes that actually work."),
+        ScriptPart("Fix one — add selective filters. Queries without WHERE clauses scan every record in the table."),
+        ScriptPart("Fix two — create custom indexes. Contact Salesforce Support to index your most-queried fields."),
+        ScriptPart("Fix three — stop querying inside loops. Bulk your queries before the loop, then use a Map to look up records."),
+        ScriptPart("Fix four — use SOQL FOR loops for large data sets. They process two hundred records at a time instead of loading everything into memory."),
+        ScriptPart("Bonus — check Query Plan in Developer Console. It shows you exactly where the bottleneck is."),
+        ScriptPart("One client cut their batch job from forty minutes to three minutes with these changes."),
+        ScriptPart("Governor limits exist. Respect them or your code fails in production."),
+        ScriptPart("Which fix will you try first? Comment below and follow for more Salesforce dev tips!"),
+    ],
+    [
+        ScriptPart("Einstein AI inside Salesforce is more powerful than most admins realize."),
+        ScriptPart("Einstein Lead Scoring ranks your leads automatically. No formulas, no manual rules."),
+        ScriptPart("Go to Setup, search Einstein Lead Scoring, turn it on. It learns from your closed-won deals."),
+        ScriptPart("Einstein Opportunity Insights predicts which deals will close and which are at risk."),
+        ScriptPart("Einstein Activity Capture syncs emails and calendar events without users lifting a finger."),
+        ScriptPart("Einstein Bots handle basic service requests. Create one in Setup under Einstein Bots."),
+        ScriptPart("The best part? Most Einstein features are included in Enterprise Edition. No extra cost."),
+        ScriptPart("One team increased conversion by twenty percent just by following Einstein's lead scores."),
+        ScriptPart("Start with Lead Scoring — it takes ten minutes to enable and improves over time automatically."),
+        ScriptPart("Save this video. Follow for more Salesforce AI tips!"),
+    ],
+]
+
+_FALLBACK_META_POOL = [
+    FALLBACK_METADATA,
+    VideoMetadata(
+        title="Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+        description="Why Permission Sets beat Profiles every time. Stop cloning Profiles!\n\n#salesforce #admin #security #shorts",
+        tags=["salesforce", "permission sets", "profiles", "admin", "security", "shorts"],
+    ),
+    VideoMetadata(
+        title="4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+        description="Your SOQL queries are slow? These 4 fixes cut query time dramatically.\n\n#salesforce #developer #soql #apex #shorts",
+        tags=["salesforce", "soql", "apex", "developer", "performance", "shorts"],
+    ),
+    VideoMetadata(
+        title="Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+        description="Most Einstein features are already in your org. Here's how to turn them on.\n\n#salesforce #einstein #ai #shorts",
+        tags=["salesforce", "einstein", "ai", "automation", "admin", "shorts"],
+    ),
+]
 
 
 # Filler phrases that make content weak
@@ -191,18 +338,11 @@ def _validate_script(parts: List[ScriptPart]) -> bool:
 
 # ── Fallback script ────────────────────────────────────────────────────
 def _fallback_script() -> tuple:
-    parts = [
-        ScriptPart("Five Flow Builder tricks that every Salesforce admin needs to know right now."),
-        ScriptPart("Number one — use Decision elements instead of multiple flows. One flow with branches runs faster than five separate ones."),
-        ScriptPart("Number two — always add a Fault path. Without it, your flow fails silently and users see a generic error."),
-        ScriptPart("Number three — use Custom Metadata Types for configuration values. Change them without deploying code."),
-        ScriptPart("Number four — debug faster with the Flow Debug tool. Click Debug in the top right, set your input values, and trace every step."),
-        ScriptPart("Number five — add entry conditions to Record-Triggered Flows. Without them, the flow runs on EVERY save, killing performance."),
-        ScriptPart("A flow without entry conditions on an Account runs six hundred thousand times a year for just a thousand records. Add conditions."),
-        ScriptPart("Bonus — name every element clearly. Future-you will thank present-you when debugging at two AM."),
-        ScriptPart("Which trick was new to you? Drop a comment. Follow for daily Salesforce tips!"),
-    ]
-    return parts, FALLBACK_METADATA
+    idx = random.randrange(len(_FALLBACK_POOL))
+    parts = _FALLBACK_POOL[idx]
+    meta = _FALLBACK_META_POOL[idx]
+    print(f"[FALLBACK] Using fallback script #{idx + 1}")
+    return parts, meta
 
 
 def call_groq_for_script() -> tuple:
@@ -211,7 +351,7 @@ def call_groq_for_script() -> tuple:
         return _fallback_script()
 
     angle = random.choice(ANGLES)
-    topic = random.choice(SF_TOPICS)
+    topic = _pick_unique_topic()
     level = random.choice(SF_LEVELS)
 
     url = "https://api.groq.com/openai/v1/chat/completions"
@@ -295,6 +435,7 @@ Format — strictly JSON:
             description=data.get("description", "") or "Watch till the end! #salesforce #admin #shorts",
             tags=data.get("tags", ["salesforce", "admin", "shorts"]),
         )
+        metadata = _enrich_metadata(metadata)
         llm_queries = data.get("pexels_queries", [])
         if llm_queries:
             global _llm_pexels_queries
@@ -302,9 +443,45 @@ Format — strictly JSON:
 
         if _validate_script(parts):
             return parts, metadata
-        print("[WARN] LLM output failed quality check, using fallback")
+        print("[WARN] LLM output failed quality check, retrying...")
     except Exception as exc:
-        print(f"[WARN] Groq API error, using fallback script: {exc}")
+        print(f"[WARN] Groq parse error: {exc}, retrying...")
+
+    # ── Retry with reinforced prompt ──
+    body["messages"].append({
+        "role": "user",
+        "content": (
+            "IMPORTANT: the previous response failed quality checks. "
+            "Make sure:\n"
+            "1. At least 10 parts, each 12-25 words.\n"
+            "2. Every part has SPECIFIC Salesforce content: feature names, navigation paths, code, numbers.\n"
+            "3. NO filler phrases.\n"
+            "Return JSON in the same format."
+        ),
+    })
+    body["temperature"] = 1.0
+    try:
+        resp2 = requests.post(url, headers=headers, json=body, timeout=45)
+        resp2.raise_for_status()
+        content2 = resp2.json()["choices"][0]["message"]["content"]
+        content2 = re.sub(r"^```(?:json)?\s*", "", content2.strip())
+        content2 = re.sub(r"\s*```$", "", content2.strip())
+        data2 = json.loads(content2)
+        parts2 = [ScriptPart(p["text"]) for p in data2.get("parts", []) if p.get("text")]
+        metadata2 = VideoMetadata(
+            title=data2.get("title", "")[:100] or "Salesforce Tips & Tricks #shorts",
+            description=data2.get("description", "") or "Watch till the end! #salesforce #admin #shorts",
+            tags=data2.get("tags", ["salesforce", "admin", "shorts"]),
+        )
+        metadata2 = _enrich_metadata(metadata2)
+        llm_queries2 = data2.get("pexels_queries", [])
+        if llm_queries2:
+            _llm_pexels_queries = [q for q in llm_queries2 if isinstance(q, str)][:5]
+        if _validate_script(parts2):
+            return parts2, metadata2
+        print("[WARN] Retry also failed quality check, using fallback")
+    except Exception as exc:
+        print(f"[WARN] Retry failed: {exc}, using fallback")
 
     return _fallback_script()
 
@@ -466,13 +643,16 @@ def _fix_pronunciation(text: str) -> str:
 
 async def _generate_all_audio(parts: List[ScriptPart]) -> List[Path]:
     """Generate all audio phrases in parallel."""
+    voice = random.choice(TTS_VOICES)
+    rate = random.choice(TTS_RATE_OPTIONS)
+    print(f"  TTS voice: {voice}, rate: {rate}")
     audio_paths: List[Path] = []
     tasks = []
     for i, part in enumerate(parts):
         out = AUDIO_DIR / f"part_{i}.mp3"
         audio_paths.append(out)
         tts_text = _fix_pronunciation(part.text)
-        comm = edge_tts.Communicate(tts_text, TTS_VOICE, rate=TTS_RATE)
+        comm = edge_tts.Communicate(tts_text, voice, rate=rate)
         tasks.append(comm.save(str(out)))
     await asyncio.gather(*tasks)
     return audio_paths
@@ -664,6 +844,7 @@ def _save_metadata(meta: VideoMetadata) -> None:
 
 
 def main() -> None:
+    _clean_build_dir()
     ensure_dirs()
     print("[1/5] Generating script...")
     parts, metadata = call_groq_for_script()
