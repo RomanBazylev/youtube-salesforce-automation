@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: "0 */4 * * *" # every 4 hours
 
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -49,7 +53,6 @@ jobs:
           python generate_salesforce_short.py
 
       - name: Upload to YouTube
-        if: success()
         run: |
           python upload_youtube.py
 

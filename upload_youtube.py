@@ -12,6 +12,7 @@ Optional:
 import json
 import os
 import sys
+import time
 from pathlib import Path
 
 import requests
@@ -22,6 +23,8 @@ METADATA_PATH = BUILD_DIR / "metadata.json"
 
 TOKEN_URL = "https://oauth2.googleapis.com/token"
 UPLOAD_URL = "https://www.googleapis.com/upload/youtube/v3/videos"
+
+MAX_UPLOAD_RETRIES = 3
 
 
 def _get_access_token(client_id: str, client_secret: str, refresh_token: str) -> str:
@@ -102,9 +105,9 @@ def upload_video() -> str:
         },
     }
 
-    # Resumable upload: init
     print("  Initiating upload...")
-    video_size = VIDEO_PATH.stat().st_size
+    video_data = VIDEO_PATH.read_bytes()
+    video_size = len(video_data)
     init_resp = requests.post(
         UPLOAD_URL,
         params={
@@ -120,33 +123,41 @@ def upload_video() -> str:
         json=body,
         timeout=30,
     )
-    if init_resp.status_code != 200:
-        print(f"  Upload init failed ({init_resp.status_code}): {init_resp.text}")
-    init_resp.raise_for_status()
+    if not init_resp.ok:
+        print(f"[ERROR] Upload init failed ({init_resp.status_code}): {init_resp.text[:1000]}")
+        init_resp.raise_for_status()
     upload_url = init_resp.headers["Location"]
 
-    # Resumable upload: send video bytes
     print(f"  Uploading {video_size / 1024 / 1024:.1f} MB...")
-    with open(VIDEO_PATH, "rb") as f:
-        upload_resp = requests.put(
-            upload_url,
-            headers={
-                "Authorization": f"Bearer {access_token}",
-                "Content-Type": "video/mp4",
-                "Content-Length": str(video_size),
-            },
-            data=f,
-            timeout=600,
-        )
-    upload_resp.raise_for_status()
+    for attempt in range(1, MAX_UPLOAD_RETRIES + 1):
+        try:
+            upload_resp = requests.put(
+                upload_url,
+                headers={
+                    "Authorization": f"Bearer {access_token}",
+                    "Content-Type": "video/mp4",
+                    "Content-Length": str(video_size),
+                },
+                data=video_data,
+                timeout=600,
+            )
+            upload_resp.raise_for_status()
+            video_id = upload_resp.json().get("id", "")
+            print(f"  Uploaded! https://youtube.com/shorts/{video_id}")
+            return video_id
+        except Exception as exc:
+            print(f"[WARN] Upload attempt {attempt}/{MAX_UPLOAD_RETRIES} failed: {exc}")
+            if attempt < MAX_UPLOAD_RETRIES:
+                wait = attempt * 10
+                print(f"  Retrying in {wait}s...")
+                time.sleep(wait)
 
-    video_id = upload_resp.json().get("id", "")
-    print(f"  Uploaded! https://youtube.com/shorts/{video_id}")
-    return video_id
+    print("[ERROR] All upload attempts failed.")
+    return ""
 
 
 if __name__ == "__main__":
     vid = upload_video()
     if not vid:
-        print("Upload skipped or failed.")
-        sys.exit(0)
+        print("Upload failed.")
+        sys.exit(1)
