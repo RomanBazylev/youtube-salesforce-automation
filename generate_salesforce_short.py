@@ -104,25 +104,32 @@ SF_LEVELS = [
     "beginner", "business analyst",
 ]
 
-# Pexels fallback queries (tech/business visuals)
+# Pexels fallback queries — IT/developer visuals only (no corporate/boardroom)
 PEXELS_QUERIES = [
-    "business technology",
-    "computer coding",
-    "office teamwork",
-    "data dashboard",
-    "cloud computing",
-    "software development",
-    "business meeting",
-    "laptop work",
-    "digital transformation",
-    "tech workspace",
-    "server room data center",
-    "person typing keyboard",
-    "startup office modern",
-    "video conference call",
-    "whiteboard planning",
-    "mobile app business",
+    "computer screen code dark",
+    "programmer typing laptop",
+    "software dashboard interface",
+    "server room lights",
+    "database code terminal",
+    "developer coding screen",
+    "digital data visualization",
+    "tech workspace dual monitors",
+    "cybersecurity network",
+    "cloud infrastructure server",
+    "software engineer working",
+    "dark mode code editor",
+    "IT professional monitoring",
+    "system admin terminal",
+    "technology abstract data",
+    "programming code closeup",
 ]
+
+# Queries containing these words look too corporate — filter them out
+_QUERY_BLACKLIST_WORDS = {
+    "meeting", "teamwork", "handshake", "presentation",
+    "conference", "whiteboard", "planning", "boardroom",
+    "negotiation", "seminar",
+}
 
 
 @dataclass
@@ -397,7 +404,7 @@ Format — strictly JSON:
   "title": "Catchy YouTube title (max 70 chars) with emoji and #shorts #salesforce",
   "description": "YouTube description (2–3 lines) with hashtags",
   "tags": ["salesforce", "admin", "shorts", ...4-7 more topic-specific tags],
-  "pexels_queries": ["3–5 short English queries for Pexels video search, relevant to theme"],
+  "pexels_queries": ["3–5 Pexels queries for TECH/IT visuals: coding screens, terminals, dashboards, server rooms, developer workspaces. NO meetings, handshakes, whiteboards, or corporate scenes"],
   "parts": [
     {{ "text": "Phrase with specific actionable tip, 12-25 words" }}
   ]
@@ -519,7 +526,12 @@ def download_pexels_clips(target_count: int = 14) -> List[Path]:
         return []
 
     headers = {"Authorization": api_key}
-    all_queries = list(_llm_pexels_queries)
+    # Filter out corporate-looking queries from LLM output
+    filtered_llm = [
+        q for q in _llm_pexels_queries
+        if not any(bw in q.lower() for bw in _QUERY_BLACKLIST_WORDS)
+    ]
+    all_queries = list(filtered_llm)
     extra = [q for q in PEXELS_QUERIES if q not in all_queries]
     random.shuffle(extra)
     all_queries.extend(extra)
