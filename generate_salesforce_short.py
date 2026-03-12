@@ -104,31 +104,64 @@ SF_LEVELS = [
     "beginner", "business analyst",
 ]
 
-# Pexels fallback queries — IT/developer visuals only (no corporate/boardroom)
+# Pexels queries — strictly IT/cloud/code visuals (no people, no corporate)
 PEXELS_QUERIES = [
     "computer screen code dark",
-    "programmer typing laptop",
-    "software dashboard interface",
-    "server room lights",
-    "database code terminal",
-    "developer coding screen",
-    "digital data visualization",
-    "tech workspace dual monitors",
-    "cybersecurity network",
-    "cloud infrastructure server",
-    "software engineer working",
-    "dark mode code editor",
-    "IT professional monitoring",
-    "system admin terminal",
-    "technology abstract data",
-    "programming code closeup",
+    "programmer typing laptop closeup",
+    "software dashboard interface screen",
+    "server room lights rack",
+    "database code terminal dark",
+    "developer coding screen IDE",
+    "digital data visualization graph",
+    "tech workspace dual monitors keyboard",
+    "cybersecurity network lock",
+    "cloud infrastructure server rack",
+    "dark mode code editor syntax",
+    "system admin terminal linux",
+    "technology abstract data flow",
+    "programming code closeup python",
+    "cloud computing data center",
+    "network cables server rack blue",
+    "code deployment pipeline CI CD",
+    "API integration code screen",
+    "DevOps monitoring dashboard grafana",
+    "kubernetes container orchestration",
+    "SaaS application interface dark",
+    "data analytics chart screen",
+    "circuit board technology macro",
+    "typing keyboard code neon",
+    "binary code digital abstract",
+    "cloud server blue technology",
+    "software testing automation screen",
+    "machine learning neural network",
 ]
 
-# Queries containing these words look too corporate — filter them out
+# Pixabay queries — IT/cloud/code only
+PIXABAY_QUERIES = [
+    "server room technology",
+    "programming code computer",
+    "cloud computing network",
+    "data center server",
+    "cybersecurity technology",
+    "software development code",
+    "circuit board technology",
+    "digital technology abstract",
+]
+
+# Blacklist — reject any query or tag containing these words
 _QUERY_BLACKLIST_WORDS = {
+    # People / interactions
     "meeting", "teamwork", "handshake", "presentation",
     "conference", "whiteboard", "planning", "boardroom",
-    "negotiation", "seminar",
+    "negotiation", "seminar", "hug", "embrace", "couple",
+    "friends", "love", "together", "celebrate", "portrait",
+    "face", "smile", "happy", "group", "crowd", "party",
+    "wedding", "romantic", "family", "children", "kid",
+    "student", "classroom", "fashion", "model", "beauty",
+    "lifestyle", "yoga", "fitness", "dance", "selfie",
+    # Corporate / generic
+    "corporate", "suit", "office people", "business team",
+    "interview", "handshaking", "coworker", "colleague",
 }
 
 
@@ -404,7 +437,6 @@ Format — strictly JSON:
   "title": "Catchy YouTube title (max 70 chars) with emoji and #shorts #salesforce",
   "description": "YouTube description (2–3 lines) with hashtags",
   "tags": ["salesforce", "admin", "shorts", ...4-7 more topic-specific tags],
-  "pexels_queries": ["3–5 Pexels queries for TECH/IT visuals: coding screens, terminals, dashboards, server rooms, developer workspaces. NO meetings, handshakes, whiteboards, or corporate scenes"],
   "parts": [
     {{ "text": "Phrase with specific actionable tip, 12-25 words" }}
   ]
@@ -445,10 +477,6 @@ Format — strictly JSON:
             tags=data.get("tags", ["salesforce", "admin", "shorts"]),
         )
         metadata = _enrich_metadata(metadata)
-        llm_queries = data.get("pexels_queries", [])
-        if llm_queries:
-            global _llm_pexels_queries
-            _llm_pexels_queries = [q for q in llm_queries if isinstance(q, str)][:5]
 
         if _validate_script(parts):
             return parts, metadata
@@ -483,9 +511,6 @@ Format — strictly JSON:
             tags=data2.get("tags", ["salesforce", "admin", "shorts"]),
         )
         metadata2 = _enrich_metadata(metadata2)
-        llm_queries2 = data2.get("pexels_queries", [])
-        if llm_queries2:
-            _llm_pexels_queries = [q for q in llm_queries2 if isinstance(q, str)][:5]
         if _validate_script(parts2):
             return parts2, metadata2
         print("[WARN] Retry also failed quality check, using fallback")
@@ -493,10 +518,6 @@ Format — strictly JSON:
         print(f"[WARN] Retry failed: {exc}, using fallback")
 
     return _fallback_script()
-
-
-# Global for LLM-generated Pexels queries
-_llm_pexels_queries: List[str] = []
 
 
 # ── Download clips ─────────────────────────────────────────────────────
@@ -520,22 +541,15 @@ def _pexels_best_file(video_files: list) -> Optional[dict]:
 
 
 def download_pexels_clips(target_count: int = 14) -> List[Path]:
-    """Download clips using LLM-generated + fallback queries for visual diversity."""
+    """Download clips using hardcoded IT/cloud queries only — 1 clip per query."""
     api_key = os.getenv("PEXELS_API_KEY")
     if not api_key:
         return []
 
     headers = {"Authorization": api_key}
-    # Filter out corporate-looking queries from LLM output
-    filtered_llm = [
-        q for q in _llm_pexels_queries
-        if not any(bw in q.lower() for bw in _QUERY_BLACKLIST_WORDS)
-    ]
-    all_queries = list(filtered_llm)
-    extra = [q for q in PEXELS_QUERIES if q not in all_queries]
-    random.shuffle(extra)
-    all_queries.extend(extra)
-    queries = all_queries[:target_count]
+    queries = list(PEXELS_QUERIES)
+    random.shuffle(queries)
+    queries = queries[:target_count]
     result_paths: List[Path] = []
     seen_ids: set = set()
     clip_idx = 0
@@ -545,7 +559,7 @@ def download_pexels_clips(target_count: int = 14) -> List[Path]:
             break
         params = {
             "query": query,
-            "per_page": 3,
+            "per_page": 1,  # only top result — most relevant to query
             "orientation": "portrait",
         }
         try:
@@ -585,10 +599,11 @@ def download_pixabay_clips(max_clips: int = 3) -> List[Path]:
     if not api_key:
         return []
 
+    query = random.choice(PIXABAY_QUERIES)
     params = {
         "key": api_key,
-        "q": random.choice(_llm_pexels_queries or ["technology", "computer work", "business"]),
-        "per_page": max_clips,
+        "q": query,
+        "per_page": max_clips * 3,  # fetch extra to allow tag filtering
         "safesearch": "true",
         "order": "popular",
     }
@@ -606,19 +621,29 @@ def download_pixabay_clips(max_clips: int = 3) -> List[Path]:
 
     data = resp.json()
     result_paths: List[Path] = []
+    clip_idx = 0
 
-    for idx, hit in enumerate(data.get("hits", [])[:max_clips], start=1):
+    for hit in data.get("hits", []):
+        if len(result_paths) >= max_clips:
+            break
+        # Tag-based filtering — skip clips with people/corporate content
+        hit_tags = hit.get("tags", "").lower()
+        if any(bw in hit_tags for bw in _QUERY_BLACKLIST_WORDS):
+            print(f"    Pixabay skip (blacklisted tags: {hit_tags})")
+            continue
         videos = hit.get("videos") or {}
         cand = videos.get("large") or videos.get("medium") or videos.get("small")
         if not cand or "url" not in cand:
             continue
+        clip_idx += 1
         url = cand["url"]
-        clip_path = CLIPS_DIR / f"pixabay_{idx}.mp4"
+        clip_path = CLIPS_DIR / f"pixabay_{clip_idx}.mp4"
         try:
             _download_file(url, clip_path)
             result_paths.append(clip_path)
+            print(f"    Pixabay [{query}] -> clip {clip_idx}")
         except Exception as exc:
-            print(f"[WARN] Failed to download Pixabay clip {idx}: {exc}")
+            print(f"[WARN] Failed to download Pixabay clip {clip_idx}: {exc}")
 
     return result_paths
 
