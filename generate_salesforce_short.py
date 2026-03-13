@@ -616,7 +616,10 @@ def download_pixabay_clips(max_clips: int = 3) -> List[Path]:
         )
         resp.raise_for_status()
     except Exception as exc:
-        print(f"[WARN] Pixabay API error: {exc}")
+        safe_msg = str(exc)
+        if api_key:
+            safe_msg = safe_msg.replace(api_key, "***")
+        print(f"[WARN] Pixabay API error: {safe_msg}")
         return []
 
     data = resp.json()

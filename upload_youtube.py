@@ -42,7 +42,7 @@ def _get_access_token(client_id: str, client_secret: str, refresh_token: str) ->
     resp.raise_for_status()
     token = resp.json().get("access_token")
     if not token:
-        raise RuntimeError(f"No access_token in response: {resp.text}")
+        raise RuntimeError("No access_token in OAuth response (check YOUTUBE_CLIENT_ID / YOUTUBE_CLIENT_SECRET / YOUTUBE_REFRESH_TOKEN)")
     return token
 
 
@@ -124,7 +124,7 @@ def upload_video() -> str:
         timeout=30,
     )
     if not init_resp.ok:
-        print(f"[ERROR] Upload init failed ({init_resp.status_code}): {init_resp.text[:1000]}")
+        print(f"[ERROR] Upload init failed ({init_resp.status_code})")
         init_resp.raise_for_status()
     upload_url = init_resp.headers["Location"]
 

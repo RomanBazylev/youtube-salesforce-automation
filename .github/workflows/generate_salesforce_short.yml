@@ -7,7 +7,7 @@ on:
 
 concurrency:
   group: ${{ github.workflow }}
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   generate:
@@ -64,4 +64,5 @@ jobs:
           path: |
             build/output_salesforce_short.mp4
             build/metadata.json
+          retention-days: 1
           if-no-files-found: warn
