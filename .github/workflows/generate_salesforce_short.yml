@@ -59,13 +59,6 @@ jobs:
         run: |
           python upload_youtube.py
 
-      - name: Upload video artifact
+      - name: Cleanup build files
         if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: salesforce-short-${{ github.run_number }}
-          path: |
-            build/output_salesforce_short.mp4
-            build/metadata.json
-          retention-days: 1
-          if-no-files-found: warn
+        run: rm -rf build/
