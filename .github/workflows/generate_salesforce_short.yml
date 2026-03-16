@@ -30,17 +30,17 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
       - name: Cache pip
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
           restore-keys: ${{ runner.os }}-pip-
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
 
       - name: Install system dependencies
         run: |
@@ -51,7 +51,7 @@ jobs:
       - name: Install Python dependencies
         run: |
           pip install --upgrade pip
-          pip install -r requirements.txt
+          IMAGEIO_FFMPEG_EXE=/usr/bin/ffmpeg pip install -r requirements.txt
 
       - name: Collect video stats
         run: python -c "from analytics import fetch_and_update_stats, print_report; fetch_and_update_stats(); print_report()"
