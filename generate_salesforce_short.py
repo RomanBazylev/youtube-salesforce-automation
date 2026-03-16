@@ -175,6 +175,7 @@ class VideoMetadata:
     title: str
     description: str
     tags: List[str]
+    topic: str = ""
 
 
 # ── Topic deduplication ────────────────────────────────────────────────
@@ -195,11 +196,16 @@ def _save_topic_history(history: list) -> None:
 
 def _pick_unique_topic() -> str:
     """Pick a topic not recently used."""
+    from analytics import get_topic_weights
     history = _load_topic_history()
     available = [t for t in SF_TOPICS if t not in history]
     if not available:
         available = SF_TOPICS
-    topic = random.choice(available)
+    weights = get_topic_weights(available)
+    if weights:
+        topic = random.choices(available, weights=weights, k=1)[0]
+    else:
+        topic = random.choice(available)
     history.append(topic)
     if len(history) > MAX_HISTORY:
         history = history[-MAX_HISTORY:]
@@ -475,6 +481,7 @@ Format — strictly JSON:
             title=data.get("title", "")[:100] or "Salesforce Tips & Tricks #shorts",
             description=data.get("description", "") or "Watch till the end! #salesforce #admin #shorts",
             tags=data.get("tags", ["salesforce", "admin", "shorts"]),
+            topic=topic,
         )
         metadata = _enrich_metadata(metadata)
 
@@ -509,6 +516,7 @@ Format — strictly JSON:
             title=data2.get("title", "")[:100] or "Salesforce Tips & Tricks #shorts",
             description=data2.get("description", "") or "Watch till the end! #salesforce #admin #shorts",
             tags=data2.get("tags", ["salesforce", "admin", "shorts"]),
+            topic=topic,
         )
         metadata2 = _enrich_metadata(metadata2)
         if _validate_script(parts2):
@@ -876,7 +884,7 @@ def _save_metadata(meta: VideoMetadata) -> None:
     meta_path = BUILD_DIR / "metadata.json"
     meta_path.write_text(
         json.dumps(
-            {"title": meta.title, "description": meta.description, "tags": meta.tags},
+            {"title": meta.title, "description": meta.description, "tags": meta.tags, "topic": meta.topic},
             ensure_ascii=False,
             indent=2,
         ),

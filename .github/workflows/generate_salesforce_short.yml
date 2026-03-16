@@ -16,6 +16,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    permissions:
+      contents: write
     env:
       GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
       PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
@@ -51,6 +53,9 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Collect video stats
+        run: python -c "from analytics import fetch_and_update_stats, print_report; fetch_and_update_stats(); print_report()"
+
       - name: Generate Salesforce short video
         run: |
           python generate_salesforce_short.py
@@ -62,3 +67,11 @@ jobs:
       - name: Cleanup build files
         if: always()
         run: rm -rf build/
+
+      - name: Commit performance data
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add performance_log.json || true
+          git diff --cached --quiet || (git commit -m "analytics: update performance data" && git push)
