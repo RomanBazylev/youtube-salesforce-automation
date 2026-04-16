@@ -70,7 +70,7 @@ def _save_log(data: dict) -> None:
 
 # ── Upload logging ─────────────────────────────────────────────────
 
-def log_upload(video_id: str, title: str, topic: str = "", tags: list = None) -> None:
+def log_upload(video_id: str, title: str, topic: str = "", tags: list = None, fmt: str = "short") -> None:
     """Log a successful upload. Safe to call multiple times (deduplicates by video_id)."""
     if not video_id:
         return
@@ -83,11 +83,12 @@ def log_upload(video_id: str, title: str, topic: str = "", tags: list = None) ->
         "title": title,
         "topic": topic,
         "tags": tags or [],
+        "format": fmt,
         "uploaded_at": datetime.now(timezone.utc).isoformat(),
         "stats": None,
     })
     _save_log(data)
-    print(f"[ANALYTICS] Logged: {video_id} | {title[:50]}")
+    print(f"[ANALYTICS] Logged: {video_id} | {fmt} | {title[:50]}")
 
 
 # ── Stats fetching ─────────────────────────────────────────────────

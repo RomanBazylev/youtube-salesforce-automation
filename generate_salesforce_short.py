@@ -34,8 +34,7 @@ BUILD_DIR = Path("build")
 CLIPS_DIR = BUILD_DIR / "clips"
 AUDIO_DIR = BUILD_DIR / "audio_parts"
 MUSIC_PATH = BUILD_DIR / "music.mp3"
-HISTORY_PATH = BUILD_DIR / "topic_history.json"
-MAX_HISTORY = 12  # remember last N topics to avoid repeats
+MAX_HISTORY = 12  # remember last N topics to avoid repeats (fallback only)
 
 # Voice rotation for variety
 TTS_VOICES = [
@@ -69,7 +68,7 @@ TTS_PRONUNCIATION_FIXES = {
     "Trailhead": "trail-head",
 }
 
-# Content angles — how the topic is presented
+# Content angles — used as fallback framing when live content is available
 ANGLES = [
     "mind-blowing trick that saves hours of work",
     "common mistake that even senior admins make",
@@ -85,7 +84,7 @@ ANGLES = [
     "shortcut that makes you look like a wizard",
 ]
 
-# Salesforce domains/products
+# Static topics — kept ONLY as emergency fallback when all live sources fail
 SF_TOPICS = [
     "Flow Builder", "Apex triggers", "Lightning Web Components",
     "Reports & Dashboards", "Validation Rules", "Permission Sets",
@@ -178,26 +177,30 @@ class VideoMetadata:
     topic: str = ""
 
 
-# ── Topic deduplication ────────────────────────────────────────────────
+# ── Content sourcing (live feeds) ──────────────────────────────────────
 
-def _load_topic_history() -> list:
-    if HISTORY_PATH.exists():
+def _pick_fresh_content():
+    """Pick fresh content from live sources, falling back to static topic if all fail."""
+    try:
+        from sf_content_sources import pick_fresh_content
+        item = pick_fresh_content("short")
+        if item:
+            return item
+    except Exception as exc:
+        print(f"[WARN] Live content fetch failed: {exc}")
+    return None
+
+
+def _pick_static_topic() -> str:
+    """Fallback: pick a static topic when live sources fail."""
+    from analytics import get_topic_weights
+    history_path = BUILD_DIR / "topic_history.json"
+    history = []
+    if history_path.exists():
         try:
-            return json.loads(HISTORY_PATH.read_text(encoding="utf-8"))
+            history = json.loads(history_path.read_text(encoding="utf-8"))
         except Exception:
             pass
-    return []
-
-
-def _save_topic_history(history: list) -> None:
-    HISTORY_PATH.parent.mkdir(parents=True, exist_ok=True)
-    HISTORY_PATH.write_text(json.dumps(history, ensure_ascii=False), encoding="utf-8")
-
-
-def _pick_unique_topic() -> str:
-    """Pick a topic not recently used."""
-    from analytics import get_topic_weights
-    history = _load_topic_history()
     available = [t for t in SF_TOPICS if t not in history]
     if not available:
         available = SF_TOPICS
@@ -209,7 +212,8 @@ def _pick_unique_topic() -> str:
     history.append(topic)
     if len(history) > MAX_HISTORY:
         history = history[-MAX_HISTORY:]
-    _save_topic_history(history)
+    history_path.parent.mkdir(parents=True, exist_ok=True)
+    history_path.write_text(json.dumps(history, ensure_ascii=False), encoding="utf-8")
     return topic
 
 
@@ -398,9 +402,27 @@ def call_groq_for_script() -> tuple:
     if not api_key:
         return _fallback_script()
 
-    angle = random.choice(ANGLES)
-    topic = _pick_unique_topic()
+    # Try to get live content first
+    content_item = _pick_fresh_content()
     level = random.choice(SF_LEVELS)
+
+    if content_item:
+        topic = content_item.title
+        source_block = (
+            f"SOURCE ARTICLE (fresh content — make the video feel CURRENT):\n"
+            f"Title: {content_item.title}\n"
+            f"Source: {content_item.source} ({content_item.date})\n"
+            f"Summary: {content_item.summary[:400]}\n"
+        )
+        print(f"  Live content: [{content_item.source}] {content_item.title[:60]}")
+    else:
+        topic = _pick_static_topic()
+        angle = random.choice(ANGLES)
+        source_block = (
+            f"Topic: {topic}\n"
+            f"Angle: {angle}\n"
+        )
+        print(f"  Static fallback topic: {topic}")
 
     url = "https://api.groq.com/openai/v1/chat/completions"
     headers = {
@@ -415,14 +437,14 @@ def call_groq_for_script() -> tuple:
         "NEVER write filler phrases like 'This is amazing' or 'You won't believe this' or 'Trust me on this'. "
         "Every phrase = a specific tip, fact, or action the viewer can use immediately. "
         "Write in a confident, conversational, professional tone — like a senior consultant sharing insider knowledge. "
+        "When given a source article — extract the BEST actionable points from it and make the content feel timely and fresh. "
         "Respond ONLY with valid JSON, no markdown wrappers or explanations."
     )
 
     user_prompt = f"""Write a YouTube Shorts script (45–60 seconds) about Salesforce.
 
 CONTEXT:
-- Topic: {topic}
-- Angle: {angle}
+{source_block}
 - Target audience: Salesforce {level}
 
 CONTENT REQUIREMENTS:
@@ -434,6 +456,7 @@ CONTENT REQUIREMENTS:
 6. Final phrase — call to action: ask which tip was best, ask to comment, follow for more.
 7. 10–14 parts total (for 45–60 second video).
 8. IMPORTANT: include real Salesforce terms, navigation paths, and specific examples — NOT generic business advice.
+9. If a source article is given — base the content on its key points. Make it feel CURRENT and timely.
 
 EXAMPLE OF GOOD PHRASE: "Go to Setup, search Permission Sets, and create one for each job function. Stop using Profiles for field access."
 EXAMPLE OF BAD PHRASE: "This is a game changer!" or "You need to hear this."
@@ -448,7 +471,7 @@ Format — strictly JSON:
   ]
 }}"""
 
-    print(f"  Topic: {topic} | Level: {level} | Angle: {angle}")
+    print(f"  Topic: {topic[:60]} | Level: {level}")
 
     body = {
         "model": "llama-3.3-70b-versatile",
