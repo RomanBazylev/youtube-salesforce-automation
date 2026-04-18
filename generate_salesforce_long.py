@@ -50,6 +50,7 @@ TTS_RATE = "+3%"
 
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 GROQ_MODEL = "llama-3.3-70b-versatile"
+GROQ_FALLBACK_MODEL = "llama-3.1-8b-instant"
 
 # Pronunciation fixes for Salesforce-specific terms
 TTS_PRONUNCIATION_FIXES = {
@@ -189,30 +190,38 @@ def _groq_call(messages: list, temperature: float = 0.7,
     if not api_key:
         return None
     headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
-    body = {
-        "model": GROQ_MODEL,
-        "messages": messages,
-        "temperature": temperature,
-        "max_tokens": max_tokens,
-    }
-    if json_mode:
-        body["response_format"] = {"type": "json_object"}
-    for attempt in range(1, 6):
-        try:
-            r = requests.post(GROQ_URL, headers=headers, json=body, timeout=90)
-            r.raise_for_status()
-            return r.json()["choices"][0]["message"]["content"]
-        except requests.exceptions.HTTPError:
-            if r.status_code == 429:
-                wait = min(10 * (2 ** (attempt - 1)), 120)
-                print(f"[WARN] Groq attempt {attempt}: 429 rate limited, waiting {wait}s...")
-                time.sleep(wait)
-            else:
-                print(f"[WARN] Groq attempt {attempt}: HTTP {r.status_code}")
+
+    for model in [GROQ_MODEL, GROQ_FALLBACK_MODEL]:
+        body = {
+            "model": model,
+            "messages": messages,
+            "temperature": temperature,
+            "max_tokens": max_tokens,
+        }
+        if json_mode:
+            body["response_format"] = {"type": "json_object"}
+        max_attempts = 8 if model == GROQ_MODEL else 5
+        for attempt in range(1, max_attempts + 1):
+            try:
+                r = requests.post(GROQ_URL, headers=headers, json=body, timeout=90)
+                r.raise_for_status()
+                return r.json()["choices"][0]["message"]["content"]
+            except requests.exceptions.HTTPError:
+                if r.status_code == 429:
+                    retry_after = r.headers.get("Retry-After")
+                    if retry_after:
+                        wait = min(int(float(retry_after)) + 2, 300)
+                    else:
+                        wait = min(15 * (2 ** (attempt - 1)), 300)
+                    print(f"[WARN] Groq {model} attempt {attempt}: 429 rate limited, waiting {wait}s...")
+                    time.sleep(wait)
+                else:
+                    print(f"[WARN] Groq {model} attempt {attempt}: HTTP {r.status_code}")
+                    time.sleep(5)
+            except Exception as exc:
+                print(f"[WARN] Groq {model} attempt {attempt}: {exc}")
                 time.sleep(5)
-        except Exception as exc:
-            print(f"[WARN] Groq attempt {attempt}: {exc}")
-            time.sleep(5)
+        print(f"[WARN] Groq {model} exhausted {max_attempts} attempts, trying next model...")
     return None
 
 

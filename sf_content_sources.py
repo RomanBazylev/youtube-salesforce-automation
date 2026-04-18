@@ -163,20 +163,28 @@ def fetch_salesforceben() -> List[ContentItem]:
 
 def fetch_developer_blog() -> List[ContentItem]:
     """Fetch latest posts from Salesforce Developer Blog."""
-    items = _fetch_rss(
+    # Primary: developer blog RSS (may 403 with bot UA)
+    dev_headers = {
+        **HEADERS,
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "Accept": "application/rss+xml, application/xml, text/xml, */*",
+    }
+    items = []
+    for url in [
         "https://developer.salesforce.com/blogs/feed",
-        "devblog",
-    )
+        "https://developer.salesforce.com/blogs/feed/atom",
+        "https://developer.salesforce.com/blog/feed",
+    ]:
+        try:
+            resp = requests.get(url, headers=dev_headers, timeout=30)
+            resp.raise_for_status()
+            items = _parse_rss_items(resp.text, "devblog")
+            if items:
+                break
+        except Exception as exc:
+            print(f"[SOURCE] RSS devblog failed ({url}): {exc}")
     for item in items:
         item.category = "developer"
-    # Fallback: try Atom feed if RSS returned nothing
-    if not items:
-        items = _fetch_rss(
-            "https://developer.salesforce.com/blogs/feed/atom",
-            "devblog",
-        )
-        for item in items:
-            item.category = "developer"
     print(f"[SOURCE] Developer Blog: {len(items)} articles")
     return items
 
@@ -184,8 +192,8 @@ def fetch_developer_blog() -> List[ContentItem]:
 # ── Source 3: Reddit r/salesforce ──────────────────────────────────────
 
 REDDIT_HEADERS = {
-    "User-Agent": "script:sf-yt-automation:v2.0 (by /u/sf_content_bot)",
-    "Accept": "application/json",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
 
 
@@ -282,17 +290,29 @@ def fetch_release_notes() -> List[ContentItem]:
 
 def fetch_trailhead() -> List[ContentItem]:
     """Fetch latest content from Trailhead blog."""
-    items = _fetch_rss("https://trailhead.salesforce.com/blog/feed", "trailhead")
+    trailhead_urls = [
+        "https://trailhead.salesforce.com/blog/feed",
+        "https://www.salesforce.com/trailblazer-community/feed/",
+        "https://trailhead.salesforce.com/en/blog/feed",
+        "https://www.salesforce.com/blog/category/trailhead/feed/",
+    ]
+    th_headers = {
+        **HEADERS,
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "Accept": "application/rss+xml, application/xml, text/xml, */*",
+    }
+    items = []
+    for url in trailhead_urls:
+        try:
+            resp = requests.get(url, headers=th_headers, timeout=30)
+            resp.raise_for_status()
+            items = _parse_rss_items(resp.text, "trailhead")
+            if items:
+                break
+        except Exception as exc:
+            print(f"[SOURCE] RSS trailhead failed ({url}): {exc}")
     for item in items:
         item.category = "learning"
-    # Fallback: try alternative URL
-    if not items:
-        items = _fetch_rss(
-            "https://www.salesforce.com/trailblazer-community/feed/",
-            "trailhead",
-        )
-        for item in items:
-            item.category = "learning"
     print(f"[SOURCE] Trailhead: {len(items)} articles")
     return items
 
