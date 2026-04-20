@@ -1,24 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "S1Ow44-vQRk",
-      "title": "Unlock 80% Efficiency with Flows 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "record-triggered",
-        "flows",
-        "automation",
-        "productivity",
-        "crm",
-        "trailblazer"
-      ],
-      "uploaded_at": "2026-03-17T11:36:38.351840+00:00",
-      "stats": null
-    },
-    {
       "video_id": "1pPRifTpbTA",
       "title": "Boost Productivity 300% with Custom Objects 🚀 #shorts #salesforce",
       "topic": "",
@@ -3775,6 +3757,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-20T09:38:48.824135+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "5YzmX701SHE",
+      "title": "🚀 Boost Productivity 30% with Salesforce Tips #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforceadmin",
+        "productivityhacks",
+        "agenticenterprise",
+        "salesforceproductivity",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-20T13:07:05.951106+00:00",
       "stats": null
     }
   ]
