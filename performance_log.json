@@ -1,24 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "RG5t00AdKwg",
-      "title": "Automate 80% of Marketing Tasks 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "marketingcloud",
-        "automation",
-        "productivity",
-        "salesforcedeveloper",
-        "crm",
-        "trailblazer"
-      ],
-      "uploaded_at": "2026-03-16T12:48:31.972557+00:00",
-      "stats": null
-    },
-    {
       "video_id": "S1Ow44-vQRk",
       "title": "Unlock 80% Efficiency with Flows 🚀 #shorts #salesforce",
       "topic": "",
@@ -3777,6 +3759,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-20T06:16:59.366973+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "YKs0FVMWk54",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-20T09:38:48.824135+00:00",
       "stats": null
     }
   ]
