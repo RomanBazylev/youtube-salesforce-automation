@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "dUq29Q1zDLg",
-      "title": "💡 Data Loader Hack #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "data loader",
-        "salesforce tips",
-        "data import",
-        "data export",
-        "salesforce automation",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-18T12:45:31.401207+00:00",
-      "stats": null
-    },
-    {
       "video_id": "7gYFqluynbw",
       "title": "Top Validation Rule Mistake 🚨 #shorts #salesforce",
       "topic": "",
@@ -3783,6 +3763,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-21T13:01:33.980794+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "U5WD_zl_EDo",
+      "title": "10 CRM Red Flags 🚨 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "crm",
+        "upgradetime",
+        "salesforcearchitect",
+        "sfblog",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-21T16:55:00.248173+00:00",
       "stats": null
     }
   ]
