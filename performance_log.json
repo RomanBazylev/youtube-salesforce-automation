@@ -1,24 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "7gYFqluynbw",
-      "title": "Top Validation Rule Mistake 🚨 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "validationrules",
-        "salesforceadmin",
-        "crm",
-        "salesforcedeveloper",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-18T16:54:22.232772+00:00",
-      "stats": null
-    },
-    {
       "video_id": "4f2pi2iU2UQ",
       "title": "Data Loader Secrets 🚀 #shorts #salesforce",
       "topic": "",
@@ -3782,6 +3764,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-21T16:55:00.248173+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "4vUYwH2VstM",
+      "title": "Clean Data in 5 Steps 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "cleanData",
+        "salesforceBen",
+        "dataValidation",
+        "salesforceTips",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-21T20:52:45.032690+00:00",
       "stats": null
     }
   ]
