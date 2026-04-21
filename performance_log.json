@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "zakVnY6nvIA",
-      "title": "🚀 80% of Reports Fail #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "reports",
-        "dashboards",
-        "salesforcebeginner",
-        "salesforcepro",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-18T01:10:32.762298+00:00",
-      "stats": null
-    },
-    {
       "video_id": "PMdGovRJd8w",
       "title": "Automate 80% of Tasks 🚀 #shorts #salesforce",
       "topic": "",
@@ -3782,6 +3763,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-21T01:22:14.880127+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "aPxCzcmOEeI",
+      "title": "Boost SMBs with AI 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "smb",
+        "ai",
+        "marketingreport",
+        "salesforcedev",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-21T06:04:23.620447+00:00",
       "stats": null
     }
   ]
