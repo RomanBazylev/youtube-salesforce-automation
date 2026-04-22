@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "4f2pi2iU2UQ",
-      "title": "Data Loader Secrets 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "data loader",
-        "salesforce admin",
-        "data management",
-        "config vs code",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-18T20:32:07.964960+00:00",
-      "stats": null
-    },
-    {
       "video_id": "PwinjuXQnSA",
       "title": "Einstein AI Boosts Sales 25% 🚀 #shorts #salesforce",
       "topic": "",
@@ -3784,6 +3765,28 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-21T20:52:45.032690+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "TwISF9Attpw",
+      "title": "Boost Email Opens 25% 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "emailmarketing",
+        "salesforceadmin",
+        "marketingcloud",
+        "salesforceconsultant",
+        "emailopenrates",
+        "salesforcepro",
+        "shorts",
+        "admin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-22T01:21:56.365806+00:00",
       "stats": null
     }
   ]
