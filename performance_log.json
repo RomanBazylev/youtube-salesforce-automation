@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "gJLolBk0HOM",
-      "title": "💡 80% of Marketers Use This #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "marketingcloud",
-        "admin",
-        "shorts",
-        "salesforceconsultant",
-        "marketingautomation",
-        "productivityhacks",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-20T01:05:20.991430+00:00",
-      "stats": null
-    },
-    {
       "video_id": "_q-H8mnbkys",
       "title": "Automate 80% of Tasks 🚀 #shorts #salesforce",
       "topic": "",
@@ -3793,6 +3774,28 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-23T01:27:32.895636+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "E7R58xkjQ5M",
+      "title": "TDX Sneak Peek: Hybrid Visual Editing 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "trailblazerdx",
+        "hybridvisualediting",
+        "customuserinterfaces",
+        "salesforcedeveloper",
+        "tdx",
+        "appstudio",
+        "shorts",
+        "admin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-23T06:07:54.804287+00:00",
       "stats": null
     }
   ]
