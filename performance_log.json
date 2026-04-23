@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "YNZlnzmidA0",
-      "title": "Boost Sales Cloud 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "salescloud",
-        "admin",
-        "shorts",
-        "performance",
-        "optimization",
-        "sales",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-20T08:36:27.832955+00:00",
-      "stats": null
-    },
-    {
       "video_id": "5tqtoAZUK5g",
       "title": "Avoid 80% of Custom Metadata Mistakes 🚀 #shorts #salesforce",
       "topic": "",
@@ -3794,6 +3775,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-23T09:24:33.616885+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "DAl2Q-ifN30",
+      "title": "🚨 75% of Salesforce Orgs Vulnerable to Claude Mythos Breach 🚨 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "security",
+        "mythos",
+        "breach",
+        "salesforceben",
+        "anthropic",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-23T13:03:35.440671+00:00",
       "stats": null
     }
   ]
