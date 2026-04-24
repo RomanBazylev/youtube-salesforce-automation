@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "nc8RmQtPhj4",
-      "title": "Einstein AI Hacks 🤖 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "einsteinai",
-        "admin",
-        "shorts",
-        "productivityhacks",
-        "salesforcearchitect",
-        "ai",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-21T08:25:43.087943+00:00",
-      "stats": null
-    },
-    {
       "video_id": "yv5A8ekrQ1I",
       "title": "Boost Salesforce Productivity 🚀 #shorts #salesforce",
       "topic": "",
@@ -3800,6 +3781,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-24T12:58:03.309487+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "zTYt9sNnqaM",
+      "title": "Summer '26 Updates 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "servicecloud",
+        "summer26",
+        "salesforceupdates",
+        "productivityhacks",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-24T16:48:58.720015+00:00",
       "stats": null
     }
   ]
