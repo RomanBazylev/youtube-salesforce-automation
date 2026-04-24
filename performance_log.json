@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "W7oF3AEK9Ng",
-      "title": "Boost Productivity 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforcedev",
-        "sandbox",
-        "productivity",
-        "management",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-21T01:00:24.889163+00:00",
-      "stats": null
-    },
-    {
       "video_id": "0ea30HhNQTQ",
       "title": "🚀 Boost Productivity with Custom Metadata #shorts #salesforce",
       "topic": "",
@@ -3799,6 +3780,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-24T06:10:13.665694+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "zMnNgbEfMs0",
+      "title": "🚀 Boost AI in Salesforce #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "salesforceadmin",
+        "salesforceai",
+        "locoBench",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-24T09:30:27.712773+00:00",
       "stats": null
     }
   ]
