@@ -1,24 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "n4h0p1U0ss8",
-      "title": "5min Rule for 80% Automation 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "processautomation",
-        "salesforceautomation",
-        "productivityhacks",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-21T16:23:30.872272+00:00",
-      "stats": null
-    },
-    {
       "video_id": "S0z8-bp0qSE",
       "title": "Unlock Custom Metadata 🚀 #shorts #salesforce",
       "topic": "",
@@ -3801,6 +3783,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-24T20:41:25.711297+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "FdelsLdmJKw",
+      "title": "🚀 Protect Customer Data #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "security",
+        "data protection",
+        "customer info",
+        "salesforce tips",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-25T01:20:07.699094+00:00",
       "stats": null
     }
   ]
