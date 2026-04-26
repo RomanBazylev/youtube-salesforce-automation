@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "6m-zRj4lY3Q",
-      "title": "Boost Approval Rates 30% 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "approvalprocess",
-        "certification",
-        "salesforceadmin",
-        "salesforcecertification",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-22T16:22:39.161022+00:00",
-      "stats": null
-    },
-    {
       "video_id": "NdKcetuKG7A",
       "title": "Boost Productivity with Apex Triggers 🚀 #shorts #salesforce",
       "topic": "",
@@ -3808,6 +3789,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-25T20:34:08.694637+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "hfHJ17s5f4M",
+      "title": "Boost Admin Efficiency 30% with Agent Script 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "agentscript",
+        "adminrole",
+        "salesforceadmins",
+        "productivityhacks",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-26T01:29:47.325192+00:00",
       "stats": null
     }
   ]
