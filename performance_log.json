@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "jiT2BdaVHrg",
-      "title": "Boost Approval Rates 30% 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "approvalprocesses",
-        "workflow",
-        "productivity",
-        "salesforceconsultant",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-23T01:13:10.169487+00:00",
-      "stats": null
-    },
-    {
       "video_id": "63qobK2quZQ",
       "title": "SOQL Mastery 🚀 #shorts #salesforce",
       "topic": "",
@@ -3810,6 +3791,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-26T06:06:51.483095+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "dQVT--GoiJk",
+      "title": "Summer '26 Release: 8 Dev Features 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "summer26",
+        "developers",
+        "release",
+        "features",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-26T08:54:29.872721+00:00",
       "stats": null
     }
   ]
