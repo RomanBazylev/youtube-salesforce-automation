@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "-Dnf8Jo-WZg",
-      "title": "Optimize Reports 📊 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "reports",
-        "dashboards",
-        "performance",
-        "optimization",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-23T08:49:18.041695+00:00",
-      "stats": null
-    },
-    {
       "video_id": "alGLajuiJGE",
       "title": "Unlock 30% Faster Salesforce 🚀 #shorts #salesforce",
       "topic": "",
@@ -3811,6 +3792,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-26T12:47:02.033331+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "JWvOmLXpIkY",
+      "title": "🚀 Boost Admin Productivity with Agent Script #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "agentscript",
+        "adminproductivity",
+        "salesforceadmins",
+        "AI solutions",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-26T16:36:57.670567+00:00",
       "stats": null
     }
   ]
