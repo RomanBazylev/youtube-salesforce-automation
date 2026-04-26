@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "63qobK2quZQ",
-      "title": "SOQL Mastery 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "soql",
-        "admin",
-        "certification",
-        "developer",
-        "architect",
-        "query",
-        "shorts",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-23T05:32:37.992507+00:00",
-      "stats": null
-    },
-    {
       "video_id": "-Dnf8Jo-WZg",
       "title": "Optimize Reports 📊 #shorts #salesforce",
       "topic": "",
@@ -3811,6 +3791,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-26T08:54:29.872721+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "bqSfJge090Y",
+      "title": "Boost Productivity 30% 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "productivity",
+        "smallbusiness",
+        "salesforcepro",
+        "businessgrowth",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-26T12:47:02.033331+00:00",
       "stats": null
     }
   ]
