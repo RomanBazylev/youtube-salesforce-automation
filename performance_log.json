@@ -1,24 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Bm5BKjXov_A",
-      "title": "Unlock 80% Efficiency 🚀 with Custom Metadata #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "custommetadata",
-        "salesforceadmin",
-        "crm",
-        "productivity",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-23T20:35:30.262541+00:00",
-      "stats": null
-    },
-    {
       "video_id": "euwmPUI7cGw",
       "title": "Automate 70% of Tasks 🚀 #shorts #salesforce",
       "topic": "",
@@ -3814,6 +3796,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-27T01:29:39.555640+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "mT-x5TfZ3nk",
+      "title": "Summer '26 Release 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "summer26",
+        "release",
+        "sfadmin",
+        "salesforceupdate",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-27T06:32:08.014385+00:00",
       "stats": null
     }
   ]
