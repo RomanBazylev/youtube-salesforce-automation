@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "8YHeHZ4i8rs",
-      "title": "Boost Cert Score 25% 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "certification",
-        "customobjects",
-        "developer",
-        "salesforcedeveloper",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-24T12:49:38.925215+00:00",
-      "stats": null
-    },
-    {
       "video_id": "x7H55_UwkAg",
       "title": "Sandbox Mistakes 🚨 #shorts #salesforce",
       "topic": "",
@@ -3819,6 +3800,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-27T17:20:57.258221+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "EgU_GxJXiz4",
+      "title": "Simplify Automation 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "automation",
+        "salesforceadmin",
+        "agentbuilder",
+        "salesforcetips",
+        "crm",
+        "trailblazer"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-27T20:55:14.418309+00:00",
       "stats": null
     }
   ]
