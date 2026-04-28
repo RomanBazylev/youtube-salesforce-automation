@@ -1,24 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "S6kwdKQ1OE0",
-      "title": "Automate 80% of Sales Tasks 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salescloud",
-        "automation",
-        "productivity",
-        "salesforceadmin",
-        "crm",
-        "trailblazer"
-      ],
-      "uploaded_at": "2026-03-24T20:37:42.781777+00:00",
-      "stats": null
-    },
-    {
       "video_id": "kCSd2r9PvAw",
       "title": "90% of Admins Make This Mistake 🚨 #shorts #salesforce",
       "topic": "",
@@ -3820,6 +3802,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-28T01:33:54.448945+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "D7-JWqFipdA",
+      "title": "Boost Skills with 12 Free Webinars 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "webinars",
+        "smallbusiness",
+        "salesforcelearning",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-28T06:32:45.303809+00:00",
       "stats": null
     }
   ]
