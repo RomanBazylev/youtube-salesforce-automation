@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "lYhLtt9VWeo",
-      "title": "Sandbox Like a Pro 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforce developer",
-        "sandbox management",
-        "config vs code",
-        "salesforce tips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-25T05:30:29.941550+00:00",
-      "stats": null
-    },
-    {
       "video_id": "RDMLSVo2x80",
       "title": "🚨 9/10 Admins Make This Integration Mistake 🚨 #shorts #salesforce",
       "topic": "",
@@ -3822,6 +3803,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-28T10:11:25.747354+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "vHOb1E5weGg",
+      "title": "🚨 $41B Chargeback Crisis 🚨 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "chargeback",
+        "disputesmanagement",
+        "finances",
+        "banking",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-28T13:28:22.749722+00:00",
       "stats": null
     }
   ]
