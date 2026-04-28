@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "kbpUuVtvTO0",
-      "title": "Boost SOQL Speed 300% 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "soql",
-        "performance",
-        "optimization",
-        "queries",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-25T12:45:01.526110+00:00",
-      "stats": null
-    },
-    {
       "video_id": "tW4PWOBCl_w",
       "title": "SOQL Mastery 🚀 #shorts #salesforce",
       "topic": "",
@@ -3825,6 +3806,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-28T17:37:47.090335+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "pTI2B0lnr8A",
+      "title": "Boost Salesforce Productivity 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "slackbot",
+        "productivity",
+        "salesforceadmin",
+        "salesforceTips",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-28T21:03:57.967410+00:00",
       "stats": null
     }
   ]
