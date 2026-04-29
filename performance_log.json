@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "2j9ZMt9RCso",
-      "title": "Custom Metadata Types 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "custommetadata",
-        "salesforcedev",
-        "metadata",
-        "configuration",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-26T08:51:37.370739+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Rcdi38p5sVU",
       "title": "Auto-Pilot Your Workflow 🚀 #shorts #salesforce",
       "topic": "",
@@ -3823,6 +3804,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-29T13:22:21.678627+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "miuxWk1Nr60",
+      "title": "Salesforce AI Data Setting Alert 🚨 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "customerdata",
+        "datasharing",
+        " Setup",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-29T17:22:19.659379+00:00",
       "stats": null
     }
   ]
