@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Pqx944KldkM",
-      "title": "💡 80% Fail Marketing Cloud Cert 📈 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "marketingcloud",
-        "certification",
-        "salesforceadmin",
-        "salesforcearchitect",
-        "salesforcecloud",
-        "salesforceexam",
-        "shorts",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-26T01:14:42.734338+00:00",
-      "stats": null
-    },
-    {
       "video_id": "5xUsyFY1fYM",
       "title": "Boost Productivity 30% with Formula Fields 🚀 #shorts #salesforce",
       "topic": "",
@@ -3827,6 +3806,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-04-29T06:23:49.871493+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "7s7P4bvlFc0",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-04-29T10:02:35.083394+00:00",
       "stats": null
     }
   ]
