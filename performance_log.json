@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "l_jkqXNdntI",
-      "title": "Boost Salesforce Security 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "security",
-        "performance",
-        "optimization",
-        "salesforceconsultant",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-28T08:34:16.216553+00:00",
-      "stats": null
-    },
-    {
       "video_id": "PwxNwRIaljQ",
       "title": "Deploy 30% Faster 🚀 #shorts #salesforce",
       "topic": "",
@@ -3829,6 +3810,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-01T12:57:52.564390+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Sbd3rsUWn-8",
+      "title": "Unlock Talent Pathways 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "talentpathways",
+        "careerdevelopment",
+        "salesforcecareers",
+        "apprenticejourney",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-01T16:48:02.737467+00:00",
       "stats": null
     }
   ]
