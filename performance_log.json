@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "ifystEadr-4",
-      "title": "Salesforce Integration 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "integration",
-        "certification",
-        "salesforcecertified",
-        "businessanalyst",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-27T20:32:49.561221+00:00",
-      "stats": null
-    },
-    {
       "video_id": "XNMsBK-oO84",
       "title": "Automate 80% of Tasks 🚀 #shorts #salesforce",
       "topic": "",
@@ -3828,6 +3809,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-01T01:42:34.428220+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "f8oKKHsrQTk",
+      "title": "Scale Life Sciences with Salesforce #shorts #salesforce 🚀",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "life sciences",
+        "pharma",
+        "medtech",
+        "agentforce",
+        "scalesalesforce",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-01T06:40:43.991842+00:00",
       "stats": null
     }
   ]
