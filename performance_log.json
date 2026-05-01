@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "PwxNwRIaljQ",
-      "title": "Deploy 30% Faster 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "deployment",
-        "salesforce tips",
-        "beginner friendly",
-        "salesforce best practices",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-28T12:34:31.119851+00:00",
-      "stats": null
-    },
-    {
       "video_id": "60ocxqTnIR0",
       "title": "🚀 80% of Devs Use This LWC Trick! #shorts #salesforce",
       "topic": "",
@@ -3830,6 +3811,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-01T16:48:02.737467+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "E7bA6huX0OE",
+      "title": "Boost Marketing Cloud Engagement 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "marketingcloud",
+        "admin",
+        "salesforceben",
+        "digitaltransformation",
+        "marketingautomation",
+        "salesforcedeveloper",
+        "shorts",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-01T20:47:10.125321+00:00",
       "stats": null
     }
   ]
