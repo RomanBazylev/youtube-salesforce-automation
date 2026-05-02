@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "C4GndaHYgZw",
-      "title": "🔮 75% of Admins Miss This Formula Field Trick #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "formulafields",
-        "salesforceformula",
-        "adminproductivity",
-        "salesforcehacks",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-29T01:18:21.669816+00:00",
-      "stats": null
-    },
-    {
       "video_id": "_ms3AvI6G8Y",
       "title": "Boost Productivity 40% with Custom Objects 🚀 #shorts #salesforce",
       "topic": "",
@@ -3834,6 +3815,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-02T06:06:36.955429+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "hjtKu0pnakU",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-02T09:03:58.973830+00:00",
       "stats": null
     }
   ]
