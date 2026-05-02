@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "60ocxqTnIR0",
-      "title": "🚀 80% of Devs Use This LWC Trick! #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "lwc",
-        "lightningwebcomponents",
-        "salesforcedev",
-        "salesforceadmin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-28T16:27:02.153713+00:00",
-      "stats": null
-    },
-    {
       "video_id": "-0d7nZ6rh-o",
       "title": "🚀 Master Custom Metadata #shorts #salesforce",
       "topic": "",
@@ -3832,6 +3813,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-01T20:47:10.125321+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "HTli_JZK-z4",
+      "title": "Boost Skills 400% with AI #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "connections2026",
+        "agenticai",
+        "agentforcemarketing",
+        "salesforcedeveloper",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-02T01:31:05.586662+00:00",
       "stats": null
     }
   ]
