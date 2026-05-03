@@ -1,24 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "v02TuhfGsaY",
-      "title": "🚀 80% of Admins Miss This Experience Cloud Trick #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "experiencecloud",
-        "salesforceexperiencecloud",
-        "cloudcomputing",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-30T06:04:51.583138+00:00",
-      "stats": null
-    },
-    {
       "video_id": "YPpxMbPYGJA",
       "title": "80% of Admins Make This Platform Event Mistake 🚨 #shorts #salesforce",
       "topic": "",
@@ -3837,6 +3819,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-03T09:20:43.254473+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "7opov4EAcDE",
+      "title": "Boost Trust with My Trust Center 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "mytrustcenter",
+        "salesforceadmin",
+        "trustcenter",
+        "salesforcepodcast",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-03T12:45:22.740784+00:00",
       "stats": null
     }
   ]
