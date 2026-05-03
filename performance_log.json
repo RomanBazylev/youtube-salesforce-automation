@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "O_NzKkXNMqc",
-      "title": "💡 90% of SOQL Queries Fail #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "soql",
-        "admin",
-        "developer",
-        "query",
-        "performance",
-        "security",
-        "shorts",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-29T16:28:32.202720+00:00",
-      "stats": null
-    },
-    {
       "video_id": "XDwRLT1_cDM",
       "title": "Apex Triggers Gotchas 🚨 #shorts #salesforce",
       "topic": "",
@@ -3836,6 +3816,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-02T20:36:27.161541+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "IOKg07e-DsE",
+      "title": "Unlock AI Workflows 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "automation",
+        "agentforcegrid",
+        "salesforceai",
+        "adminpodcast",
+        "crm",
+        "trailblazer"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-03T01:33:39.564223+00:00",
       "stats": null
     }
   ]
