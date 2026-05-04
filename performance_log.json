@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "PSf6DXlEs7s",
-      "title": "Einstein AI Boost: 87% of Users Miss This Setting 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "einsteinai",
-        "admin",
-        "shorts",
-        "salesforceconsultant",
-        "salesforceadmin",
-        "einsteinanalytics",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-31T08:53:57.657681+00:00",
-      "stats": null
-    },
-    {
       "video_id": "rewL1g-KtmM",
       "title": "💻 80% of Consultants Use Screen Flows Incorrectly #shorts #salesforce",
       "topic": "",
@@ -3846,6 +3827,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-04T13:25:04.429223+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "GYZSVwZJU9I",
+      "title": "AI Writes 80% of Salesforce Code 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "development",
+        "automation",
+        "riskmanagement",
+        "crm",
+        "trailblazer"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-04T17:29:15.870031+00:00",
       "stats": null
     }
   ]
