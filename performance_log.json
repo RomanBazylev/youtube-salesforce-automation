@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "x6YBQMlxMNQ",
-      "title": "💡 70% of Integrations Fail #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "integration",
-        "architecture",
-        "api",
-        "apex",
-        "workflow",
-        "admin",
-        "shorts",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-03-31T05:39:34.425934+00:00",
-      "stats": null
-    },
-    {
       "video_id": "PSf6DXlEs7s",
       "title": "Einstein AI Boost: 87% of Users Miss This Setting 🚀 #shorts #salesforce",
       "topic": "",
@@ -3845,6 +3825,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-04T10:12:32.671807+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "CkHSA8FTMaQ",
+      "title": "🚀 Boost Salesforce Success #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "domain knowledge",
+        "consultant",
+        "business analyst",
+        "implementation",
+        "success",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-04T13:25:04.429223+00:00",
       "stats": null
     }
   ]
