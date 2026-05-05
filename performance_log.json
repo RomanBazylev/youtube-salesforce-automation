@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "LkuKO1Nmg5w",
-      "title": "Automate with Custom Metadata #shorts #salesforce 💻",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "custom metadata",
-        "automation",
-        "productivity",
-        "workflow",
-        "salesforce tips",
-        "crm",
-        "trailblazer"
-      ],
-      "uploaded_at": "2026-04-01T09:02:31.681423+00:00",
-      "stats": null
-    },
-    {
       "video_id": "UjFWHYlVT00",
       "title": "🚀 Pass Service Cloud Exam #shorts #salesforce",
       "topic": "",
@@ -3851,6 +3832,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-05T13:11:56.887757+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "uDu8Z27uiAM",
+      "title": "10x Your AI Agent 💻 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "customer_service",
+        "salesforce_architect",
+        "conversation_design",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-05T17:22:46.890364+00:00",
       "stats": null
     }
   ]
