@@ -1,24 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "JmVVA_DH3ys",
-      "title": "Automate 80% of Tasks 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "custom metadata types",
-        "automation",
-        "productivity",
-        "salesforce tips",
-        "crm",
-        "trailblazer"
-      ],
-      "uploaded_at": "2026-04-01T05:59:49.331665+00:00",
-      "stats": null
-    },
-    {
       "video_id": "LkuKO1Nmg5w",
       "title": "Automate with Custom Metadata #shorts #salesforce 💻",
       "topic": "",
@@ -3849,6 +3831,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-05T10:06:13.982293+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "BgZ4Sk1XcN8",
+      "title": "Scale AI Workflows 10x Faster 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "agentforce",
+        "workflow",
+        "automation",
+        "salesforceadmin",
+        "crm",
+        "trailblazer"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-05T13:11:56.887757+00:00",
       "stats": null
     }
   ]
