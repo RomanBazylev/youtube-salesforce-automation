@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "tTH3FJDDA4s",
-      "title": "🚀 80% of Marketers Use This #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "marketingcloud",
-        "salesforceadmin",
-        "salesforcetips",
-        "marketingautomation",
-        "salesforceconsultant",
-        "marketingsolutions",
-        "shorts",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-04-02T12:47:48.750721+00:00",
-      "stats": null
-    },
-    {
       "video_id": "2_TvROSEwhY",
       "title": "💡 70% Fail #Salesforce Certs Due to Custom Objects 📊 #shorts #salesforce",
       "topic": "",
@@ -3864,6 +3843,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-06T13:31:01.619235+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "vKJJhKhIoDM",
+      "title": "Boost Org Visibility 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "mytrustcenter",
+        "salesforceupdates",
+        "releaseweek",
+        "trustandstatus",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-06T17:26:53.220961+00:00",
       "stats": null
     }
   ]
