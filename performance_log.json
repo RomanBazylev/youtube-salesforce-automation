@@ -1,24 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "uT56EckKrxg",
-      "title": "💻 75% of Admins Miss This Custom Object Trick #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "customobjects",
-        "productivityhacks",
-        "salesforceadmin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-04-03T20:34:37.846959+00:00",
-      "stats": null
-    },
-    {
       "video_id": "xSKVnV9P5_Y",
       "title": "Automate 80% of tasks 🚀 #shorts #salesforce",
       "topic": "",
@@ -3871,6 +3853,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-08T06:01:45.321582+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "lpvNOXZ-v40",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-08T09:19:36.009990+00:00",
       "stats": null
     }
   ]
