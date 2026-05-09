@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "eRw3Ozde1ZY",
-      "title": "🚀 80% of devs use Marketing Cloud wrong 🤦‍♂️ #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "marketingcloud",
-        "salesforceadmin",
-        "salesforcedeveloper",
-        "configvscode",
-        "marketingautomation",
-        "salesforcebestpractices",
-        "shorts",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-04-04T20:26:14.727783+00:00",
-      "stats": null
-    },
-    {
       "video_id": "iFZvV0sDi5M",
       "title": "🚨 80% of Admins Make This Mistake 🤦‍♂️ #shorts #salesforce",
       "topic": "",
@@ -3872,6 +3851,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-09T09:13:58.651916+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "L5KMClBqUpo",
+      "title": "83% Want Unified Shop Experience 🛍️ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "pointofsale",
+        "customerexperience",
+        "salesforcecommerce",
+        "omnichannel",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-09T12:52:40.568967+00:00",
       "stats": null
     }
   ]
