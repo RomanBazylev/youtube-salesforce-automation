@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "iFZvV0sDi5M",
-      "title": "🚨 80% of Admins Make This Mistake 🤦‍♂️ #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceconsultant",
-        "permissionsets",
-        "salesforcesecurity",
-        "salesforcebestpractices",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-04-05T01:16:34.331344+00:00",
-      "stats": null
-    },
-    {
       "video_id": "luThUA3cqRk",
       "title": "Boost Performance with Permission Sets 💻 #shorts #salesforce",
       "topic": "",
@@ -3871,6 +3852,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-09T12:52:40.568967+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "TwFNhcPfscQ",
+      "title": "Boost Salesforce Skills 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "marketing",
+        "commerce",
+        "connections2026",
+        "digital360",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-09T16:44:24.004766+00:00",
       "stats": null
     }
   ]
