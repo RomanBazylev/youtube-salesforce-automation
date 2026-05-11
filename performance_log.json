@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "RNer_-Ndqjg",
-      "title": "🔒 1 Setting to Boost Salesforce Security #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "security",
-        "settings",
-        "permissions",
-        "profiles",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-04-06T16:41:52.601914+00:00",
-      "stats": null
-    },
-    {
       "video_id": "vjPcxVXVVeI",
       "title": "Fix 80% of Cases with 1 Click 🚀 #shorts #salesforce",
       "topic": "",
@@ -3880,6 +3861,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-11T07:04:26.543239+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "hxWEmARKTNc",
+      "title": "TDX 2026: 5 Admin Tips 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "TDX2026",
+        "salesforceadmin",
+        "trailhead",
+        "salesforcearchitect",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-11T10:57:36.232964+00:00",
       "stats": null
     }
   ]
