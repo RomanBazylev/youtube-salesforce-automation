@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "ZEsBy_EPUzQ",
-      "title": "🔒 Lockdown: 75% of orgs misuse Security #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "security",
-        "config",
-        "code",
-        "salesforce developer",
-        "salesforce admin",
-        "shorts",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-04-07T01:15:44.852508+00:00",
-      "stats": null
-    },
-    {
       "video_id": "M69_qHftFtw",
       "title": "🚀 Master Permission Sets #shorts #salesforce",
       "topic": "",
@@ -3882,6 +3862,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-11T14:25:02.095610+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "WWOP56nb16M",
+      "title": "Email Accessibility 📊 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "emailmarketing",
+        "accessibility",
+        "salesforceconsultant",
+        "emailtemplates",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-11T17:57:20.576977+00:00",
       "stats": null
     }
   ]
