@@ -37,7 +37,7 @@ OUTPUT_PATH = BUILD_DIR / "output_salesforce_long.mp4"
 
 TARGET_W, TARGET_H = 1280, 720
 FPS = 30
-FFMPEG_PRESET = "medium"
+FFMPEG_PRESET = "ultrafast"
 FFMPEG_CRF = "23"
 
 # Voice rotation for variety
@@ -396,7 +396,7 @@ def _download_file(url: str, dest: Path):
                 f.write(chunk)
 
 
-def download_clips(extra_queries: list = None, target: int = 35) -> list:
+def download_clips(extra_queries: list = None, target: int = 20) -> list:
     api_key = os.getenv("PEXELS_API_KEY")
     if not api_key:
         print("[WARN] No PEXELS_API_KEY")
