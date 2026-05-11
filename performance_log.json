@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "vjPcxVXVVeI",
-      "title": "Fix 80% of Cases with 1 Click 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "servicecloud",
-        "admin",
-        "shorts",
-        "salesforcedeveloper",
-        "servicenow",
-        "customerexperience",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-04-06T20:35:04.334866+00:00",
-      "stats": null
-    },
-    {
       "video_id": "ZEsBy_EPUzQ",
       "title": "🔒 Lockdown: 75% of orgs misuse Security #shorts #salesforce",
       "topic": "",
@@ -3881,6 +3862,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-11T10:57:36.232964+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "hoa3guNYlww",
+      "title": "Unlock AWU 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "agenticworkunit",
+        "awu",
+        "salesforceconsultant",
+        "productivityhacks",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-11T14:25:02.095610+00:00",
       "stats": null
     }
   ]
