@@ -1,21 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "8qDz-wA1Hto",
-      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "soql",
-        "apex",
-        "developer",
-        "performance",
-        "shorts"
-      ],
-      "uploaded_at": "2026-04-07T08:58:23.139447+00:00",
-      "stats": null
-    },
-    {
       "video_id": "7XfdGFJMM1E",
       "title": "🚀 Boost Productivity with LWC #shorts #salesforce",
       "topic": "",
@@ -3882,6 +3867,28 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-11T21:16:16.974934+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "bCLD1oFNuzk",
+      "title": "Scale with MuleSoft Omni Gateway 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "mulesoft",
+        "omnigateway",
+        "api",
+        "governance",
+        "integration",
+        "admin",
+        "architecture",
+        "shorts",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-12T01:39:55.693285+00:00",
       "stats": null
     }
   ]
