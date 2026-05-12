@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "qsuFu_iPGd4",
-      "title": "Salesforce Formulas 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "formulas",
-        "config",
-        "development",
-        "salesforceadmin",
-        "salesforcelearning",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-04-08T05:53:03.891578+00:00",
-      "stats": null
-    },
-    {
       "video_id": "E1I1UZYXr-s",
       "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
       "topic": "",
@@ -3893,6 +3873,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-12T17:58:07.581080+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "-rDB_GPeby4",
+      "title": "AI in Salesforce 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforceai",
+        "startup",
+        "communication",
+        "salesforcetips",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-12T21:17:00.698669+00:00",
       "stats": null
     }
   ]
