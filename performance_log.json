@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "MR6-SvwOVkc",
-      "title": "Optimize SOQL 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "soql",
-        "performance",
-        "optimization",
-        "query",
-        "development",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-04-08T17:01:40.047930+00:00",
-      "stats": null
-    },
-    {
       "video_id": "2TkYhmpLISY",
       "title": "Einstein AI Hacks 🚀 #shorts #salesforce",
       "topic": "",
@@ -3898,6 +3878,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-13T01:56:11.815455+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "HCJuuLO-4uk",
+      "title": "Simplify Automation 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "automation",
+        "salesforce tips",
+        "admin tips",
+        "salesforce automation",
+        "crm",
+        "trailblazer"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-13T06:48:46.037692+00:00",
       "stats": null
     }
   ]
