@@ -1,24 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "yVOC1BAli8o",
-      "title": "Automate Reports in 5 Mins 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "reports",
-        "dashboards",
-        "automation",
-        "productivity",
-        "crm",
-        "trailblazer"
-      ],
-      "uploaded_at": "2026-04-09T20:46:28.401744+00:00",
-      "stats": null
-    },
-    {
       "video_id": "rUuotnmoWuc",
       "title": "LWC Tips 🚀 #shorts #salesforce",
       "topic": "",
@@ -3902,6 +3884,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-14T10:12:51.751249+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "W0FYgHGs6do",
+      "title": "💻 80% of Agents Use Headless 360! #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "headless360",
+        "integration",
+        "architecture",
+        "salesforceconsultant",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-14T17:37:54.774522+00:00",
       "stats": null
     }
   ]
