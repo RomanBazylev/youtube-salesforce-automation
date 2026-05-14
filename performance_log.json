@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "TBfTUdRWvU8",
-      "title": "Unlock 99% Admin Productivity 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "productivity",
-        "permissionsets",
-        "salesforcearchitect",
-        "cloudcomputing",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-04-09T09:04:27.924323+00:00",
-      "stats": null
-    },
-    {
       "video_id": "YAoN25f_RhU",
       "title": "Unlock Platform Events 🚀 #shorts #salesforce",
       "topic": "",
@@ -3896,6 +3877,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-13T21:22:28.761070+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "JAmdlasdeJA",
+      "title": "Boost Salesforce Security 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "security",
+        "shorts",
+        "workshop",
+        "salesforceadmin",
+        "orgsecurity",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-14T01:58:49.481953+00:00",
       "stats": null
     }
   ]
