@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "EI7hSUBb2jo",
-      "title": "Debunking Experience Cloud Myths 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "experiencecloud",
-        "salesforcearchitect",
-        "mythbusting",
-        "salesforceadmin",
-        "cloudcomputing",
-        "salesforcepro",
-        "shorts",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-04-10T09:09:32.547111+00:00",
-      "stats": null
-    },
-    {
       "video_id": "o0DYfnQ8Vcw",
       "title": "Apex Triggers 🚀 #shorts #salesforce",
       "topic": "",
@@ -3904,6 +3883,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-14T21:08:21.793502+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "glJCx-Agehk",
+      "title": "🚀 70% of Salesforce tasks automated by 2027? #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "AI",
+        "automation",
+        "consultant",
+        "crm",
+        "implementation",
+        "trailblazer"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-15T01:57:30.020197+00:00",
       "stats": null
     }
   ]
