@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "o0DYfnQ8Vcw",
-      "title": "Apex Triggers 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "apex",
-        "triggers",
-        "development",
-        "productivity",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-04-10T12:48:00.380575+00:00",
-      "stats": null
-    },
-    {
       "video_id": "ByvBKUeWibQ",
       "title": "Boost Performance with Custom Metadata 🚀 #shorts #salesforce",
       "topic": "",
@@ -3902,6 +3883,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-15T01:57:30.020197+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "biO9eeaGAkc",
+      "title": "🚀 80% of Salesforce Admins Use AI Wrong 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "einsteinanalytics",
+        "ai",
+        "machinelearning",
+        "salesforceconsultant",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-15T10:18:23.446086+00:00",
       "stats": null
     }
   ]
