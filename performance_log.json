@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "fRffsQFurwg",
-      "title": "🚀 93% of orgs misuse OWD #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "security",
-        "owd",
-        "permissions",
-        "setup",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-04-11T20:26:34.133462+00:00",
-      "stats": null
-    },
-    {
       "video_id": "BEtZPHGmvpE",
       "title": "💡 Secure Salesforce in 5 mins 🕒 #shorts #salesforce",
       "topic": "",
@@ -3907,6 +3888,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-16T12:59:59.293315+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "109e6cpPzA4",
+      "title": "Salesforce for Schools 📚 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "education",
+        "ai",
+        "reskilling",
+        "philanthropy",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-16T16:52:01.032593+00:00",
       "stats": null
     }
   ]
