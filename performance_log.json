@@ -1,24 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "HTEX_Hs5UiU",
-      "title": "Sandbox Automation 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "sandbox",
-        "automation",
-        "productivity",
-        "management",
-        "crm",
-        "trailblazer"
-      ],
-      "uploaded_at": "2026-04-12T08:43:57.906356+00:00",
-      "stats": null
-    },
-    {
       "video_id": "RGoedNgOcQ4",
       "title": "🚨 80% of Admins Make This Validation Rule Mistake 🚨 #shorts #salesforce",
       "topic": "",
@@ -3911,6 +3893,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-17T01:55:07.184207+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "TVxFdrm4Omg",
+      "title": "40% of Salesforce Jobs Require AI Skills 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "ai",
+        "admin",
+        "shorts",
+        "salesforceben",
+        "interview",
+        "jobs",
+        "careers",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-17T06:45:49.076638+00:00",
       "stats": null
     }
   ]
