@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "UAQnBzfsAdI",
-      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "flowbuilder",
-        "automation",
-        "shorts",
-        "trailblazer",
-        "crm"
-      ],
-      "uploaded_at": "2026-04-13T09:33:23.750093+00:00",
-      "stats": null
-    },
-    {
       "video_id": "8JKR2QmvaHU",
       "title": "Optimize SOQL: 1 Setting 🚀 #shorts #salesforce",
       "topic": "",
@@ -3915,6 +3899,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-18T02:03:05.930714+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Q9pGymMkjC0",
+      "title": "💼 80% of Salesforce Jobs Require Soft Skills 📈 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforcejobs",
+        "softskills",
+        "careeradvice",
+        "salesforceconsultant",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-18T08:00:07.364562+00:00",
       "stats": null
     }
   ]
