@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "1dBJUdHo7Js",
-      "title": "Boost Screen Flows 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "screenflows",
-        "certification",
-        "salesforcecertification",
-        "admin tips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-04-14T06:01:10.665734+00:00",
-      "stats": null
-    },
-    {
       "video_id": "EOVKc28Mohg",
       "title": "Unlock 90% Hidden Feature 🚀 #shorts #salesforce",
       "topic": "",
@@ -3918,6 +3899,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-18T17:58:05.312626+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "b9XrzIeHOQI",
+      "title": "🚀 Boost Salesforce Security #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "security",
+        "compliance",
+        "resilience",
+        "customer zero",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-18T21:08:29.858435+00:00",
       "stats": null
     }
   ]
