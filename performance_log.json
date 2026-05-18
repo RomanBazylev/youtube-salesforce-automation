@@ -1,24 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "ZKdC4gvbccg",
-      "title": "Master Dynamic Forms 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "dynamicforms",
-        "salesforceconsultant",
-        "crm",
-        "salesforceadmin",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-04-13T06:16:26.075622+00:00",
-      "stats": null
-    },
-    {
       "video_id": "UAQnBzfsAdI",
       "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
       "topic": "",
@@ -3914,6 +3896,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-17T20:47:10.956733+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "GVjH8B2lOP4",
+      "title": "🚀 Boost Productivity 30% with Patterns #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "productivity",
+        "salesforceadmin",
+        "patternrecognition",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-18T02:03:05.930714+00:00",
       "stats": null
     }
   ]
