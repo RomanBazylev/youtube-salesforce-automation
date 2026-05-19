@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Wr39r-l0grM",
-      "title": "Unlock 90% Hidden Formula Fields 💡 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "formulafields",
-        "salesforceadmin",
-        "businessanalyst",
-        "crmsolutions",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-04-14T17:00:54.833790+00:00",
-      "stats": null
-    },
-    {
       "video_id": "y6KA1m0QJqg",
       "title": "Automate 80% of Data Entry 🚀 #shorts #salesforce",
       "topic": "",
@@ -3921,6 +3902,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-19T07:42:45.837697+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "tR8DOjA6Xgo",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-19T11:00:06.155777+00:00",
       "stats": null
     }
   ]
