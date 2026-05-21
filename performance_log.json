@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "um3vGQivGnI",
-      "title": "Einstein AI Tips 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "einsteinai",
-        "certification",
-        "salesforceadmin",
-        "ai",
-        "machinelearning",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "uploaded_at": "2026-04-16T20:43:16.428426+00:00",
-      "stats": null
-    },
-    {
       "video_id": "4W0fsASTL60",
       "title": "Unlock My Trust Center 🚀 #shorts #salesforce",
       "topic": "",
@@ -3931,6 +3911,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-21T11:05:03.907887+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "thRtEGA1VL0",
+      "title": "📈 Boost Sales with Pinterest #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "pinterest",
+        "marketing",
+        "smallbusiness",
+        "salesgrowth",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-21T14:38:33.292064+00:00",
       "stats": null
     }
   ]
