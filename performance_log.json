@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "bs-4UAkAjw8",
-      "title": "💸 80% of Salesforce Users Lack Connected Stacks #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "connectedstack",
-        "salesforceben",
-        "integration",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-18T01:16:25.154593+00:00",
-      "stats": null
-    },
-    {
       "video_id": "BMN8oawLrzU",
       "title": "Boost Productivity 30% 🚀 #shorts #salesforce",
       "topic": "",
@@ -3929,6 +3910,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-22T14:13:33.527470+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "QGFazeLs9M0",
+      "title": "Salesforce AI in Every Search Bar 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "AI",
+        "Agentforce",
+        "Coworker",
+        "CRM",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-22T17:38:58.138235+00:00",
       "stats": null
     }
   ]
