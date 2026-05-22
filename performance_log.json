@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "ICQtlVCiss8",
-      "title": "💡 6-Week AI Puzzle App #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "puzzle",
-        "app",
-        "scalable",
-        "milliondollar",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-17T12:53:58.979371+00:00",
-      "stats": null
-    },
-    {
       "video_id": "ss6bxvp48yc",
       "title": "Boost Trust with My Trust Center 🚀 #shorts #salesforce",
       "topic": "",
@@ -3934,6 +3913,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-22T02:02:34.179247+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "aoyBQFjbexM",
+      "title": "🚀 AI Shopping: 3 Salesforce Tips #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "llm",
+        "shopping",
+        "marketing",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-22T07:42:42.431978+00:00",
       "stats": null
     }
   ]
