@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "oGZCCK9eYA8",
-      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "permission sets",
-        "profiles",
-        "admin",
-        "security",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-18T08:43:27.965692+00:00",
-      "stats": null
-    },
-    {
       "video_id": "mc-l3dYeF8E",
       "title": "Salesforce Earth Month 🌎 #shorts #salesforce",
       "topic": "",
@@ -3929,6 +3913,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-22T21:09:37.573903+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "ziVw5tfOqrQ",
+      "title": "5 Email Myths Debunked 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "emailmarketing",
+        "sfblog",
+        "salesforcedeveloper",
+        "marketingautomation",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-23T01:53:13.294544+00:00",
       "stats": null
     }
   ]
