@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "mKhFiI24_d0",
-      "title": "TDX 2026 Tips 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "TDX",
-        "salesforce admin",
-        "trailhead",
-        "salesforce tips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-18T16:32:51.072749+00:00",
-      "stats": null
-    },
-    {
       "video_id": "5b7qfuLcgs8",
       "title": "💻 80% of Devs Use Web Console #shorts #salesforce",
       "topic": "",
@@ -3933,6 +3913,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-23T06:37:21.665084+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "fLxfOOP0jsM",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-23T09:42:37.290572+00:00",
       "stats": null
     }
   ]
