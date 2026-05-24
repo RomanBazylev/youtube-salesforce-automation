@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Bfyb_z-K1RU",
-      "title": "Boost Salesforce Productivity 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "TDX2026",
-        "Agentforce",
-        "Slack",
-        "productivity",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-20T06:16:59.366973+00:00",
-      "stats": null
-    },
-    {
       "video_id": "YKs0FVMWk54",
       "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
       "topic": "",
@@ -3931,6 +3911,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-24T16:55:19.430185+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "W3nJCY8qaB0",
+      "title": "Simplify Automation 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "automation",
+        "salesforcearchitect",
+        "agentforcebuilder",
+        "technicaldebt",
+        "crm",
+        "trailblazer"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-24T20:48:29.812833+00:00",
       "stats": null
     }
   ]
