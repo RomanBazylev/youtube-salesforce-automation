@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "U5WD_zl_EDo",
-      "title": "10 CRM Red Flags 🚨 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "crm",
-        "upgradetime",
-        "salesforcearchitect",
-        "sfblog",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-21T16:55:00.248173+00:00",
-      "stats": null
-    },
-    {
       "video_id": "4vUYwH2VstM",
       "title": "Clean Data in 5 Steps 🚀 #shorts #salesforce",
       "topic": "",
@@ -3933,6 +3914,28 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-26T14:37:19.569408+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "ddWJQh40K3g",
+      "title": "🚀 Boost B2C Commerce with Storefront Next #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "b2c",
+        "commerce",
+        "storefrontnext",
+        "agilecommerce",
+        "salesforceadmin",
+        "salesforcecommerce",
+        "shorts",
+        "admin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-26T18:22:37.218043+00:00",
       "stats": null
     }
   ]
