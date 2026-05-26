@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "4vUYwH2VstM",
-      "title": "Clean Data in 5 Steps 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "cleanData",
-        "salesforceBen",
-        "dataValidation",
-        "salesforceTips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-21T20:52:45.032690+00:00",
-      "stats": null
-    },
-    {
       "video_id": "TwISF9Attpw",
       "title": "Boost Email Opens 25% 🚀 #shorts #salesforce",
       "topic": "",
@@ -3936,6 +3916,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-26T18:22:37.218043+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "1Xy1Jjo-fTE",
+      "title": "Boost Productivity 30% with Patterns 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "productivity",
+        "patternrecognition",
+        "salesforceadmin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-26T21:30:19.781012+00:00",
       "stats": null
     }
   ]
