@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "lZtK7ISY22M",
-      "title": "6 New Salesforce Innovations 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "tdx2026",
-        "salesforcedev",
-        "innovation",
-        "development",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-22T06:02:36.473558+00:00",
-      "stats": null
-    },
-    {
       "video_id": "KZ2puknbSXw",
       "title": "Unlock App Studio 🚀 #shorts #salesforce",
       "topic": "",
@@ -3934,6 +3914,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-27T02:08:43.214386+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "DcyNmr30e8w",
+      "title": "Secure Your Org 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "security",
+        "salesforceadmin",
+        "tdx2026",
+        "proactive security",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-27T08:00:58.585569+00:00",
       "stats": null
     }
   ]
