@@ -1,28 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "TwISF9Attpw",
-      "title": "Boost Email Opens 25% 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "emailmarketing",
-        "salesforceadmin",
-        "marketingcloud",
-        "salesforceconsultant",
-        "emailopenrates",
-        "salesforcepro",
-        "shorts",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-22T01:21:56.365806+00:00",
-      "stats": null
-    },
-    {
       "video_id": "lZtK7ISY22M",
       "title": "6 New Salesforce Innovations 🚀 #shorts #salesforce",
       "topic": "",
@@ -3935,6 +3913,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-26T21:30:19.781012+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "BYZWSrYeZO0",
+      "title": "Salesforce Vibe Coding Risks 🚨 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "vibe coding",
+        "llm",
+        "coding companion",
+        "salesforceben",
+        "Karpathy",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-27T02:08:43.214386+00:00",
       "stats": null
     }
   ]
