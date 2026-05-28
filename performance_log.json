@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "9NTbnpqRiqs",
-      "title": "79% Of Top Teams Use This Salesforce Trick 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "deduplication",
-        "dataquality",
-        "salesforcedevelopment",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-23T01:27:32.895636+00:00",
-      "stats": null
-    },
-    {
       "video_id": "E7R58xkjQ5M",
       "title": "TDX Sneak Peek: Hybrid Visual Editing 🚀 #shorts #salesforce",
       "topic": "",
@@ -3935,6 +3916,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-27T21:39:14.406130+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "D6yMUzBW38A",
+      "title": "🚀 Boost Org Security 40% with Health Check #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "healthcheck",
+        "security",
+        "salesforceorg",
+        "performance",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-28T01:37:43.014866+00:00",
       "stats": null
     }
   ]
