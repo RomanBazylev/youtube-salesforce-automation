@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "DAl2Q-ifN30",
-      "title": "🚨 75% of Salesforce Orgs Vulnerable to Claude Mythos Breach 🚨 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "security",
-        "mythos",
-        "breach",
-        "salesforceben",
-        "anthropic",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-23T13:03:35.440671+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Ee4ea0NLKVQ",
       "title": "21 Salesforce AI Papers 🚀 #shorts #salesforce",
       "topic": "",
@@ -3938,6 +3917,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-28T11:32:43.484101+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "5uyFaYCFxBo",
+      "title": "Boost Career 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "trailblazer",
+        "careeradvice",
+        "salesforcecareers",
+        "trailhead",
+        "crm",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-28T15:07:07.102036+00:00",
       "stats": null
     }
   ]
