@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Ee4ea0NLKVQ",
-      "title": "21 Salesforce AI Papers 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "iclr2026",
-        "salesforceai",
-        "research",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-23T17:19:31.031149+00:00",
-      "stats": null
-    },
-    {
       "video_id": "R8oauShZt4Y",
       "title": "🚨 80% of Devs Miss This: AgentExchange #shorts #salesforce",
       "topic": "",
@@ -3936,6 +3916,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-28T15:07:07.102036+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "c5wruIYdbFk",
+      "title": "Boost Salesforce Skills 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "productivity",
+        "salesforceTips",
+        "workflow",
+        "optimization",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-28T18:35:24.316445+00:00",
       "stats": null
     }
   ]
