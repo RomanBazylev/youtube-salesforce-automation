@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "zRNiVSzaPeU",
-      "title": "💸 Salesforce Spend Rises 3% in 3 Months! #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "trailblazerdx",
-        "salesforcestock",
-        "saas",
-        "cloudcomputing",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-24T06:10:13.665694+00:00",
-      "stats": null
-    },
-    {
       "video_id": "zMnNgbEfMs0",
       "title": "🚀 Boost AI in Salesforce #shorts #salesforce",
       "topic": "",
@@ -3937,6 +3917,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-28T21:55:22.129600+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "DDmqvaSWHLg",
+      "title": "🚀 70% of Firms Fail Vibe Coding #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "financialservices",
+        "regulatorycompliance",
+        "vibecoding",
+        "salesforceconsultant",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-29T02:00:59.518060+00:00",
       "stats": null
     }
   ]
