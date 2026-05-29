@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "zMnNgbEfMs0",
-      "title": "🚀 Boost AI in Salesforce #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "salesforceadmin",
-        "salesforceai",
-        "locoBench",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-24T09:30:27.712773+00:00",
-      "stats": null
-    },
-    {
       "video_id": "d_mgHkGWusA",
       "title": "Unlock Agentforce 🚀 #shorts #salesforce",
       "topic": "",
@@ -3937,6 +3917,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-29T02:00:59.518060+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "FmjP9gdxoW0",
+      "title": "💻 1,000 AI Jobs at Salesforce #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforcecareers",
+        "aitrends",
+        "techjobs",
+        "careeradvice",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-29T07:52:03.085620+00:00",
       "stats": null
     }
   ]
