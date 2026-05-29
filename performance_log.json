@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "FdelsLdmJKw",
-      "title": "🚀 Protect Customer Data #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "security",
-        "data protection",
-        "customer info",
-        "salesforce tips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-25T01:20:07.699094+00:00",
-      "stats": null
-    },
-    {
       "video_id": "neQr10dLUmA",
       "title": "Summer '26 Salesforce Updates 🚀 #shorts #salesforce",
       "topic": "",
@@ -3933,6 +3913,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-29T18:34:48.135272+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "yoWKXPVXTNg",
+      "title": "Secure Salesforce Data 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "security",
+        "datadetect",
+        "salesforceadmin",
+        "customerzero",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-29T21:38:03.583357+00:00",
       "stats": null
     }
   ]
