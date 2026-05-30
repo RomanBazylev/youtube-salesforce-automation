@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Cs_Ccgv56_8",
-      "title": "💸 Salesforce Stock Drops 9%: Act Now! #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "stockmarket",
-        "servicenow",
-        "crm",
-        "saas",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-25T20:34:08.694637+00:00",
-      "stats": null
-    },
-    {
       "video_id": "hfHJ17s5f4M",
       "title": "Boost Admin Efficiency 30% with Agent Script 🚀 #shorts #salesforce",
       "topic": "",
@@ -3930,6 +3911,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-30T13:06:11.204807+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "OWlkP8HgTJc",
+      "title": "Boost AI Skills 300% 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforceconnections",
+        "ai",
+        "marketing",
+        "salesforcelearning",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-30T16:56:33.130820+00:00",
       "stats": null
     }
   ]
