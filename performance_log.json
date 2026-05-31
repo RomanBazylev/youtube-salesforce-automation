@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "JWvOmLXpIkY",
-      "title": "🚀 Boost Admin Productivity with Agent Script #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "agentscript",
-        "adminproductivity",
-        "salesforceadmins",
-        "AI solutions",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-26T16:36:57.670567+00:00",
-      "stats": null
-    },
-    {
       "video_id": "vDsE5OAk5pU",
       "title": "Boost Trust with 90% Transparency #shorts #salesforce",
       "topic": "",
@@ -3927,6 +3907,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-31T10:13:57.031889+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "vFLXVXVjnng",
+      "title": "AI Model Transparency 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "modelcards",
+        "transparency",
+        "salesforceblog",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-31T13:14:19.761449+00:00",
       "stats": null
     }
   ]
