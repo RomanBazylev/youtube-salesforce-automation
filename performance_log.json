@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "XOwSLdZwPiQ",
-      "title": "Boost Agent Productivity 30% 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "agentforce",
-        "productivity",
-        "metadata",
-        "workflow",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-26T06:06:51.483095+00:00",
-      "stats": null
-    },
-    {
       "video_id": "dQVT--GoiJk",
       "title": "Summer '26 Release: 8 Dev Features 🚀 #shorts #salesforce",
       "topic": "",
@@ -3930,6 +3910,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-30T20:51:20.446341+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "vcSLJ4SAK38",
+      "title": "Upskill 70% Faster 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforcelearning",
+        "salesforceecosystem",
+        "upsell",
+        "reskill",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-31T02:07:01.650334+00:00",
       "stats": null
     }
   ]
