@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "vDsE5OAk5pU",
-      "title": "Boost Trust with 90% Transparency #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "mytrustcenter",
-        "salesforceadmin",
-        "trustcenter",
-        "releaseplanning",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-26T20:32:11.949535+00:00",
-      "stats": null
-    },
-    {
       "video_id": "jRghCXXH25k",
       "title": "Boost Trust with My Trust Center 🚀 #shorts #salesforce",
       "topic": "",
@@ -3927,6 +3907,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-31T13:14:19.761449+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "KK8c0DQMHlE",
+      "title": "Headless AI on Salesforce 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "headless",
+        "governance",
+        "architecture",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-05-31T17:00:46.675724+00:00",
       "stats": null
     }
   ]
