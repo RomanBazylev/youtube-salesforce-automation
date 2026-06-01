@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "ZDqo7Mx520Q",
-      "title": "Free vs Paid CRM: 80% Choose Wrong 🤯 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "crm",
-        "admin",
-        "business",
-        "sales",
-        "marketing",
-        "technology",
-        "shorts",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-27T10:10:12.692608+00:00",
-      "stats": null
-    },
-    {
       "video_id": "XMZBZP_11MA",
       "title": "🚀 Automate 80% of Coding Tasks with AI #shorts #salesforce",
       "topic": "",
@@ -3930,6 +3910,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-01T02:16:21.595867+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "dtcX3-6eDeQ",
+      "title": "6 Salesforce Roles Evolving with AI 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "careers",
+        "cloud",
+        "tech",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-01T09:16:24.031646+00:00",
       "stats": null
     }
   ]
