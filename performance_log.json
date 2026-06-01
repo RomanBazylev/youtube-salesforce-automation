@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "XMZBZP_11MA",
-      "title": "🚀 Automate 80% of Coding Tasks with AI #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "coding",
-        "automation",
-        "productivity",
-        "crm",
-        "trailblazer"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-27T13:22:15.736691+00:00",
-      "stats": null
-    },
-    {
       "video_id": "N-TNzwbdZDI",
       "title": "Boost Incident Response 🚀 #shorts #salesforce",
       "topic": "",
@@ -3930,6 +3911,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-01T09:16:24.031646+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "MXM4_Ac6HgU",
+      "title": "🔒 Passkeys Required for 80% of Users by July 1 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "MFA",
+        "passkeys",
+        "security",
+        "salesforceben",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-01T17:16:10.921193+00:00",
       "stats": null
     }
   ]
