@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "mT-x5TfZ3nk",
-      "title": "Summer '26 Release 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "summer26",
-        "release",
-        "sfadmin",
-        "salesforceupdate",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-27T06:32:08.014385+00:00",
-      "stats": null
-    },
-    {
       "video_id": "ZDqo7Mx520Q",
       "title": "Free vs Paid CRM: 80% Choose Wrong 🤯 #shorts #salesforce",
       "topic": "",
@@ -3928,6 +3908,28 @@
       ],
       "format": "short",
       "uploaded_at": "2026-05-31T20:53:25.813342+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Z0d5ov2uoq8",
+      "title": "🚀 Boost AI with Data 360 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "data360",
+        "ai",
+        "semanticlayer",
+        "governeddata",
+        "salesforceadmin",
+        "salesforceconsultant",
+        "shorts",
+        "admin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-01T02:16:21.595867+00:00",
       "stats": null
     }
   ]
