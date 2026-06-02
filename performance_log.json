@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "vHOb1E5weGg",
-      "title": "🚨 $41B Chargeback Crisis 🚨 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "chargeback",
-        "disputesmanagement",
-        "finances",
-        "banking",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-28T13:28:22.749722+00:00",
-      "stats": null
-    },
-    {
       "video_id": "gWWKK9UdSAw",
       "title": "Slack vs Microsoft: 5 Salesforce Tips 🚀 #shorts #salesforce",
       "topic": "",
@@ -3931,6 +3911,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-02T19:40:04.446517+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "FNdSvSx0Un8",
+      "title": "Unlock Agentforce 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "agentforce",
+        "setup",
+        "tdx2026",
+        "salesforceadmin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-02T22:23:55.745674+00:00",
       "stats": null
     }
   ]
