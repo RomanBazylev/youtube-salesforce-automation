@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "jYW1LM7KwFY",
-      "title": "Boost Doc Management 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "document management",
-        "eSignature",
-        "salesforce native",
-        "compliance",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-28T10:11:25.747354+00:00",
-      "stats": null
-    },
-    {
       "video_id": "vHOb1E5weGg",
       "title": "🚨 $41B Chargeback Crisis 🚨 #shorts #salesforce",
       "topic": "",
@@ -3931,6 +3911,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-02T15:56:01.252827+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "pqk9DCAWzSI",
+      "title": "Build Trust with 80% Transparency #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "customertrust",
+        "ai",
+        "smb",
+        "loyalty",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-02T19:40:04.446517+00:00",
       "stats": null
     }
   ]
