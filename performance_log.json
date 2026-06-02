@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "D7-JWqFipdA",
-      "title": "Boost Skills with 12 Free Webinars 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "webinars",
-        "smallbusiness",
-        "salesforcelearning",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-28T06:32:45.303809+00:00",
-      "stats": null
-    },
-    {
       "video_id": "jYW1LM7KwFY",
       "title": "Boost Doc Management 🚀 #shorts #salesforce",
       "topic": "",
@@ -3931,6 +3912,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-02T08:26:01.821789+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "MUZwSApypHY",
+      "title": "Salesforce Acquires Contentful! 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "contentful",
+        "headless360",
+        "acquisition",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-02T15:56:01.252827+00:00",
       "stats": null
     }
   ]
