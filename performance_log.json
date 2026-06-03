@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "NR7CppmHU-o",
-      "title": "📊 80% of meeting insights get lost! 🤯 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "crm",
-        "inpersonmeetingassistant",
-        "salesforcedata",
-        "meetinginsights",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-29T06:23:49.871493+00:00",
-      "stats": null
-    },
-    {
       "video_id": "7s7P4bvlFc0",
       "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
       "topic": "",
@@ -3929,6 +3910,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-03T16:17:33.118597+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "jgNBseQA3iQ",
+      "title": "Build Trust with 85% Transparency 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "customertrust",
+        "salesforceconsultant",
+        "smb",
+        "transparency",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-03T22:28:26.799532+00:00",
       "stats": null
     }
   ]
