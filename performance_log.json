@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "pTI2B0lnr8A",
-      "title": "Boost Salesforce Productivity 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "slackbot",
-        "productivity",
-        "salesforceadmin",
-        "salesforceTips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-28T21:03:57.967410+00:00",
-      "stats": null
-    },
-    {
       "video_id": "97O8xg14c7I",
       "title": "Disrupting Salesforce Consulting 🚀 #shorts #salesforce",
       "topic": "",
@@ -3930,6 +3910,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-03T02:23:45.838899+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "adx6kf8MtnA",
+      "title": "Boost Agentforce 360 with 11 Award-Winning Tips 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "agentforce",
+        "data360",
+        "slack",
+        "tableau",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-03T08:52:54.664488+00:00",
       "stats": null
     }
   ]
