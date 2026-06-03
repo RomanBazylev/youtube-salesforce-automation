@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "gWWKK9UdSAw",
-      "title": "Slack vs Microsoft: 5 Salesforce Tips 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "slack",
-        "microsoft",
-        "salesforcearchitect",
-        "londonhighcourt",
-        "antitrust",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-28T17:37:47.090335+00:00",
-      "stats": null
-    },
-    {
       "video_id": "pTI2B0lnr8A",
       "title": "Boost Salesforce Productivity 🚀 #shorts #salesforce",
       "topic": "",
@@ -3931,6 +3910,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-02T22:23:55.745674+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "chuqaM8UBek",
+      "title": "Headless AI on Salesforce 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "headless",
+        "composition",
+        "framework",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-03T02:23:45.838899+00:00",
       "stats": null
     }
   ]
