@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "miuxWk1Nr60",
-      "title": "Salesforce AI Data Setting Alert 🚨 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "customerdata",
-        "datasharing",
-        " Setup",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-29T17:22:19.659379+00:00",
-      "stats": null
-    },
-    {
       "video_id": "E1gS_dSUHYc",
       "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
       "topic": "",
@@ -3935,6 +3915,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-04T08:18:27.291390+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "lC8MOzueUno",
+      "title": "Unlock Salesforce Headless 360 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "headless360",
+        "salesforce360",
+        "crm",
+        "customerrelationship",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-04T14:31:59.733567+00:00",
       "stats": null
     }
   ]
