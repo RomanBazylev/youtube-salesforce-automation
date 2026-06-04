@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "7s7P4bvlFc0",
-      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "soql",
-        "apex",
-        "developer",
-        "performance",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-29T10:02:35.083394+00:00",
-      "stats": null
-    },
-    {
       "video_id": "a4p7AjPoG1Y",
       "title": "Salesforce My Trust Center 🚀 #shorts #salesforce",
       "topic": "",
@@ -3931,6 +3915,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-03T22:28:26.799532+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "njutq94D3os",
+      "title": "Boost Salesforce Security 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforcehealthcheck",
+        "security",
+        "configuration",
+        "stepbystep",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-04T02:23:09.347483+00:00",
       "stats": null
     }
   ]
