@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "D1DbG6SyWpg",
-      "title": "Slack Boosts Salesforce 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "slack",
-        "productivity",
-        "integration",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-30T06:29:19.895770+00:00",
-      "stats": null
-    },
-    {
       "video_id": "a1_8axtn8jE",
       "title": "Salesforce Hiring 1,000! 🚀 #shorts #salesforce",
       "topic": "",
@@ -3939,6 +3920,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-04T21:29:19.448343+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "0-EiZDdH8S8",
+      "title": "AI-Powered Salesforce 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "einstein",
+        "ai",
+        "analytics",
+        "productivity",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-05T02:06:58.751033+00:00",
       "stats": null
     }
   ]
