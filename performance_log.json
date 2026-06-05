@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "UV9yUPjqOd0",
-      "title": "5 Salesforce Hacks #shorts #salesforce 🚀",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "agentforce",
-        "ai",
-        "prospecting",
-        "sales",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-30T17:14:41.154493+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Vm5uxEstevE",
       "title": "🚀 Unlock Support Triage with AI #shorts #salesforce",
       "topic": "",
@@ -3939,6 +3919,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-05T11:25:31.342351+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "eiUG0Ce_uBc",
+      "title": "Vibe Coding in Salesforce? 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "vibecoding",
+        "salesforceben",
+        "flow",
+        "xml",
+        "pointandclick",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-05T14:23:29.746217+00:00",
       "stats": null
     }
   ]
