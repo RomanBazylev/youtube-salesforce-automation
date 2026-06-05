@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "NPNqFVP70fI",
-      "title": "75% of CEOs Rely on AI 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "llm",
-        "dataenrichment",
-        "salesforceben",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-04-30T13:22:02.070627+00:00",
-      "stats": null
-    },
-    {
       "video_id": "UV9yUPjqOd0",
       "title": "5 Salesforce Hacks #shorts #salesforce 🚀",
       "topic": "",
@@ -3939,6 +3919,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-05T08:06:27.488717+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "b0VIsqj2wFc",
+      "title": "🚀 Boost Email Marketing with Salesforce #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "emailmarketing",
+        "smallbusiness",
+        "startup",
+        "crm",
+        "marketingautomation",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-05T11:25:31.342351+00:00",
       "stats": null
     }
   ]
