@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "HTli_JZK-z4",
-      "title": "Boost Skills 400% with AI #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "connections2026",
-        "agenticai",
-        "agentforcemarketing",
-        "salesforcedeveloper",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-02T01:31:05.586662+00:00",
-      "stats": null
-    },
-    {
       "video_id": "sr2iztHwV40",
       "title": "Boost LinkedIn Connections 🚀 #shorts #salesforce",
       "topic": "",
@@ -3937,6 +3917,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-06T17:01:48.194528+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "pfGPJlHX5zo",
+      "title": "🚀 Boost Productivity 30% with Help Agent #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "helpagent",
+        "productivity",
+        "workflow",
+        "configuration",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-06T20:57:54.079205+00:00",
       "stats": null
     }
   ]
