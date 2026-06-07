@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "sr2iztHwV40",
-      "title": "Boost LinkedIn Connections 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "linkedin",
-        "connections",
-        "strategy",
-        "growth",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-02T06:06:36.955429+00:00",
-      "stats": null
-    },
-    {
       "video_id": "hjtKu0pnakU",
       "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
       "topic": "",
@@ -3937,6 +3917,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-06T20:57:54.079205+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "h5eDFz978ts",
+      "title": "🚀 70% of Salesforce Admins Overwhelmed? 🤯 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforceben",
+        "productivity",
+        "SFDC",
+        "CRM",
+        "salesforceadmin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-07T02:11:26.673792+00:00",
       "stats": null
     }
   ]
