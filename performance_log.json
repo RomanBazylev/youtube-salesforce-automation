@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "urHHKQiYRPA",
-      "title": "Boost Salesforce Dev 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "development",
-        "AI",
-        "salesforcearchitect",
-        "sfdx",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-02T16:45:52.470766+00:00",
-      "stats": null
-    },
-    {
       "video_id": "23I0O3lnlBI",
       "title": "RCS in Salesforce 🚀 #shorts #salesforce",
       "topic": "",
@@ -3937,6 +3917,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-07T10:27:35.115931+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "_gyZXrrfnlc",
+      "title": "AI Adoption in Salesforce 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "adoption",
+        "technology",
+        "salesforceben",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-07T13:22:53.193855+00:00",
       "stats": null
     }
   ]
