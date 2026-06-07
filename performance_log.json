@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Oh-I8STwbuc",
-      "title": "Boost Salesforce Career 10x 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "career growth",
-        "salesforce ecosystem",
-        "senior consultant",
-        "mid-level professional",
-        "salesforce ben",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-02T12:48:10.305703+00:00",
-      "stats": null
-    },
-    {
       "video_id": "urHHKQiYRPA",
       "title": "Boost Salesforce Dev 🚀 #shorts #salesforce",
       "topic": "",
@@ -3942,6 +3921,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-07T07:54:33.348249+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "oheGExRvd_Q",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-07T10:27:35.115931+00:00",
       "stats": null
     }
   ]
