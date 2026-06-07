@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "hjtKu0pnakU",
-      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "permission sets",
-        "profiles",
-        "admin",
-        "security",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-02T09:03:58.973830+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Oh-I8STwbuc",
       "title": "Boost Salesforce Career 10x 🚀 #shorts #salesforce",
       "topic": "",
@@ -3938,6 +3922,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-07T02:11:26.673792+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "dPJJhUINous",
+      "title": "4 New AI Agents in Salesforce! 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforceconnections",
+        "agenticsegmentation",
+        "aiagents",
+        "marketingautomation",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-07T07:54:33.348249+00:00",
       "stats": null
     }
   ]
