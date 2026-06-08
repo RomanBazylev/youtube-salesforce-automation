@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "7opov4EAcDE",
-      "title": "Boost Trust with My Trust Center 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "mytrustcenter",
-        "salesforceadmin",
-        "trustcenter",
-        "salesforcepodcast",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-03T12:45:22.740784+00:00",
-      "stats": null
-    },
-    {
       "video_id": "wDBNFCLGzIg",
       "title": "Salesforce UI Hacks 🚀 #shorts #salesforce",
       "topic": "",
@@ -3939,6 +3919,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-08T08:51:46.965824+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "upW0djmCHiw",
+      "title": "🚀 Boost Newsletter Clicks 300% #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "newsletter",
+        "email",
+        "campaign",
+        "marketing",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-08T18:23:16.538852+00:00",
       "stats": null
     }
   ]
