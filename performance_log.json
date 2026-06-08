@@ -1,29 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "lMI2Ul8r3B4",
-      "title": "Agentforce Revamps Partner Hierarchy 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "agentforce",
-        "partner hierarchy",
-        "salesforce ecosystem",
-        "ISVs",
-        "GSIs",
-        "salesforce admin",
-        "salesforce developer",
-        "shorts",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-03T06:30:59.929963+00:00",
-      "stats": null
-    },
-    {
       "video_id": "4xZdoY8Z1Js",
       "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
       "topic": "",
@@ -3937,6 +3914,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-07T21:05:29.077030+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "LnathVp1dPE",
+      "title": "10 Free Email Tools 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "emailmarketing",
+        "smallbusiness",
+        "startups",
+        "marketingautomation",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-08T02:15:42.312839+00:00",
       "stats": null
     }
   ]
