@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "CkHSA8FTMaQ",
-      "title": "🚀 Boost Salesforce Success #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "domain knowledge",
-        "consultant",
-        "business analyst",
-        "implementation",
-        "success",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-04T13:25:04.429223+00:00",
-      "stats": null
-    },
-    {
       "video_id": "GYZSVwZJU9I",
       "title": "AI Writes 80% of Salesforce Code 🤖 #shorts #salesforce",
       "topic": "",
@@ -3940,6 +3919,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-09T14:23:20.034982+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "NUZ4d_52WLs",
+      "title": "Boost Career with Salesforce Certs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "certification",
+        "career",
+        "salesforceconsultant",
+        "salesforceprofessional",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-09T17:54:35.969513+00:00",
       "stats": null
     }
   ]
