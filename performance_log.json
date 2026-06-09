@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "ES5x3dfHkCE",
-      "title": "Boost Salesforce Dev 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "development",
-        "ai",
-        "salesforce tips",
-        "salesforce development",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-04T06:41:35.626933+00:00",
-      "stats": null
-    },
-    {
       "video_id": "YH1UT13_zvQ",
       "title": "Boost Lead Conversion 30% 🚀 #shorts #salesforce",
       "topic": "",
@@ -3939,6 +3919,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-09T07:41:40.307486+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "TwXp3k-3ElY",
+      "title": "AI-Powered Salesforce 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "salesforcearchitect",
+        "salesforceadmin",
+        "aiadoption",
+        "digitalsolutions",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-09T10:58:27.575237+00:00",
       "stats": null
     }
   ]
