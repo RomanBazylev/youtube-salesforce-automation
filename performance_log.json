@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "QbqVFcMEyRs",
-      "title": "Boost Salesforce Productivity 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "TDX2026",
-        "Agentforce",
-        "Slack",
-        "productivity",
-        "salesforceadmin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-04T01:31:06.876931+00:00",
-      "stats": null
-    },
-    {
       "video_id": "ES5x3dfHkCE",
       "title": "Boost Salesforce Dev 🚀 #shorts #salesforce",
       "topic": "",
@@ -3940,6 +3919,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-09T01:58:03.143864+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "O_5z-zo6KyM",
+      "title": "💼 75% of Salesforce Pros Use Mentorship #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "mentorship",
+        "career growth",
+        "future pathways",
+        "salesforce tips",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-09T07:41:40.307486+00:00",
       "stats": null
     }
   ]
