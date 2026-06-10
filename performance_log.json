@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "uDu8Z27uiAM",
-      "title": "10x Your AI Agent 💻 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "customer_service",
-        "salesforce_architect",
-        "conversation_design",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-05T17:22:46.890364+00:00",
-      "stats": null
-    },
-    {
       "video_id": "OVNMXEXOlEo",
       "title": "Dreamforce 2026: Top Admin Tips 🚀 #shorts #salesforce",
       "topic": "",
@@ -3940,6 +3920,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-10T18:30:51.273308+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "IO9lI3K7raM",
+      "title": "86 Salesforce Jobs Cut: Act Now! 🚨 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "careeradvice",
+        "salesforcejobs",
+        "mulesoft",
+        "marketingcloud",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-10T21:56:50.869977+00:00",
       "stats": null
     }
   ]
