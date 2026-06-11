@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "xx7zD5Xu20w",
-      "title": "Unlock 90% Efficiency 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "architectvista",
-        "tdx2026",
-        "salesforceadmin",
-        "salesforceconsultant",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-06T01:33:04.035479+00:00",
-      "stats": null
-    },
-    {
       "video_id": "B61UptTrhu8",
       "title": "💡 AI Voice: 80% Faster Data Entry #shorts #salesforce",
       "topic": "",
@@ -3939,6 +3919,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-11T02:16:44.547469+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "A8BRvlfWhFE",
+      "title": "Unlock Salesforce Reference Diagrams 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "architecture",
+        "reference",
+        "diagrams",
+        "alignment",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-11T08:34:20.200427+00:00",
       "stats": null
     }
   ]
