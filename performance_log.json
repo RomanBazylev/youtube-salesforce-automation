@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Nc2SxdAKyP8",
-      "title": "Build AI Agent in 5 Mins 🤖 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "langchain",
-        "groq",
-        "ai",
-        "colab",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-07T01:36:28.322609+00:00",
-      "stats": null
-    },
-    {
       "video_id": "dc9-Ph6AXNA",
       "title": "Vibe Coding Fails 🚫 #shorts #salesforce",
       "topic": "",
@@ -3939,6 +3919,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-12T08:22:00.158801+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "KZd8FaiW_Cg",
+      "title": "Boost Agentforce Adoption 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "agentforce",
+        "ai",
+        "adoption",
+        "bestpractices",
+        "salesforceben",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-12T14:43:04.787294+00:00",
       "stats": null
     }
   ]
