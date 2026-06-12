@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "1JRhpOnrFPE",
-      "title": "TDX 2026 Tips 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "TDX2026",
-        "salesforceadmins",
-        "trailhead",
-        "salesforcecertification",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-06T21:11:19.416349+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Nc2SxdAKyP8",
       "title": "Build AI Agent in 5 Mins 🤖 #shorts #salesforce",
       "topic": "",
@@ -3939,6 +3919,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-12T02:12:44.931903+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "hgy7jIkD8c4",
+      "title": "AI in Salesforce 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "AI",
+        "salesforceAI",
+        "adminTips",
+        "salesforceAdmin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-12T08:22:00.158801+00:00",
       "stats": null
     }
   ]
