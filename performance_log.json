@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "dc9-Ph6AXNA",
-      "title": "Vibe Coding Fails 🚫 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "trade promotion management",
-        "vibe coding",
-        "salesforce architect",
-        "salesforce implementation",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-07T06:35:30.392946+00:00",
-      "stats": null
-    },
-    {
       "video_id": "evoi3Gg5gJ0",
       "title": "Salesforce Ditches Browser? 🚀 #shorts #salesforce",
       "topic": "",
@@ -3940,6 +3920,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-12T14:43:04.787294+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "nurhApBWuh4",
+      "title": "🚀 80% of Devs Use AI Code: Safely Deploy in Salesforce #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "AI",
+        "code",
+        "deployment",
+        "salesforceben",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-12T18:06:32.539799+00:00",
       "stats": null
     }
   ]
