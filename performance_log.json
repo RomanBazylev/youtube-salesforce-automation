@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "7-hGeD6LS0g",
-      "title": "🚀 9/10 Architects Use Trailhead Incorrectly #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforcearchitect",
-        "trailhead",
-        "certification",
-        "salesforceconsultant",
-        "salesforcetips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-08T13:08:52.230946+00:00",
-      "stats": null
-    },
-    {
       "video_id": "2k7Ovv6UJgo",
       "title": "Boost Productivity 500% with Salesforce Flow 🚀 #shorts #salesforce",
       "topic": "",
@@ -3947,6 +3926,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-13T13:25:24.162930+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "JPDwP-z8ypU",
+      "title": "Unlock SMS Marketing 📱 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "marketingcloud",
+        "smsmarketing",
+        "salesforcearchitect",
+        "scalability",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-13T17:12:52.130404+00:00",
       "stats": null
     }
   ]
