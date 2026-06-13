@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "lpvNOXZ-v40",
-      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "einstein",
-        "ai",
-        "automation",
-        "admin",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-08T09:19:36.009990+00:00",
-      "stats": null
-    },
-    {
       "video_id": "7-hGeD6LS0g",
       "title": "🚀 9/10 Architects Use Trailhead Incorrectly #shorts #salesforce",
       "topic": "",
@@ -3943,6 +3927,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-13T10:27:46.203936+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "DsXs0s7iVro",
+      "title": "Salesforce Headless Future? 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "headless",
+        "salesforce360",
+        "tdx2026",
+        "salesforcefuture",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-13T13:25:24.162930+00:00",
       "stats": null
     }
   ]
