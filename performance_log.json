@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "LMun-lC7wVU",
-      "title": "Next-Gen Admin 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "nextgen",
-        "ai",
-        "automation",
-        "salesforcedeveloper",
-        "crm",
-        "trailblazer"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-07T21:03:12.593461+00:00",
-      "stats": null
-    },
-    {
       "video_id": "TuQmfVIRhQE",
       "title": "Boost Productivity 30% with Patterns 🚀 #shorts #salesforce",
       "topic": "",
@@ -3941,6 +3922,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-12T21:30:01.223416+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "axxR1fPw18Y",
+      "title": "1 Admin? 🚨 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforceorg",
+        "salesforcedev",
+        "salesforceben",
+        "salesforcebestpractices",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-13T02:06:02.181435+00:00",
       "stats": null
     }
   ]
