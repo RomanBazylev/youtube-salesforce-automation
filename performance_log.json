@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "2k7Ovv6UJgo",
-      "title": "Boost Productivity 500% with Salesforce Flow 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceflow",
-        "automation",
-        "marketing",
-        "productivity",
-        "crm",
-        "trailblazer"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-08T17:08:59.910567+00:00",
-      "stats": null
-    },
-    {
       "video_id": "ahVZRPhTyNk",
       "title": "🚀 Boost Admin Productivity with Agent Script #shorts #salesforce",
       "topic": "",
@@ -3946,6 +3927,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-13T17:12:52.130404+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "tUy3FMAJ8as",
+      "title": "Unlock Salesforce Secrets 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "connections2026",
+        "salesforcebeginner",
+        "crm",
+        "marketingcloud",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-13T21:08:59.131465+00:00",
       "stats": null
     }
   ]
