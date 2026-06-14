@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "TwFNhcPfscQ",
-      "title": "Boost Salesforce Skills 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "marketing",
-        "commerce",
-        "connections2026",
-        "digital360",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-09T16:44:24.004766+00:00",
-      "stats": null
-    },
-    {
       "video_id": "rIVn8kBP00Y",
       "title": "️️️ Boost Mobile Engagement 300% with Salesforce + Firebase #shorts #salesforce",
       "topic": "",
@@ -3949,6 +3929,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-14T17:12:21.057437+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "LE7ZzPfu_kg",
+      "title": "AI in Salesforce 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "analytics",
+        "software engineering",
+        "mythos",
+        "claud fable 5",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-14T21:04:02.764020+00:00",
       "stats": null
     }
   ]
