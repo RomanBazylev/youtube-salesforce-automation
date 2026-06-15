@@ -1,30 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "rIVn8kBP00Y",
-      "title": "️️️ Boost Mobile Engagement 300% with Salesforce + Firebase #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "firebase",
-        "mobilepushnotifications",
-        "salesforceadmin",
-        "salesforcedeveloper",
-        "apex",
-        "fieldservicecloud",
-        "salescloud",
-        "servicecloud",
-        "shorts",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-09T20:41:18.543347+00:00",
-      "stats": null
-    },
-    {
       "video_id": "UpWCMdda6Vg",
       "title": "Headless Salesforce? 80% Scale Faster 🚀 #shorts #salesforce",
       "topic": "",
@@ -3950,6 +3926,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-14T21:04:02.764020+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Sa2sGgP7yUQ",
+      "title": "🚀 Boost Alignment with Salesforce Ref Diagrams #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "architecture",
+        "reference",
+        "diagrams",
+        "alignment",
+        "consultant",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-15T02:19:17.858048+00:00",
       "stats": null
     }
   ]
