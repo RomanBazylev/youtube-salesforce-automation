@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "LucOCSZ4T-M",
-      "title": "Unlock Headless Data 360 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "data360",
-        "headless",
-        "MCP",
-        "salesforceben",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-10T06:37:42.934928+00:00",
-      "stats": null
-    },
-    {
       "video_id": "ins4TeePSHg",
       "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
       "topic": "",
@@ -3946,6 +3926,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-15T09:58:48.926939+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "KCzqmeeozZo",
+      "title": "Zero Trust in 60s 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "zerotrust",
+        "security",
+        "salesforcesecurity",
+        "admin tips",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-15T16:56:03.073598+00:00",
       "stats": null
     }
   ]
