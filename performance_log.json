@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "ins4TeePSHg",
-      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "einstein",
-        "ai",
-        "automation",
-        "admin",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-10T09:27:09.684383+00:00",
-      "stats": null
-    },
-    {
       "video_id": "o0CcgpkVXCk",
       "title": "Boost Admin Productivity 30% 🚀 #shorts #salesforce",
       "topic": "",
@@ -3946,6 +3930,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-15T16:56:03.073598+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "UZKwjb7eF1I",
+      "title": "Boost Agentforce with 80% Success Rate 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "agentforce",
+        "admin",
+        "development",
+        "salesforceben",
+        "implementation",
+        "successrate",
+        "shorts",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-15T22:16:42.734588+00:00",
       "stats": null
     }
   ]
