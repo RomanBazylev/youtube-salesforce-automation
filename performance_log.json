@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "o0CcgpkVXCk",
-      "title": "Boost Admin Productivity 30% 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "productivity",
-        "agent script",
-        "admin evangelism",
-        "salesforce admin podcast",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-10T12:52:12.476193+00:00",
-      "stats": null
-    },
-    {
       "video_id": "aRgs0_DgZMk",
       "title": "5 Salesforce Flow Tips 🚀 #shorts #salesforce",
       "topic": "",
@@ -3951,6 +3931,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-15T22:16:42.734588+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "_P_rip6Y1p8",
+      "title": "🚨 70% of Salesforce Orgs Lack Security Setup 🚨 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "security",
+        "salesforceben",
+        "sharedresponsibility",
+        "cybersecurity",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-16T02:25:09.545013+00:00",
       "stats": null
     }
   ]
