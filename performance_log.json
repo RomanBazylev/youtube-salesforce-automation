@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "aRgs0_DgZMk",
-      "title": "5 Salesforce Flow Tips 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceflow",
-        "automation",
-        "marketing",
-        "crm",
-        "salesforceconsultant",
-        "trailblazer"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-10T16:46:12.326698+00:00",
-      "stats": null
-    },
-    {
       "video_id": "bNDvRHMOR4U",
       "title": "🚀 Boost Productivity 30% with Patterns #shorts #salesforce",
       "topic": "",
@@ -3951,6 +3932,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-16T02:25:09.545013+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "jN-l8MEthcw",
+      "title": "🚀 Absa Bank's Salesforce Secret #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "agentforce",
+        "sme",
+        "celent",
+        "modelbank",
+        "salesforceconsultant",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-16T09:22:13.557070+00:00",
       "stats": null
     }
   ]
