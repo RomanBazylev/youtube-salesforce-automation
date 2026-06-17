@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "twzkLcpX-dM",
-      "title": "Boost Salesforce Productivity 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "Agentforce",
-        "Slack",
-        "TDX2026",
-        "productivity",
-        "setup",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-11T07:04:26.543239+00:00",
-      "stats": null
-    },
-    {
       "video_id": "hxWEmARKTNc",
       "title": "TDX 2026: 5 Admin Tips 🚀 #shorts #salesforce",
       "topic": "",
@@ -3954,6 +3933,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-16T22:13:44.097433+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "ewT1gzFeWvM",
+      "title": "Boost Revenue 30% with Field Service 📈 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "fieldservice",
+        "revenuegrowth",
+        "assetintensive",
+        "lifecyclemanagement",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-17T02:19:14.202373+00:00",
       "stats": null
     }
   ]
