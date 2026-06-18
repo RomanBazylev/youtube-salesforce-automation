@@ -1,28 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "bCLD1oFNuzk",
-      "title": "Scale with MuleSoft Omni Gateway 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "mulesoft",
-        "omnigateway",
-        "api",
-        "governance",
-        "integration",
-        "admin",
-        "architecture",
-        "shorts",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-12T01:39:55.693285+00:00",
-      "stats": null
-    },
-    {
       "video_id": "v4kmxaLmhnk",
       "title": "Dreamforce 2026 Alert! 🚀 #shorts #salesforce",
       "topic": "",
@@ -3954,6 +3932,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-18T02:17:43.550862+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "0i_k1Y7Zdis",
+      "title": "💻 80% of Salesforce Hacks Preventable 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "security",
+        "salesforceben",
+        "ShinyHunters",
+        "ForcedLeak",
+        "Agentforce",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-18T08:35:32.259867+00:00",
       "stats": null
     }
   ]
