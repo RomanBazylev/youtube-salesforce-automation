@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "e9e_cY4NlnA",
-      "title": "Fix Dirty Data in 4 Stages 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "dataquality",
-        "salesforceben",
-        "crm",
-        "salesforceconsultant",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-11T21:16:16.974934+00:00",
-      "stats": null
-    },
-    {
       "video_id": "bCLD1oFNuzk",
       "title": "Scale with MuleSoft Omni Gateway 🚀 #shorts #salesforce",
       "topic": "",
@@ -3953,6 +3934,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-17T21:57:55.213443+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "R9Bhz7kzHAE",
+      "title": "Boost Growth by 25% with Loyalty Programs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "loyalty programs",
+        "referral marketing",
+        "customer engagement",
+        "salesforce architect",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-18T02:17:43.550862+00:00",
       "stats": null
     }
   ]
