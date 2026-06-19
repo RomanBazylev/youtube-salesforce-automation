@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "U-1uTQPFMMM",
-      "title": "Salesforce AI Updates 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "AI",
-        "Agentforce",
-        "MCP",
-        "SalesforceBen",
-        "2026updates",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-12T13:40:15.636413+00:00",
-      "stats": null
-    },
-    {
       "video_id": "L3FKoTKOe4s",
       "title": "Fix Salesforce Data Skew 🚀 #shorts #salesforce",
       "topic": "",
@@ -3953,6 +3932,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-18T14:44:26.554076+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "rjKDn_5TBBM",
+      "title": "Boost Security 360° 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "headless360",
+        "security",
+        "governance",
+        "trust",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-19T02:45:57.325820+00:00",
       "stats": null
     }
   ]
