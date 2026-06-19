@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "-rDB_GPeby4",
-      "title": "AI in Salesforce 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceai",
-        "startup",
-        "communication",
-        "salesforcetips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-12T21:17:00.698669+00:00",
-      "stats": null
-    },
-    {
       "video_id": "PePMLsrlLX0",
       "title": "🚀 Boost Salesforce Productivity by 30% #shorts #salesforce",
       "topic": "",
@@ -3952,6 +3932,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-19T09:03:17.947296+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "DsFX-pKS2SU",
+      "title": "⚡️ Boost Sales with 5 Tips #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "entrepreneur",
+        "smallbusiness",
+        "salesforcetips",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-19T14:41:40.409566+00:00",
       "stats": null
     }
   ]
