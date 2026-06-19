@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "HCJuuLO-4uk",
-      "title": "Simplify Automation 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "automation",
-        "salesforce tips",
-        "admin tips",
-        "salesforce automation",
-        "crm",
-        "trailblazer"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-13T06:48:46.037692+00:00",
-      "stats": null
-    },
-    {
       "video_id": "YoyJH2JuAP0",
       "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
       "topic": "",
@@ -3951,6 +3932,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-19T17:53:30.503008+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "MGneke1nDUA",
+      "title": "Vibe Coding in Salesforce: 3 Key Limitations 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "vibecoding",
+        "ai",
+        "enterprise",
+        "software",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-19T21:07:38.496810+00:00",
       "stats": null
     }
   ]
