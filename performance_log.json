@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "YoyJH2JuAP0",
-      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "einstein",
-        "ai",
-        "automation",
-        "admin",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-13T10:27:11.192267+00:00",
-      "stats": null
-    },
-    {
       "video_id": "QzfHaTs2Uys",
       "title": "Boost Career 300% with Salesforce Connections 2026 🚀 #shorts #salesforce",
       "topic": "",
@@ -3952,6 +3936,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-19T21:07:38.496810+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Szfn9m8cNzo",
+      "title": "Unlock 90% Faster Deployments 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforceengineer",
+        "careerchange",
+        "infrastructure",
+        "cloudcomputing",
+        "itcareers",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-20T02:09:18.280539+00:00",
       "stats": null
     }
   ]
