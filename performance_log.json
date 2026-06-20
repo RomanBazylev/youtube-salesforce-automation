@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "wrHJbCVikAI",
-      "title": "Boost Support with WhatsApp Voice 📞 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "customer support",
-        "whatsapp",
-        "agentforce",
-        "contact center",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-13T21:22:28.761070+00:00",
-      "stats": null
-    },
-    {
       "video_id": "JAmdlasdeJA",
       "title": "Boost Salesforce Security 🚀 #shorts #salesforce",
       "topic": "",
@@ -3957,6 +3937,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-20T07:47:19.443861+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "-w8RQzz2jDQ",
+      "title": "Master Salesforce Automation 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "automation",
+        "fable",
+        "mythos",
+        "anthropic",
+        "crm",
+        "trailblazer"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-20T10:31:43.711259+00:00",
       "stats": null
     }
   ]
