@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "glJCx-Agehk",
-      "title": "🚀 70% of Salesforce tasks automated by 2027? #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "AI",
-        "automation",
-        "consultant",
-        "crm",
-        "implementation",
-        "trailblazer"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-15T01:57:30.020197+00:00",
-      "stats": null
-    },
-    {
       "video_id": "biO9eeaGAkc",
       "title": "🚀 80% of Salesforce Admins Use AI Wrong 🤖 #shorts #salesforce",
       "topic": "",
@@ -3954,6 +3935,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-21T08:25:24.472654+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "XM9wbw-WaIk",
+      "title": "Boost Support with AI 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "AI",
+        "servicecloud",
+        "smallbusiness",
+        "customersupport",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-21T13:37:00.572218+00:00",
       "stats": null
     }
   ]
