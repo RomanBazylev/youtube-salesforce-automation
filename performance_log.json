@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "knGAzrQQb8g",
-      "title": "Boost Leads 300% 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "leads",
-        "growthhacking",
-        "sales",
-        "marketing",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-14T21:08:21.793502+00:00",
-      "stats": null
-    },
-    {
       "video_id": "glJCx-Agehk",
       "title": "🚀 70% of Salesforce tasks automated by 2027? #shorts #salesforce",
       "topic": "",
@@ -3953,6 +3933,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-21T02:17:20.781859+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "vmGJFHk8ZZs",
+      "title": "Boost Sales 30% with Scoring 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "marketing",
+        "audience",
+        "scoring",
+        "smallbusiness",
+        "salesforceadmin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-21T08:25:24.472654+00:00",
       "stats": null
     }
   ]
