@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "U4gSvRkiTww",
-      "title": "Boost Nonprofit Productivity 40% with Agentforce 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "nonprofit",
-        "agentforce",
-        "governance",
-        "ai",
-        "productivity",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-15T13:29:37.687514+00:00",
-      "stats": null
-    },
-    {
       "video_id": "sU5doe81fPc",
       "title": "💻 Salesforce Midlife Crisis? 🤔 #shorts #salesforce",
       "topic": "",
@@ -3957,6 +3936,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-21T17:22:59.518686+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "JapvRdcb27Q",
+      "title": "🚨 30% of Salesforce orgs exposed to OAuth hacks 🚨 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "oauth",
+        "security",
+        "crm",
+        "salesforcearchitecture",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-21T21:08:36.765465+00:00",
       "stats": null
     }
   ]
