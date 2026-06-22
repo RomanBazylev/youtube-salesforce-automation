@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "BhzsL6d5L-Y",
-      "title": "🚀 Holiday Planning in Spring? #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "holidayplanning",
-        "commerce",
-        "SMB",
-        "startup",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-16T06:21:51.367111+00:00",
-      "stats": null
-    },
-    {
       "video_id": "iMZWgEMOkis",
       "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
       "topic": "",
@@ -3956,6 +3936,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-22T16:31:32.836735+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Yd_MySWk0yQ",
+      "title": "Summer '26 Updates 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "summer26",
+        "salesforceupdate",
+        "crmmastery",
+        "salesforcedev",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-22T22:02:05.448838+00:00",
       "stats": null
     }
   ]
