@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "sU5doe81fPc",
-      "title": "💻 Salesforce Midlife Crisis? 🤔 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforce developer",
-        "career advice",
-        "midlife crisis",
-        "salesforce ecosystem",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-15T17:26:41.790342+00:00",
-      "stats": null
-    },
-    {
       "video_id": "-jIeC4YVjAY",
       "title": "Boost Ecommerce Sales 20% 🚀 #shorts #salesforce",
       "topic": "",
@@ -3955,6 +3935,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-21T21:08:36.765465+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "dmuahkuAYGU",
+      "title": "Boost Code Quality 90% 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "apex",
+        "lightningwebcomponents",
+        "staticcodeanalysis",
+        "devops",
+        "codequality",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-22T02:23:49.708458+00:00",
       "stats": null
     }
   ]
