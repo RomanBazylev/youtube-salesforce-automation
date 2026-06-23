@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "iMZWgEMOkis",
-      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "soql",
-        "apex",
-        "developer",
-        "performance",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-16T09:27:21.623538+00:00",
-      "stats": null
-    },
-    {
       "video_id": "hlaosHTyVik",
       "title": "Salesforce Connections 2026 📅 #shorts #salesforce",
       "topic": "",
@@ -3956,6 +3940,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-22T22:02:05.448838+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "xgcHCnVfcUo",
+      "title": "🚀 Unlock 25% Higher Sales with Salesforce #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "crm",
+        "salesforcetips",
+        "salesforceadmin",
+        "smallbusiness",
+        "entrepreneur",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-23T02:02:21.813003+00:00",
       "stats": null
     }
   ]
