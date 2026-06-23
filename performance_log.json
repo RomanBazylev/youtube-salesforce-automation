@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "TVxFdrm4Omg",
-      "title": "40% of Salesforce Jobs Require AI Skills 🤖 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "ai",
-        "admin",
-        "shorts",
-        "salesforceben",
-        "interview",
-        "jobs",
-        "careers",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-17T06:45:49.076638+00:00",
-      "stats": null
-    },
-    {
       "video_id": "wLWlCGOX4ZM",
       "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
       "topic": "",
@@ -3954,6 +3933,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-23T17:51:31.865170+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "sa8PmmtZiTg",
+      "title": "5 Daily Salesforce Tools #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforceben",
+        "productivity",
+        "salesforce2026",
+        "salesforceadminsurvey",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-23T21:27:39.157337+00:00",
       "stats": null
     }
   ]
