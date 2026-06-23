@@ -1,28 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "71-PnSjfpso",
-      "title": "Boost Revenue 30% with Salesforce Commerce Media #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "commerce",
-        "media",
-        "advertising",
-        "inventory management",
-        "playbook",
-        "salesforce admin",
-        "shorts",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-17T01:55:07.184207+00:00",
-      "stats": null
-    },
-    {
       "video_id": "TVxFdrm4Omg",
       "title": "40% of Salesforce Jobs Require AI Skills 🤖 #shorts #salesforce",
       "topic": "",
@@ -3956,6 +3934,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-23T14:26:02.505177+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "4wyU9LQdpJc",
+      "title": "🚀 Debug Salesforce Flows 90% Faster #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "flow",
+        "debugging",
+        "salesforceben",
+        "adminsurvey2026",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-23T17:51:31.865170+00:00",
       "stats": null
     }
   ]
