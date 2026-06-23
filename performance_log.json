@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "x85wv0ZXr9A",
-      "title": "🚨 80% of Users Affected: Agentforce Vibes Changes #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "agentforce",
-        "vibes",
-        "dreamforce",
-        "salesforceben",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-16T20:42:05.342021+00:00",
-      "stats": null
-    },
-    {
       "video_id": "71-PnSjfpso",
       "title": "Boost Revenue 30% with Salesforce Commerce Media #shorts #salesforce",
       "topic": "",
@@ -3955,6 +3935,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-23T10:59:35.087238+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "e1ZXSBDV0gY",
+      "title": "Boost AI with Headless 360 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "headless360",
+        "ai",
+        "fintech",
+        "architecture",
+        "design",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-23T14:26:02.505177+00:00",
       "stats": null
     }
   ]
