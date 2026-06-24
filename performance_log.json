@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "HINujTg2CL8",
-      "title": "Boost Automation 85% 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "automation",
-        "orchestration",
-        "salesforceadmin",
-        "sfadmin",
-        "crm",
-        "trailblazer"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-17T12:54:04.901225+00:00",
-      "stats": null
-    },
-    {
       "video_id": "g4hI3SQe2sw",
       "title": "🚀 80% of Salesforce Admins Use AI! #shorts #salesforce",
       "topic": "",
@@ -3956,6 +3937,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-24T02:03:32.033949+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "3Pdc6_-ab9s",
+      "title": "Summer '26: 10 New Features 🌞 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "summer26",
+        "salesforcearchitect",
+        "cloudcomputing",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-24T07:37:26.412527+00:00",
       "stats": null
     }
   ]
