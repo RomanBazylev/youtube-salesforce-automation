@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "GVjH8B2lOP4",
-      "title": "🚀 Boost Productivity 30% with Patterns #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "productivity",
-        "salesforceadmin",
-        "patternrecognition",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-18T02:03:05.930714+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Q9pGymMkjC0",
       "title": "💼 80% of Salesforce Jobs Require Soft Skills 📈 #shorts #salesforce",
       "topic": "",
@@ -3952,6 +3933,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-24T14:04:28.609355+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "bDoE-wMx8N8",
+      "title": "🚨 72% of Orgs Exposed 🚨 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "security",
+        "salesforceben",
+        "sfbensurvey",
+        "orgsecurity",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-24T17:54:22.531520+00:00",
       "stats": null
     }
   ]
