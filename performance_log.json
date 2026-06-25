@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "vuv-XZiIP1E",
-      "title": "June 2026: Agentforce Vibes Not Free 🚨 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "agentforce",
-        "vibes",
-        "dreamforce",
-        "salesforceben",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-19T02:02:52.479715+00:00",
-      "stats": null
-    },
-    {
       "video_id": "W6EXgsh8-Ho",
       "title": "Salesforce Connections 2026 🚀 #shorts #salesforce",
       "topic": "",
@@ -3952,6 +3932,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-25T14:03:22.984464+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "KED0LejunwQ",
+      "title": "🚀 Boost Productivity with Claude in Slack #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforceben",
+        "anthropic",
+        "claude",
+        "slack",
+        "integration",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-25T18:06:01.259289+00:00",
       "stats": null
     }
   ]
