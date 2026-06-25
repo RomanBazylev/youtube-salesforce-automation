@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "b9XrzIeHOQI",
-      "title": "🚀 Boost Salesforce Security #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "security",
-        "compliance",
-        "resilience",
-        "customer zero",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-18T21:08:29.858435+00:00",
-      "stats": null
-    },
-    {
       "video_id": "vuv-XZiIP1E",
       "title": "June 2026: Agentforce Vibes Not Free 🚨 #shorts #salesforce",
       "topic": "",
@@ -3952,6 +3932,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-25T10:40:03.186253+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "1Y956PjHygo",
+      "title": "Boost Slack-Salesforce Integrations 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "slack",
+        "integrations",
+        "salesforcearchitects",
+        "sfdc",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-25T14:03:22.984464+00:00",
       "stats": null
     }
   ]
