@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "W6EXgsh8-Ho",
-      "title": "Salesforce Connections 2026 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "connections2026",
-        "digitalmarketing",
-        "commerce",
-        "salesforceevents",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-19T07:42:45.837697+00:00",
-      "stats": null
-    },
-    {
       "video_id": "tR8DOjA6Xgo",
       "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
       "topic": "",
@@ -3953,6 +3933,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-25T18:06:01.259289+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "QclMOmRG2lw",
+      "title": "🚀 Boost Field Service #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "fieldservice",
+        "smb",
+        "salesforcefeatures",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-25T21:26:52.562815+00:00",
       "stats": null
     }
   ]
