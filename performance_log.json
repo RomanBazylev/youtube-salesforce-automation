@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "tR8DOjA6Xgo",
-      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "einstein",
-        "ai",
-        "automation",
-        "admin",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-19T11:00:06.155777+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Td_7duKuTmE",
       "title": "Boost Salesforce Automation 🚀 #shorts #salesforce",
       "topic": "",
@@ -3952,6 +3936,28 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-25T21:26:52.562815+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "HhJy0EFN6ko",
+      "title": "5 CTA Resources 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "cta",
+        "salesforceadmin",
+        "salesforcearchitecture",
+        "certifiedtechnicalarchitect",
+        "salesforcepro",
+        "salesforceexpert",
+        "shorts",
+        "admin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-26T02:05:25.716177+00:00",
       "stats": null
     }
   ]
