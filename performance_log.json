@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "K7ZODtoxMUk",
-      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "permission sets",
-        "profiles",
-        "admin",
-        "security",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-20T10:47:29.939549+00:00",
-      "stats": null
-    },
-    {
       "video_id": "rTNt2zOu9_Y",
       "title": "🚨 90% of Salesforce issues are hidden in logs #shorts #salesforce",
       "topic": "",
@@ -3955,6 +3939,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-26T21:19:34.065181+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "tNq1k53xtWU",
+      "title": "June '26 Salesforce Update 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "b2c",
+        "commerce",
+        "agentforce",
+        "june26",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-27T01:58:02.017858+00:00",
       "stats": null
     }
   ]
