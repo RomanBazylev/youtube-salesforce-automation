@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "NqJCTIrJ5zQ",
-      "title": "AI Moats in Salesforce 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "einstein",
-        "techinvestment",
-        "competitiveadvantage",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-20T21:34:50.633384+00:00",
-      "stats": null
-    },
-    {
       "video_id": "QfTliH067Nc",
       "title": "Unlock Headless 360 🚀 #shorts #salesforce",
       "topic": "",
@@ -3960,6 +3940,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-27T10:02:45.618655+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "V_yfGVAdsog",
+      "title": "5 Salesforce Secrets 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "marketing",
+        "connections2026",
+        "salesforcearchitect",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-27T13:13:53.465038+00:00",
       "stats": null
     }
   ]
