@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "R8abw0pOqHE",
-      "title": "5 Salesforce Report Mistakes 📊 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "reporting",
-        "salesforceben",
-        "crm",
-        "cloud",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-21T07:45:14.280744+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Pt4aIe1I24c",
       "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
       "topic": "",
@@ -3959,6 +3940,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-27T17:02:01.655628+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "dcXLdb67Evs",
+      "title": "Salesforce Pay-Per-Resolution 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "agentforce",
+        "payperresolution",
+        "salesforcepricing",
+        "customerexperience",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-27T20:54:50.576865+00:00",
       "stats": null
     }
   ]
