@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "k__El-KBDio",
-      "title": "🚀 Boost Sales with AI #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "sales",
-        "ai",
-        "agenticenterprise",
-        "sdrlife",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-21T17:56:12.450701+00:00",
-      "stats": null
-    },
-    {
       "video_id": "xnU5IVrA1PI",
       "title": "Bad Data Hurting AI? 🚨 #shorts #salesforce",
       "topic": "",
@@ -3965,6 +3945,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-28T07:48:41.912743+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "DOq7gXnqKrQ",
+      "title": "💸 80% of SMBs Lose Money: Fix with Salesforce #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "financialmanagement",
+        "smb",
+        "accounting",
+        "integration",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-28T10:26:00.967112+00:00",
       "stats": null
     }
   ]
