@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Pt4aIe1I24c",
-      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "einstein",
-        "ai",
-        "automation",
-        "admin",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-21T11:05:03.907887+00:00",
-      "stats": null
-    },
-    {
       "video_id": "thRtEGA1VL0",
       "title": "📈 Boost Sales with Pinterest #shorts #salesforce",
       "topic": "",
@@ -3960,6 +3944,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-27T20:54:50.576865+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "y6BmFKc_xUU",
+      "title": "🚨 85% of APIs Exposed 🚨 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "security",
+        "api",
+        "salesforceapi",
+        "datasecurity",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-28T02:08:47.291765+00:00",
       "stats": null
     }
   ]
