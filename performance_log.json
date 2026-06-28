@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "aoyBQFjbexM",
-      "title": "🚀 AI Shopping: 3 Salesforce Tips #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "llm",
-        "shopping",
-        "marketing",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-22T07:42:42.431978+00:00",
-      "stats": null
-    },
-    {
       "video_id": "yrGZxoKRTU8",
       "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
       "topic": "",
@@ -3966,6 +3946,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-28T17:02:31.232961+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "tAgdHwFQjwg",
+      "title": "🚨 75% Of Orgs Aren't MFA Ready 🕒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "mfa",
+        "security",
+        "salesforceben",
+        "passwordmanagers",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-28T20:56:29.027170+00:00",
       "stats": null
     }
   ]
