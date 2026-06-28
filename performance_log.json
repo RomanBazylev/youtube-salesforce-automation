@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "thRtEGA1VL0",
-      "title": "📈 Boost Sales with Pinterest #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "pinterest",
-        "marketing",
-        "smallbusiness",
-        "salesgrowth",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-21T14:38:33.292064+00:00",
-      "stats": null
-    },
-    {
       "video_id": "k__El-KBDio",
       "title": "🚀 Boost Sales with AI #shorts #salesforce",
       "topic": "",
@@ -3964,6 +3944,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-28T02:08:47.291765+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "uCmd3KTY5aw",
+      "title": "Boost Field Service Efficiency 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "fieldservice",
+        "scheduling",
+        "optimization",
+        "admin",
+        "servicecloud",
+        "appointmentbooking",
+        "shorts",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-28T07:48:41.912743+00:00",
       "stats": null
     }
   ]
