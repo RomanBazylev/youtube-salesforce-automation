@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "yrGZxoKRTU8",
-      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "soql",
-        "apex",
-        "developer",
-        "performance",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-22T10:47:17.382163+00:00",
-      "stats": null
-    },
-    {
       "video_id": "seX-6tk_fsE",
       "title": "💸 80% of SMBs use Salesforce! 🚀 #shorts #salesforce",
       "topic": "",
@@ -3966,6 +3950,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-28T20:56:29.027170+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "_01ncloXVjE",
+      "title": "92% of Salesforce Architects Do This Wrong 😱 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforcearchitect",
+        "productivityhacks",
+        "salesforcedeveloper",
+        "cloudcomputing",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-29T02:11:02.194298+00:00",
       "stats": null
     }
   ]
