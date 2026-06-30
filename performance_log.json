@@ -1,28 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "xTK6rsxO66A",
-      "title": "Boost Personalization with 5 Tips 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "marketingcloud",
-        "personalization",
-        "salesforceadmin",
-        "salesforcearchitect",
-        "salesforcetips",
-        "salesforcebestpractices",
-        "shorts",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-23T20:47:24.271176+00:00",
-      "stats": null
-    },
-    {
       "video_id": "MfNmKL31nZk",
       "title": "Scale AI Workflows 10x Faster 🚀 #shorts #salesforce",
       "topic": "",
@@ -3971,6 +3949,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-30T13:54:28.935630+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "DNpw8iTYe0c",
+      "title": "Boost AE Skills 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "accountexecutive",
+        "salesstrategy",
+        "crossfunctionalexperience",
+        "customerSuccess",
+        "businessdevelopment",
+        "shorts",
+        "admin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-30T17:52:31.290872+00:00",
       "stats": null
     }
   ]
