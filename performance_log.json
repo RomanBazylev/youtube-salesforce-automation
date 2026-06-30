@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "_LywRK3yaB8",
-      "title": "Scale to 1M Users 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforce scaling",
-        "architecture",
-        "concurrent users",
-        "performance optimization",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-23T06:37:21.665084+00:00",
-      "stats": null
-    },
-    {
       "video_id": "fLxfOOP0jsM",
       "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
       "topic": "",
@@ -3970,6 +3950,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-29T21:24:14.435419+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "APCX6JGOX4g",
+      "title": "Unlock 90% Productivity in Salesforce 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "productivity",
+        "slack",
+        "communities",
+        "workflow",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-30T02:05:29.352319+00:00",
       "stats": null
     }
   ]
