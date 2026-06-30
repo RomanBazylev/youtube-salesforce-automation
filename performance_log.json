@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "79Y8zRklu1A",
-      "title": "🚨 75% of Solo Admins Struggle with Salesforce Security #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "security",
-        "salesforceben",
-        "salesforceconsultant",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-23T13:00:05.083101+00:00",
-      "stats": null
-    },
-    {
       "video_id": "iEqY6hXSLbo",
       "title": "🚨 Urgent Salesforce Update 🕒 #shorts #salesforce",
       "topic": "",
@@ -3973,6 +3954,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-06-30T07:47:24.756019+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "ceL-XAqW0hk",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-06-30T10:54:13.036097+00:00",
       "stats": null
     }
   ]
