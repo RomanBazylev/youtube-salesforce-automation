@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "W3nJCY8qaB0",
-      "title": "Simplify Automation 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "automation",
-        "salesforcearchitect",
-        "agentforcebuilder",
-        "technicaldebt",
-        "crm",
-        "trailblazer"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-24T20:48:29.812833+00:00",
-      "stats": null
-    },
-    {
       "video_id": "ql2PFm_Y0Is",
       "title": "Unlock Headless 360 🚀 #shorts #salesforce",
       "topic": "",
@@ -3971,6 +3952,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-01T14:06:41.283130+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "fS_feTXbw-s",
+      "title": "2026 Salesforce Trends 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "architect",
+        "ambassador",
+        "2026",
+        "trends",
+        "bestpractices",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-01T17:52:29.635371+00:00",
       "stats": null
     }
   ]
