@@ -1,28 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "z5j9WhZMSwk",
-      "title": "5 Salesforce Personalization Hacks 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "marketingcloud",
-        "personalization",
-        "salesforceadmin",
-        "salesforcebeginner",
-        "salesforcehacks",
-        "salesforcetips",
-        "shorts",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-24T13:02:36.581505+00:00",
-      "stats": null
-    },
-    {
       "video_id": "9BM--GQRpps",
       "title": "Scale Salesforce to 1M Users 🚀 #shorts #salesforce",
       "topic": "",
@@ -3974,6 +3952,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-01T08:08:32.684228+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "YYvmqsvC8As",
+      "title": "Boost Agent Productivity 30% 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "conversational flows",
+        "agent script",
+        "deterministic state management",
+        "salesforce consulting",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-01T11:31:58.114577+00:00",
       "stats": null
     }
   ]
