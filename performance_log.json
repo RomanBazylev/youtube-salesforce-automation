@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "9BM--GQRpps",
-      "title": "Scale Salesforce to 1M Users 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "scaling",
-        "architecture",
-        "performance",
-        "optimization",
-        "bestpractices",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-24T16:55:19.430185+00:00",
-      "stats": null
-    },
-    {
       "video_id": "W3nJCY8qaB0",
       "title": "Simplify Automation 🚀 #shorts #salesforce",
       "topic": "",
@@ -3972,6 +3951,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-01T11:31:58.114577+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "RZKdPmmBK0I",
+      "title": "💻 AI in Order Servicing #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "AI",
+        "order servicing",
+        "customer service",
+        "salesforce tips",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-01T14:06:41.283130+00:00",
       "stats": null
     }
   ]
