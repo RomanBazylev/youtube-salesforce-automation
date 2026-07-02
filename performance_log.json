@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "uyO9gUjW_2s",
-      "title": "Future-Proof Your Salesforce Career 💻 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "career",
-        "architect",
-        "salesforceben",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-26T07:44:00.696603+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Ac7F-wAbsOk",
       "title": "🚀 Boost Salesforce Productivity with AI #shorts #salesforce",
       "topic": "",
@@ -3973,6 +3953,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-02T17:31:29.944541+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "-76bcK2-vjk",
+      "title": "😱 70% of Users Affected: MFA Update 📣 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "mfa",
+        "security",
+        "salesforceben",
+        "sfupdates",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-02T20:55:09.071754+00:00",
       "stats": null
     }
   ]
