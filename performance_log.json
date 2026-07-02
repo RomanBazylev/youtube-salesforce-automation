@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "-xpdT4apvyw",
-      "title": "💻 80% of Founders Use Salesforce #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "startup",
-        "agenticenterprise",
-        "salesforceconsultant",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-25T21:05:04.670810+00:00",
-      "stats": null
-    },
-    {
       "video_id": "gZq4bgWSatE",
       "title": "Boost Lead Conversion 30% 🚀 #shorts #salesforce",
       "topic": "",
@@ -3971,6 +3952,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-02T10:33:09.291843+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Aqapl-6VTAc",
+      "title": "Boost GRC with 75% fewer risks 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "grc",
+        "governance",
+        "risk",
+        "compliance",
+        "salesforceadmin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-02T13:30:41.442434+00:00",
       "stats": null
     }
   ]
