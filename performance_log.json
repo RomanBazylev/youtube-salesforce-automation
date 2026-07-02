@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "LgAPFyg6XAM",
-      "title": "Boost Finance Skills 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "financial",
-        "smallbusiness",
-        "salesforce developer",
-        "sfblog",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-25T17:36:12.371675+00:00",
-      "stats": null
-    },
-    {
       "video_id": "-xpdT4apvyw",
       "title": "💻 80% of Founders Use Salesforce #shorts #salesforce",
       "topic": "",
@@ -3975,6 +3955,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-02T07:05:43.452798+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "afGIStrFj0Y",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-02T10:33:09.291843+00:00",
       "stats": null
     }
   ]
