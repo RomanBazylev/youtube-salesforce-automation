@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Ac7F-wAbsOk",
-      "title": "🚀 Boost Salesforce Productivity with AI #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceadmin",
-        "ai",
-        "appdevelopment",
-        "productivity",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-26T14:37:19.569408+00:00",
-      "stats": null
-    },
-    {
       "video_id": "ddWJQh40K3g",
       "title": "🚀 Boost B2C Commerce with Storefront Next #shorts #salesforce",
       "topic": "",
@@ -3973,6 +3953,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-02T20:55:09.071754+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "2fAdjnVihwE",
+      "title": "🚨 Avoid App Trap! 💸 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforceadmin",
+        "productivity",
+        "appmanagement",
+        "salesforceoptimization",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-03T01:34:30.710761+00:00",
       "stats": null
     }
   ]
