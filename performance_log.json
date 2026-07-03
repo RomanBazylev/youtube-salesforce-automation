@@ -1,28 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "ddWJQh40K3g",
-      "title": "🚀 Boost B2C Commerce with Storefront Next #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "b2c",
-        "commerce",
-        "storefrontnext",
-        "agilecommerce",
-        "salesforceadmin",
-        "salesforcecommerce",
-        "shorts",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-26T18:22:37.218043+00:00",
-      "stats": null
-    },
-    {
       "video_id": "1Xy1Jjo-fTE",
       "title": "Boost Productivity 30% with Patterns 🚀 #shorts #salesforce",
       "topic": "",
@@ -3973,6 +3951,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-03T01:34:30.710761+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "RfPGXkPNVAw",
+      "title": "🚨 75% of OAuth attacks target Salesforce! 🚨 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "oauth",
+        "security",
+        "salesforcesecurity",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-03T06:59:52.341395+00:00",
       "stats": null
     }
   ]
