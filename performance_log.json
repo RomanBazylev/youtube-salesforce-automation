@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "q3nhF1vbjGI",
-      "title": "Unlock Data 360! 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "data360",
-        "mcp",
-        "developerpreview",
-        "salesforceadmin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-28T07:55:29.674794+00:00",
-      "stats": null
-    },
-    {
       "video_id": "RS_RmL6U9Dw",
       "title": "GetFeedback Ends: 3 Alternatives 🚀 #shorts #salesforce",
       "topic": "",
@@ -3964,6 +3944,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-04T13:00:07.045468+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "zseves8omPM",
+      "title": "🚀 70% of Salesforce Devs Struggle to Showcase Skills #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforcedev",
+        "careeradvice",
+        "salesforcejobs",
+        "salesforceinterview",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-04T16:56:14.559662+00:00",
       "stats": null
     }
   ]
