@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Dfhb8k2_I-c",
-      "title": "Lead to Greatness 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceleadership",
-        "productivity",
-        "efficiency",
-        "crm",
-        "salesforcedeveloper",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-27T14:56:20.537062+00:00",
-      "stats": null
-    },
-    {
       "video_id": "fp9EdPoJKCU",
       "title": "Salesforce Connections 2026 📅 #shorts #salesforce",
       "topic": "",
@@ -3968,6 +3948,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-03T20:59:06.512081+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "lHSO4pSiAOg",
+      "title": "🚀 7 Flow Fails to Fix Now 🕒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "flow",
+        "automation",
+        "screen flow",
+        "record-triggered flow",
+        "schedule-triggered flow",
+        "crm",
+        "trailblazer"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-04T01:35:28.741651+00:00",
       "stats": null
     }
   ]
