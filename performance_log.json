@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "D6yMUzBW38A",
-      "title": "🚀 Boost Org Security 40% with Health Check #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "healthcheck",
-        "security",
-        "salesforceorg",
-        "performance",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-28T01:37:43.014866+00:00",
-      "stats": null
-    },
-    {
       "video_id": "q3nhF1vbjGI",
       "title": "Unlock Data 360! 🚀 #shorts #salesforce",
       "topic": "",
@@ -3965,6 +3945,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-04T10:06:55.524658+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "wW8_MK0ati0",
+      "title": "Boost CRM with 90% less AI 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "crm",
+        "ai",
+        "businessanalyst",
+        "sfblog",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-04T13:00:07.045468+00:00",
       "stats": null
     }
   ]
