@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "5uyFaYCFxBo",
-      "title": "Boost Career 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "trailblazer",
-        "careeradvice",
-        "salesforcecareers",
-        "trailhead",
-        "crm",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-28T15:07:07.102036+00:00",
-      "stats": null
-    },
-    {
       "video_id": "c5wruIYdbFk",
       "title": "Boost Salesforce Skills 🚀 #shorts #salesforce",
       "topic": "",
@@ -3964,6 +3945,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-04T20:48:44.850409+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Mimx68ACbq0",
+      "title": "63% of Salesforce Devs Struggle 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "dev",
+        "career",
+        "salesforceben",
+        "trailhead",
+        "certification",
+        "shorts",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-05T01:37:55.919064+00:00",
       "stats": null
     }
   ]
