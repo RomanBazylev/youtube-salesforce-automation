@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "DDmqvaSWHLg",
-      "title": "🚀 70% of Firms Fail Vibe Coding #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "financialservices",
-        "regulatorycompliance",
-        "vibecoding",
-        "salesforceconsultant",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-29T02:00:59.518060+00:00",
-      "stats": null
-    },
-    {
       "video_id": "FmjP9gdxoW0",
       "title": "💻 1,000 AI Jobs at Salesforce #shorts #salesforce",
       "topic": "",
@@ -3964,6 +3944,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-05T10:09:19.725684+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "-0ZL8mhMU6Y",
+      "title": "🚨 75% of Salesforce Orgs Exposed to OAuth Attacks 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "oauth",
+        "security",
+        "salesforceben",
+        "klue",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-05T13:07:33.134864+00:00",
       "stats": null
     }
   ]
