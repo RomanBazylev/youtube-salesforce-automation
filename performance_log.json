@@ -1,28 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "FLUHMj3p26I",
-      "title": "🔥 11 Award-Winning Agentforce Solutions #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "agentforce",
-        "tdx2026",
-        "salesforce360",
-        "data360",
-        "slack",
-        "tableau",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-28T21:55:22.129600+00:00",
-      "stats": null
-    },
-    {
       "video_id": "DDmqvaSWHLg",
       "title": "🚀 70% of Firms Fail Vibe Coding #shorts #salesforce",
       "topic": "",
@@ -3966,6 +3944,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-05T07:04:39.193194+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "nrGRpaLyvHU",
+      "title": "Boost Data 360 with Code 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "data360",
+        "codeextension",
+        "admin",
+        "shorts",
+        "salesforcedev",
+        "datamanagement",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-05T10:09:19.725684+00:00",
       "stats": null
     }
   ]
