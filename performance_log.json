@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "j7DwmplRiw4",
-      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "soql",
-        "apex",
-        "developer",
-        "performance",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-29T11:08:25.512104+00:00",
-      "stats": null
-    },
-    {
       "video_id": "XlVSNNFXzVc",
       "title": "Salesforce Inspector 2.0: 90% of Admins Use It 🚀 #shorts #salesforce",
       "topic": "",
@@ -3964,6 +3948,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-05T16:58:39.678505+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "8GuBGoLAeKs",
+      "title": "95% of AI Fails Without CRM 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "crm",
+        "ai",
+        "salesforceadmin",
+        "customerrelationshipmanagement",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-05T20:52:26.676265+00:00",
       "stats": null
     }
   ]
