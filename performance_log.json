@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "vcSLJ4SAK38",
-      "title": "Upskill 70% Faster 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforcelearning",
-        "salesforceecosystem",
-        "upsell",
-        "reskill",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-31T02:07:01.650334+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Xkvpp9R1LYI",
       "title": "🚀 Salesforce Surges Past $1B: 6 Tips #shorts #salesforce",
       "topic": "",
@@ -3967,6 +3947,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-07T14:07:07.770846+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "81kn55T9qF4",
+      "title": "AI in Salesforce? 80% Fail #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "accountability",
+        "setup",
+        "permission sets",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-07T17:56:12.326744+00:00",
       "stats": null
     }
   ]
