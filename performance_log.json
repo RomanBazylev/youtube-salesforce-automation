@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "6m_TZ9ikVDk",
-      "title": "🚀 Boost Productivity with Agentforce #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "agentforce",
-        "ai",
-        "productivity",
-        "salesforcedeveloper",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-30T13:06:11.204807+00:00",
-      "stats": null
-    },
-    {
       "video_id": "OWlkP8HgTJc",
       "title": "Boost AI Skills 300% 🚀 #shorts #salesforce",
       "topic": "",
@@ -3970,6 +3950,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-07T01:48:44.130406+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "jt_DM5tW2e0",
+      "title": "Scale B2B Sales 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "b2b sales",
+        "multi-agent architecture",
+        "data discipline",
+        "pipeline management",
+        "sales strategy",
+        "shorts",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-07T07:34:03.386863+00:00",
       "stats": null
     }
   ]
