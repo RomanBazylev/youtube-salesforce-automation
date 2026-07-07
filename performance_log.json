@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Z0D-DOqXrw8",
-      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "einstein",
-        "ai",
-        "automation",
-        "admin",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-30T09:55:58.442907+00:00",
-      "stats": null
-    },
-    {
       "video_id": "6m_TZ9ikVDk",
       "title": "🚀 Boost Productivity with Agentforce #shorts #salesforce",
       "topic": "",
@@ -3966,6 +3950,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-06T21:26:43.714451+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "rXrczySw9Dk",
+      "title": "Unlock 90% of Salesforce Features 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforceben",
+        "AgentExchange",
+        "open source",
+        "AppExchange",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-07T01:48:44.130406+00:00",
       "stats": null
     }
   ]
