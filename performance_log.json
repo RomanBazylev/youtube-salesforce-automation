@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "ycAaO6rGYao",
-      "title": "Boost Admin Productivity 30% with Agentforce! 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "agentforce",
-        "productivity",
-        "setup",
-        "salesforceadmin",
-        "tdx2026",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-31T20:53:25.813342+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Z0d5ov2uoq8",
       "title": "🚀 Boost AI with Data 360 #shorts #salesforce",
       "topic": "",
@@ -3981,6 +3960,26 @@
       ],
       "format": "long",
       "uploaded_at": "2026-07-08T10:29:36.190752+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Y9TP8tJwrxA",
+      "title": "💻 62% of Architects Use AI! 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforcearchitect",
+        "ai",
+        "survey",
+        "2026",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-08T13:28:48.496389+00:00",
       "stats": null
     }
   ]
