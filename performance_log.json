@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "KK8c0DQMHlE",
-      "title": "Headless AI on Salesforce 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "headless",
-        "governance",
-        "architecture",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-31T17:00:46.675724+00:00",
-      "stats": null
-    },
-    {
       "video_id": "ycAaO6rGYao",
       "title": "Boost Admin Productivity 30% with Agentforce! 🚀 #shorts #salesforce",
       "topic": "",
@@ -3971,6 +3951,36 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-08T10:10:50.385514+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "JLrgLMg_Kl0",
+      "title": "Salesforce AI Agents 🤖",
+      "topic": "Your AI Agents, Any Cloud: Building the Agentic Enterprise with Agentforce and Amazon Agentcore",
+      "tags": [
+        "salesforce",
+        "ai",
+        "agentforce",
+        "amazon agentcore",
+        "agentic enterprise",
+        "integration",
+        "mcp",
+        "model context protocol",
+        "external systems",
+        "customer experience",
+        "single source of truth",
+        "security",
+        "governance",
+        "admin",
+        "crm",
+        "trailblazer",
+        "automation",
+        "tutorial",
+        "salesforce tutorial",
+        "salesforce admin"
+      ],
+      "format": "long",
+      "uploaded_at": "2026-07-08T10:29:36.190752+00:00",
       "stats": null
     }
   ]
