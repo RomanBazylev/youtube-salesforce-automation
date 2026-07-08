@@ -1,28 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Z0d5ov2uoq8",
-      "title": "🚀 Boost AI with Data 360 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "data360",
-        "ai",
-        "semanticlayer",
-        "governeddata",
-        "salesforceadmin",
-        "salesforceconsultant",
-        "shorts",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-01T02:16:21.595867+00:00",
-      "stats": null
-    },
-    {
       "video_id": "dtcX3-6eDeQ",
       "title": "6 Salesforce Roles Evolving with AI 🤖 #shorts #salesforce",
       "topic": "",
@@ -3980,6 +3958,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-08T13:28:48.496389+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "FMyPeEuOcp0",
+      "title": "Slackbot Now Does 90% of CRM Tasks 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforceben",
+        "slackbot",
+        "crm",
+        "tableau",
+        "data360",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-08T17:21:41.089098+00:00",
       "stats": null
     }
   ]
