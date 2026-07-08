@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "vFLXVXVjnng",
-      "title": "AI Model Transparency 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "modelcards",
-        "transparency",
-        "salesforceblog",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-05-31T13:14:19.761449+00:00",
-      "stats": null
-    },
-    {
       "video_id": "KK8c0DQMHlE",
       "title": "Headless AI on Salesforce 🚀 #shorts #salesforce",
       "topic": "",
@@ -3970,6 +3950,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-08T06:30:28.712968+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "aEXbM3wLg_0",
+      "title": "💻 70% of Salesforce Jobs Require AI Skills by 2030 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforcecareers",
+        "AI",
+        "2030",
+        "jobs",
+        "upskill",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-08T10:10:50.385514+00:00",
       "stats": null
     }
   ]
