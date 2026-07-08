@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "dtcX3-6eDeQ",
-      "title": "6 Salesforce Roles Evolving with AI 🤖 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "careers",
-        "cloud",
-        "tech",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-01T09:16:24.031646+00:00",
-      "stats": null
-    },
-    {
       "video_id": "MXM4_Ac6HgU",
       "title": "🔒 Passkeys Required for 80% of Users by July 1 #shorts #salesforce",
       "topic": "",
@@ -3978,6 +3958,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-08T17:21:41.089098+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "rKsZ9e6GgRI",
+      "title": "💻 HubSpot's AI Data Sharing Mistake: 3 Salesforce Security Tips #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "security",
+        "hubspot",
+        "ai",
+        "data",
+        "sharing",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-08T21:00:44.050688+00:00",
       "stats": null
     }
   ]
