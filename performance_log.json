@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "MUZwSApypHY",
-      "title": "Salesforce Acquires Contentful! 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "contentful",
-        "headless360",
-        "acquisition",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-02T15:56:01.252827+00:00",
-      "stats": null
-    },
-    {
       "video_id": "pqk9DCAWzSI",
       "title": "Build Trust with 80% Transparency #shorts #salesforce",
       "topic": "",
@@ -3990,6 +3971,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-09T14:33:32.573076+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "lJRy9wBmP5s",
+      "title": "🚀 70% of SMBs Switch to Vibe-Coded CRMs #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "vibecoding",
+        "crm",
+        "lowcode",
+        "smb",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-09T17:51:51.589715+00:00",
       "stats": null
     }
   ]
