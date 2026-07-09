@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "pqk9DCAWzSI",
-      "title": "Build Trust with 80% Transparency #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "customertrust",
-        "ai",
-        "smb",
-        "loyalty",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-02T19:40:04.446517+00:00",
-      "stats": null
-    },
-    {
       "video_id": "FNdSvSx0Un8",
       "title": "Unlock Agentforce 🚀 #shorts #salesforce",
       "topic": "",
@@ -3990,6 +3970,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-09T17:51:51.589715+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "CrV3KI7Y7Gs",
+      "title": "🚀 Boost Startup Growth 500% #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "marketing",
+        "startup",
+        "campaign",
+        "success",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-09T21:16:21.352369+00:00",
       "stats": null
     }
   ]
