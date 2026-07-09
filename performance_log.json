@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "gxYbSVO1zHI",
-      "title": "5️⃣ Martech Trends 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "martech",
-        "trends",
-        "salesforce developer",
-        "customer data",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-02T02:15:57.028313+00:00",
-      "stats": null
-    },
-    {
       "video_id": "PY53LyeNoIU",
       "title": "Master Salesforce Flow in 90 Days 🚀 #shorts #salesforce",
       "topic": "",
@@ -3979,6 +3959,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-09T07:33:21.354645+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "1D_EWjPE4NE",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-09T10:58:10.147925+00:00",
       "stats": null
     }
   ]
