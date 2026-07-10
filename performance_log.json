@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "jgNBseQA3iQ",
-      "title": "Build Trust with 85% Transparency 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "customertrust",
-        "salesforceconsultant",
-        "smb",
-        "transparency",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-03T22:28:26.799532+00:00",
-      "stats": null
-    },
-    {
       "video_id": "njutq94D3os",
       "title": "Boost Salesforce Security 🚀 #shorts #salesforce",
       "topic": "",
@@ -3991,6 +3970,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-10T13:58:58.736923+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "TzfnZWk-FBY",
+      "title": "75% of Salesforce Admins Prefer Clicks Over Code 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "clicksnotcode",
+        "lowcode",
+        "salesforceben",
+        "salesforceadmin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-10T17:48:51.744311+00:00",
       "stats": null
     }
   ]
