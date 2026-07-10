@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "adx6kf8MtnA",
-      "title": "Boost Agentforce 360 with 11 Award-Winning Tips 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "agentforce",
-        "data360",
-        "slack",
-        "tableau",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-03T08:52:54.664488+00:00",
-      "stats": null
-    },
-    {
       "video_id": "snlNdmBJiDM",
       "title": "Master Salesforce Flow in 90 Days 🚀 #shorts #salesforce",
       "topic": "",
@@ -3990,6 +3970,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-10T07:31:12.527786+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "7fTuWhVXZs0",
+      "title": "🚀 Boost Marketing Cloud Next #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "marketingcloud",
+        "marketingautomation",
+        "salesforceben",
+        "martech",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-10T10:49:37.833104+00:00",
       "stats": null
     }
   ]
