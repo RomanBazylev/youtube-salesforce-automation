@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "snlNdmBJiDM",
-      "title": "Master Salesforce Flow in 90 Days 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "flow",
-        "automation",
-        "productivity",
-        "learning",
-        "crm",
-        "trailblazer"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-03T16:17:33.118597+00:00",
-      "stats": null
-    },
-    {
       "video_id": "jgNBseQA3iQ",
       "title": "Build Trust with 85% Transparency 🚀 #shorts #salesforce",
       "topic": "",
@@ -3990,6 +3971,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-10T10:49:37.833104+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "67hN--SJqMY",
+      "title": "Boost Sales with 12 Tips 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "socialmedia",
+        "advertising",
+        "sales",
+        "marketing",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-10T13:58:58.736923+00:00",
       "stats": null
     }
   ]
