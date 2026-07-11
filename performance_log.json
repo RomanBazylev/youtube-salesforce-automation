@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "wxDN4xeduGo",
-      "title": "Boost Productivity 300% with Salesforce Tips 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "productivity",
-        "salesforce tips",
-        "workflow optimization",
-        "salesforce admin podcast",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-05T08:06:27.488717+00:00",
-      "stats": null
-    },
-    {
       "video_id": "b0VIsqj2wFc",
       "title": "🚀 Boost Email Marketing with Salesforce #shorts #salesforce",
       "topic": "",
@@ -3989,6 +3969,28 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-11T16:47:56.351709+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "NuX5WqDK8cM",
+      "title": "Boost Sales with Tableau Next! 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "tableau next",
+        "slackbot skills",
+        "ai-ready semantic models",
+        "conversational analytics",
+        "salesforce admin",
+        "salesforce consultant",
+        "shorts",
+        "admin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-11T20:44:30.041009+00:00",
       "stats": null
     }
   ]
