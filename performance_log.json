@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "g87TDRJQjlU",
-      "title": "🚀 Boost Productivity with Agentforce #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "agentforce",
-        "tdx2026",
-        "productivity",
-        "ai",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-04T21:29:19.448343+00:00",
-      "stats": null
-    },
-    {
       "video_id": "0-EiZDdH8S8",
       "title": "AI-Powered Salesforce 🚀 #shorts #salesforce",
       "topic": "",
@@ -3988,6 +3968,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-11T09:20:08.765077+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "t0suIISKzcI",
+      "title": "🚀 4,800 Jobs Cut: Future-Proof Your Salesforce Career #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "careeradvice",
+        "salesforcecareers",
+        "ai",
+        "futureproof",
+        "salesforcearchitect",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-11T12:52:27.048881+00:00",
       "stats": null
     }
   ]
