@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "0-EiZDdH8S8",
-      "title": "AI-Powered Salesforce 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "einstein",
-        "ai",
-        "analytics",
-        "productivity",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-05T02:06:58.751033+00:00",
-      "stats": null
-    },
-    {
       "video_id": "wxDN4xeduGo",
       "title": "Boost Productivity 300% with Salesforce Tips 🚀 #shorts #salesforce",
       "topic": "",
@@ -3989,6 +3969,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-11T12:52:27.048881+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "o_9Cbp1_FB4",
+      "title": "Slackbot Now Replaces Salesforce? 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "slackbot",
+        "crm",
+        "tableau",
+        "data360",
+        "agentforce",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-11T16:47:56.351709+00:00",
       "stats": null
     }
   ]
