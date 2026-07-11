@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "WYqKOh5J6UQ",
-      "title": "5 Martech Trends 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "martech",
-        "trends",
-        "ai",
-        "datastrategy",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-04T08:18:27.291390+00:00",
-      "stats": null
-    },
-    {
       "video_id": "lC8MOzueUno",
       "title": "Unlock Salesforce Headless 360 🚀 #shorts #salesforce",
       "topic": "",
@@ -3990,6 +3970,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-10T21:06:27.852651+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "0x46gyx7OhM",
+      "title": "Salesforce Updates: 80% of Admins Rely on Profiles 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforce permissions",
+        "permission sets",
+        "profiles",
+        "spring 26 updates",
+        "salesforce best practices",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-11T01:22:21.978902+00:00",
       "stats": null
     }
   ]
