@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "j7en6-YfIWc",
-      "title": "Boost Newsletter Clicks 300% 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "newsletter",
-        "emailmarketing",
-        "clickrates",
-        "engagement",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-05T21:23:36.175347+00:00",
-      "stats": null
-    },
-    {
       "video_id": "uyWrxs228G8",
       "title": "💡 72% of Admins Struggle with Salesforce Security #shorts #salesforce",
       "topic": "",
@@ -3991,6 +3971,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-12T09:45:37.754414+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "iiYBJzBnTOo",
+      "title": "Auto 67% Inquiries 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "automation",
+        "customer service",
+        "admin",
+        "shorts",
+        "salesforce tips",
+        "agentforce",
+        "crm",
+        "trailblazer"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-12T12:53:39.315471+00:00",
       "stats": null
     }
   ]
