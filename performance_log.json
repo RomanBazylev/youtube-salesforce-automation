@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "7Zo_tpMPyUk",
-      "title": "Unlock Salesforce MVP Secrets 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "mvp",
-        "trailhead",
-        "salesforcecommunity",
-        "salesforceconsultant",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-06T06:53:36.052975+00:00",
-      "stats": null
-    },
-    {
       "video_id": "WUDI7-lRJ0g",
       "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
       "topic": "",
@@ -3989,6 +3969,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-12T16:48:26.641255+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Y-bni3Ap0e0",
+      "title": "AI in Salesforce? 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "accountability",
+        "salesforcearchitect",
+        "sfdc",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-12T20:43:03.768786+00:00",
       "stats": null
     }
   ]
