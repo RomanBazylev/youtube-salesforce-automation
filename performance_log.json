@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "uyWrxs228G8",
-      "title": "💡 72% of Admins Struggle with Salesforce Security #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceben",
-        "2026",
-        "survey",
-        "security",
-        "productivity",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-06T01:59:26.273591+00:00",
-      "stats": null
-    },
-    {
       "video_id": "7Zo_tpMPyUk",
       "title": "Unlock Salesforce MVP Secrets 🚀 #shorts #salesforce",
       "topic": "",
@@ -3990,6 +3969,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-12T12:53:39.315471+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "0PQuJHdj_wE",
+      "title": "🚀 Boost Sales with Social Ads #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "socialmedia",
+        "advertising",
+        "sales",
+        "marketing",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-12T16:48:26.641255+00:00",
       "stats": null
     }
   ]
