@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "eiUG0Ce_uBc",
-      "title": "Vibe Coding in Salesforce? 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "vibecoding",
-        "salesforceben",
-        "flow",
-        "xml",
-        "pointandclick",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-05T14:23:29.746217+00:00",
-      "stats": null
-    },
-    {
       "video_id": "FrvhEnhfjOY",
       "title": "Reduce Salesforce Debt 🚀 #shorts #salesforce",
       "topic": "",
@@ -3992,6 +3971,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-12T01:26:25.893684+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "akQPIKGAK1E",
+      "title": "Winter '27 Release 🚨 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "winter27",
+        "releaseupdate",
+        "salesforceben",
+        "sfdev",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-12T06:31:00.053062+00:00",
       "stats": null
     }
   ]
