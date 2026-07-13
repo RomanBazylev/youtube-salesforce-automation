@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "pfGPJlHX5zo",
-      "title": "🚀 Boost Productivity 30% with Help Agent #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "helpagent",
-        "productivity",
-        "workflow",
-        "configuration",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-06T20:57:54.079205+00:00",
-      "stats": null
-    },
-    {
       "video_id": "h5eDFz978ts",
       "title": "🚀 70% of Salesforce Admins Overwhelmed? 🤯 #shorts #salesforce",
       "topic": "",
@@ -3990,6 +3970,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-13T10:54:45.044634+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "mDSZHqgpNlo",
+      "title": "Boost Sales with Einstein 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einsteinanalytics",
+        "googleanalytics",
+        "salesforcetips",
+        "admin",
+        "shorts",
+        "salesforceconsultant",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-13T14:03:31.360126+00:00",
       "stats": null
     }
   ]
