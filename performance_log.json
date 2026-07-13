@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "h5eDFz978ts",
-      "title": "🚀 70% of Salesforce Admins Overwhelmed? 🤯 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceben",
-        "productivity",
-        "SFDC",
-        "CRM",
-        "salesforceadmin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-07T02:11:26.673792+00:00",
-      "stats": null
-    },
-    {
       "video_id": "dPJJhUINous",
       "title": "4 New AI Agents in Salesforce! 🚀 #shorts #salesforce",
       "topic": "",
@@ -3990,6 +3969,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-13T14:03:31.360126+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "l61V0QIDwB8",
+      "title": "52.7% of Architects Prefer Customer Roles 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "careergoals",
+        "salesforcearchitect",
+        "endcustomerroles",
+        "salesforcecareer",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-13T17:54:03.658091+00:00",
       "stats": null
     }
   ]
