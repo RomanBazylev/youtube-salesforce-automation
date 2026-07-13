@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "f5FEWZuboIs",
-      "title": "5 Salesforce Flow Types 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceben",
-        "flowtypes",
-        "automation",
-        "productivity",
-        "crm",
-        "trailblazer"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-06T17:01:48.194528+00:00",
-      "stats": null
-    },
-    {
       "video_id": "pfGPJlHX5zo",
       "title": "🚀 Boost Productivity 30% with Help Agent #shorts #salesforce",
       "topic": "",
@@ -3993,6 +3974,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-13T06:52:49.171780+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "8xVOp1tkRNY",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-13T10:54:45.044634+00:00",
       "stats": null
     }
   ]
