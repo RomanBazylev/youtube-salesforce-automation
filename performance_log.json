@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "dPJJhUINous",
-      "title": "4 New AI Agents in Salesforce! 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceconnections",
-        "agenticsegmentation",
-        "aiagents",
-        "marketingautomation",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-07T07:54:33.348249+00:00",
-      "stats": null
-    },
-    {
       "video_id": "oheGExRvd_Q",
       "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
       "topic": "",
@@ -3989,6 +3969,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-13T17:54:03.658091+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "wAzmHSk7yCw",
+      "title": "Franken-Stacked? Simplify with Salesforce 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "productivity",
+        "salesforceTips",
+        "cloudcomputing",
+        "crm",
+        "salesforcebeginner",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-13T20:53:04.379918+00:00",
       "stats": null
     }
   ]
