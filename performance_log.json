@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "LnathVp1dPE",
-      "title": "10 Free Email Tools 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "emailmarketing",
-        "smallbusiness",
-        "startups",
-        "marketingautomation",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-08T02:15:42.312839+00:00",
-      "stats": null
-    },
-    {
       "video_id": "TOMfCdZwQ4U",
       "title": "💻 Reduce Salesforce Technical Debt by 30% in 2026 #shorts #salesforce",
       "topic": "",
@@ -3997,6 +3977,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-14T13:06:21.892028+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "uXm_gkG5PC4",
+      "title": "🚀 Boost Capacity 13.9% with AI! #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "canadagoose",
+        "agentforce",
+        "customerexperience",
+        "revenuegrowth",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-14T17:06:21.556969+00:00",
       "stats": null
     }
   ]
