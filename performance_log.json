@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "_gyZXrrfnlc",
-      "title": "AI Adoption in Salesforce 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "adoption",
-        "technology",
-        "salesforceben",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-07T13:22:53.193855+00:00",
-      "stats": null
-    },
-    {
       "video_id": "3UVl1Hu92xE",
       "title": "🚀 Transform Facilities Management #shorts #salesforce",
       "topic": "",
@@ -3993,6 +3973,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-14T01:17:39.076807+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "TxYfSx-l9io",
+      "title": "🚀 Upskill with AI: 80% of Jobs Changed #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "upskill",
+        "reskill",
+        "careerdevelopment",
+        "salesforceben",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-14T06:08:59.284226+00:00",
       "stats": null
     }
   ]
