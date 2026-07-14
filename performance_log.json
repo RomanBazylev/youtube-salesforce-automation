@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "3UVl1Hu92xE",
-      "title": "🚀 Transform Facilities Management #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "facilitiesmanagement",
-        "growthengine",
-        "salesforcedeveloper",
-        "enterprise",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-07T17:08:52.848038+00:00",
-      "stats": null
-    },
-    {
       "video_id": "4jSjHnGxt_s",
       "title": "🚀 Boost Productivity with Agentforce Coworker #shorts #salesforce",
       "topic": "",
@@ -3994,6 +3974,29 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-14T06:08:59.284226+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "U9uQF9eZ88w",
+      "title": "🚀 Boost Adoption by 30% with Marketing Cloud #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "marketingcloud",
+        "onboarding",
+        "adoption",
+        "rawlingssportinggoods",
+        "indianawesleyanuniversity",
+        "salesforceadmin",
+        "salesforcebusinessanalyst",
+        "shorts",
+        "admin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-14T09:47:22.192515+00:00",
       "stats": null
     }
   ]
