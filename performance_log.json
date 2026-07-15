@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "NUZ4d_52WLs",
-      "title": "Boost Career with Salesforce Certs 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "certification",
-        "career",
-        "salesforceconsultant",
-        "salesforceprofessional",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-09T17:54:35.969513+00:00",
-      "stats": null
-    },
-    {
       "video_id": "KhlOhQaP9Xc",
       "title": "Unlock Salesforce Flow 🚀 #shorts #salesforce",
       "topic": "",
@@ -4004,6 +3984,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-15T17:07:36.830321+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "7XBwZljm678",
+      "title": "Boost Capacity 13.9% with AI! 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "AI",
+        "Agentforce",
+        "customer satisfaction",
+        "revenue generation",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-15T20:55:20.687037+00:00",
       "stats": null
     }
   ]
