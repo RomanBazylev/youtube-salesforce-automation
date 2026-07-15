@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "O_5z-zo6KyM",
-      "title": "💼 75% of Salesforce Pros Use Mentorship #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "mentorship",
-        "career growth",
-        "future pathways",
-        "salesforce tips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-09T07:41:40.307486+00:00",
-      "stats": null
-    },
-    {
       "video_id": "TwXp3k-3ElY",
       "title": "AI-Powered Salesforce 🚀 #shorts #salesforce",
       "topic": "",
@@ -3994,6 +3974,36 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-15T09:54:30.382647+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "KcExX8fnS0g",
+      "title": "Mastering Salesforce Flow 🚀💻",
+      "topic": "How to Prevent Technical Debt in Salesforce Flow",
+      "tags": [
+        "salesforce",
+        "salesforce flow",
+        "technical debt",
+        "modular design patterns",
+        "subflows",
+        "naming conventions",
+        "version management",
+        "flow sprawl",
+        "right tool for the job",
+        "governor limits",
+        "architecture",
+        "debugging",
+        "standardization",
+        "review process",
+        "education and training",
+        "admin",
+        "crm",
+        "trailblazer",
+        "automation",
+        "tutorial"
+      ],
+      "format": "long",
+      "uploaded_at": "2026-07-15T10:08:57.737536+00:00",
       "stats": null
     }
   ]
