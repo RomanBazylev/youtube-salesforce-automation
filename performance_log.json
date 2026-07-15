@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Hcb2KD8nTeY",
-      "title": "🚀 80% Faster: Headless IT Ops in Salesforce #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "headless",
-        "itops",
-        "automation",
-        "workflow",
-        "productivity",
-        "crm",
-        "trailblazer"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-08T21:38:32.711435+00:00",
-      "stats": null
-    },
-    {
       "video_id": "nNi5r8g2EfY",
       "title": "Boost Sales 25% with Try Before You Buy 🚀 #shorts #salesforce",
       "topic": "",
@@ -3997,6 +3977,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-15T01:15:53.804793+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Hi0bPiZCp4E",
+      "title": "🚀 Boost AI Trust with 5 Requirements #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "trust",
+        "architecture",
+        "requirements",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-15T06:11:57.743280+00:00",
       "stats": null
     }
   ]
