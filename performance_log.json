@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "TwXp3k-3ElY",
-      "title": "AI-Powered Salesforce 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "salesforcearchitect",
-        "salesforceadmin",
-        "aiadoption",
-        "digitalsolutions",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-09T10:58:27.575237+00:00",
-      "stats": null
-    },
-    {
       "video_id": "NGDlEnkYYDA",
       "title": "Salesforce AI Boom 🚀 #shorts #salesforce",
       "topic": "",
@@ -4004,6 +3983,26 @@
       ],
       "format": "long",
       "uploaded_at": "2026-07-15T10:08:57.737536+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "N48GkMqzmv4",
+      "title": "850+ Architects Agree: #shorts #salesforce 🚀",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "architect",
+        "salesforceben",
+        "survey",
+        "2026",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-15T13:09:13.876440+00:00",
       "stats": null
     }
   ]
