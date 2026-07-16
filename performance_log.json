@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "X8-EfZ0dN1A",
-      "title": "📝 Master Meeting Notes in 60s 🕒 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "meetingnotes",
-        "productivity",
-        "salesforcearchitect",
-        "salesforcetips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-10T02:05:39.995020+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Zx4J0x7lUtM",
       "title": "🚀 80% of Customers Leave Due to Slow Loan Processing #shorts #salesforce",
       "topic": "",
@@ -4005,6 +3985,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-16T01:22:46.760559+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Hg8pSWmXhAc",
+      "title": "🚀 Boost Org Efficiency 30% with AI-Assisted Discovery #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "orgdiscovery",
+        "ai",
+        "efficiency",
+        "salesforceoptimization",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-16T06:16:42.917057+00:00",
       "stats": null
     }
   ]
