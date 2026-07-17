@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "UZYUCvrRJi4",
-      "title": "24 Salesforce Certs Retiring! 🚨 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "certifications",
-        "salesforceben",
-        "trailhead",
-        "careerdev",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-11T02:16:44.547469+00:00",
-      "stats": null
-    },
-    {
       "video_id": "A8BRvlfWhFE",
       "title": "Unlock Salesforce Reference Diagrams 🚀 #shorts #salesforce",
       "topic": "",
@@ -4007,6 +3987,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-17T01:25:37.858637+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "DMPlccvtRUM",
+      "title": "🚀 70% of Salesforce Jobs Shift in 2026 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "careers",
+        "2026",
+        "AI",
+        "automation",
+        "upskill",
+        "crm",
+        "trailblazer"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-17T06:17:31.264006+00:00",
       "stats": null
     }
   ]
