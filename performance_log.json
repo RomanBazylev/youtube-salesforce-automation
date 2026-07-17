@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "AvPvsdO9g1s",
-      "title": "📈 80% of Users Leverage Podcasts in Salesforce #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "podcasting",
-        "marketing",
-        "startup",
-        "SMB",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-11T22:00:11.020587+00:00",
-      "stats": null
-    },
-    {
       "video_id": "ZxluhhZ1yhU",
       "title": "🚀 80% of Startups Miss This Salesforce Opportunity #shorts #salesforce",
       "topic": "",
@@ -4003,6 +3983,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-17T17:02:44.787957+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "o7t7YLmO6Lw",
+      "title": "🚀 Agentforce Pricing: 75% of Users Switched! #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "agentforce",
+        "pricing",
+        "pay-per-resolution",
+        "salesforce admin",
+        "crm",
+        "salesforce tips",
+        "shorts",
+        "admin",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-17T20:48:00.875059+00:00",
       "stats": null
     }
   ]
