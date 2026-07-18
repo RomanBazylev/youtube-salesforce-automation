@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "KZd8FaiW_Cg",
-      "title": "Boost Agentforce Adoption 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "agentforce",
-        "ai",
-        "adoption",
-        "bestpractices",
-        "salesforceben",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-12T14:43:04.787294+00:00",
-      "stats": null
-    },
-    {
       "video_id": "nurhApBWuh4",
       "title": "🚀 80% of Devs Use AI Code: Safely Deploy in Salesforce #shorts #salesforce",
       "topic": "",
@@ -4006,6 +3985,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-18T06:02:25.142319+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "PYMbwBbiTgM",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-18T09:22:20.684785+00:00",
       "stats": null
     }
   ]
