@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "ZxluhhZ1yhU",
-      "title": "🚀 80% of Startups Miss This Salesforce Opportunity #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ecommerce",
-        "startups",
-        "trailblazer",
-        "commercecloud",
-        "crm",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-12T02:12:44.931903+00:00",
-      "stats": null
-    },
-    {
       "video_id": "hgy7jIkD8c4",
       "title": "AI in Salesforce 🚀 #shorts #salesforce",
       "topic": "",
@@ -4004,6 +3985,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-17T20:48:00.875059+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "s5IyQspJ57A",
+      "title": "Salesforce Survival in AI Era 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "AI",
+        "VibeCoding",
+        "SalesforceConsultant",
+        "CRM",
+        "CloudComputing",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-18T01:18:04.058938+00:00",
       "stats": null
     }
   ]
