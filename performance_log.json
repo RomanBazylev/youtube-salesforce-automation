@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "nurhApBWuh4",
-      "title": "🚀 80% of Devs Use AI Code: Safely Deploy in Salesforce #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "AI",
-        "code",
-        "deployment",
-        "salesforceben",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-12T18:06:32.539799+00:00",
-      "stats": null
-    },
-    {
       "video_id": "UjHJrqt1Zxk",
       "title": "Boost Feedback 300% 🚀 #shorts #salesforce",
       "topic": "",
@@ -4001,6 +3981,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-18T09:22:20.684785+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "D5t0TzQnC-k",
+      "title": "💡 75% of Salesforce Events Changed: What's Next? #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "dreamforce",
+        "trailblazerdx",
+        "trailblazer",
+        "salesforceevents",
+        "crm",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-18T12:50:38.735809+00:00",
       "stats": null
     }
   ]
