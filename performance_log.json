@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "hgy7jIkD8c4",
-      "title": "AI in Salesforce 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "AI",
-        "salesforceAI",
-        "adminTips",
-        "salesforceAdmin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-12T08:22:00.158801+00:00",
-      "stats": null
-    },
-    {
       "video_id": "KZd8FaiW_Cg",
       "title": "Boost Agentforce Adoption 🚀 #shorts #salesforce",
       "topic": "",
@@ -4006,6 +3986,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-18T01:18:04.058938+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Z8bugXLWeew",
+      "title": "25+ AI Tools 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "businessmanagement",
+        "entrepreneurs",
+        "productivity",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-18T06:02:25.142319+00:00",
       "stats": null
     }
   ]
