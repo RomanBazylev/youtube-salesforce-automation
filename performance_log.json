@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "axxR1fPw18Y",
-      "title": "1 Admin? 🚨 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceorg",
-        "salesforcedev",
-        "salesforceben",
-        "salesforcebestpractices",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-13T02:06:02.181435+00:00",
-      "stats": null
-    },
-    {
       "video_id": "mwVzzV9aMkw",
       "title": "Only 23% of Salesforce Admins Engage Online 🚀 #shorts #salesforce",
       "topic": "",
@@ -4000,6 +3980,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-18T16:50:05.385746+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "KAiLj5xrZGk",
+      "title": "Salesforce U-Turn: 75% of Admins Relief 🚨 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "permissions",
+        "profiles",
+        "salesforceben",
+        "trailblazer",
+        "crm",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-18T20:43:16.211537+00:00",
       "stats": null
     }
   ]
