@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "5H4vXaYhhnQ",
-      "title": "💻 Modernize Your Contact Center #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "contactcenter",
-        "ai",
-        "servicecloud",
-        "telephony",
-        "integration",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-14T02:14:26.572931+00:00",
-      "stats": null
-    },
-    {
       "video_id": "AXlz1kpPuF4",
       "title": "🚨 300 Staff Cut: Optimize Salesforce #shorts #salesforce",
       "topic": "",
@@ -4001,6 +3980,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-19T16:47:22.585854+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "ciaRqSZq_-k",
+      "title": "💻 27% Demand Surge for Salesforce Architects in 2026! #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforcearchitect",
+        "technicalarchitect",
+        "solutionarchitect",
+        "careergoals",
+        "salesforcecareer",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-19T20:43:56.094517+00:00",
       "stats": null
     }
   ]
