@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "8xO4Il3nTvw",
-      "title": "🚨 24 Salesforce Certs Retiring! #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "certifications",
-        "career",
-        "architecture",
-        "cloud",
-        "salesforceben",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-13T10:27:46.203936+00:00",
-      "stats": null
-    },
-    {
       "video_id": "DsXs0s7iVro",
       "title": "Salesforce Headless Future? 🚀 #shorts #salesforce",
       "topic": "",
@@ -4000,6 +3979,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-19T01:22:47.078804+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "MOkvduCzEis",
+      "title": "🚀 Cut Agentforce Costs by 30% with Pay-Per-Resolution #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "agentforce",
+        "pay-per-resolution",
+        "customer service",
+        "salesforce tips",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-19T06:27:19.565252+00:00",
       "stats": null
     }
   ]
