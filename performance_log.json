@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "AXlz1kpPuF4",
-      "title": "🚨 300 Staff Cut: Optimize Salesforce #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "servicenow",
-        "ai",
-        "optimization",
-        "architecture",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-14T08:11:55.801587+00:00",
-      "stats": null
-    },
-    {
       "video_id": "VOlL4OqNEpw",
       "title": "Claude Fable 5 Boosts Salesforce 🚀 #shorts #salesforce",
       "topic": "",
@@ -4001,6 +3981,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-19T20:43:56.094517+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Kyew9ywdT-g",
+      "title": "850+ Architects Share Salesforce Secrets 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforcearchitect",
+        "salesforceben",
+        "salesforceadmintips",
+        "salesforcelearning",
+        "salesforcecommunity",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-20T03:19:47.234767+00:00",
       "stats": null
     }
   ]
