@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "LE7ZzPfu_kg",
-      "title": "AI in Salesforce 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "analytics",
-        "software engineering",
-        "mythos",
-        "claud fable 5",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-14T21:04:02.764020+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Sa2sGgP7yUQ",
       "title": "🚀 Boost Alignment with Salesforce Ref Diagrams #shorts #salesforce",
       "topic": "",
@@ -4005,6 +3984,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-20T10:49:32.970519+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "ZcHEnD5NLyM",
+      "title": "Slack Hacks in Salesforce 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "slack",
+        "productivity",
+        "salesforcearchitect",
+        "integration",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-20T13:47:02.662669+00:00",
       "stats": null
     }
   ]
