@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "BWMCnDgrlRo",
-      "title": "Boost Ecommerce 300% 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ecommerce",
-        "startups",
-        "commercecloud",
-        "trailblazer",
-        "crm",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-14T17:12:21.057437+00:00",
-      "stats": null
-    },
-    {
       "video_id": "LE7ZzPfu_kg",
       "title": "AI in Salesforce 🚀 #shorts #salesforce",
       "topic": "",
@@ -4002,6 +3983,28 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-20T06:43:56.908851+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "gzuER7mjL_E",
+      "title": "50% of Salesforce Events Attendees Use Mobile App 📊 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "salesforceevents",
+        "dreamforce",
+        "trailblazerdx",
+        "salesforceadmin",
+        "salesforceben",
+        "salesforcetips",
+        "shorts",
+        "admin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-20T10:49:32.970519+00:00",
       "stats": null
     }
   ]
