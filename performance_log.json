@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "VOlL4OqNEpw",
-      "title": "Claude Fable 5 Boosts Salesforce 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "anthropic",
-        "claude fable 5",
-        "mythos model",
-        "ai integration",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-14T13:31:47.131644+00:00",
-      "stats": null
-    },
-    {
       "video_id": "BWMCnDgrlRo",
       "title": "Boost Ecommerce 300% 🚀 #shorts #salesforce",
       "topic": "",
@@ -4002,6 +3982,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-20T03:19:47.234767+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "-cGVwNxYeQw",
+      "title": "Salesforce Trust Survey 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "communitysurvey",
+        "salesforceben",
+        "trustsalesforce",
+        "salesforcecommunity",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-20T06:43:56.908851+00:00",
       "stats": null
     }
   ]
