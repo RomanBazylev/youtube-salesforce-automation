@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "_P_rip6Y1p8",
-      "title": "🚨 70% of Salesforce Orgs Lack Security Setup 🚨 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "security",
-        "salesforceben",
-        "sharedresponsibility",
-        "cybersecurity",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-16T02:25:09.545013+00:00",
-      "stats": null
-    },
-    {
       "video_id": "jN-l8MEthcw",
       "title": "🚀 Absa Bank's Salesforce Secret #shorts #salesforce",
       "topic": "",
@@ -4001,6 +3981,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-21T06:30:53.291017+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "qcDEUHWbb1w",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-21T10:17:54.296636+00:00",
       "stats": null
     }
   ]
