@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "KCzqmeeozZo",
-      "title": "Zero Trust in 60s 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "zerotrust",
-        "security",
-        "salesforcesecurity",
-        "admin tips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-15T16:56:03.073598+00:00",
-      "stats": null
-    },
-    {
       "video_id": "UZKwjb7eF1I",
       "title": "Boost Agentforce with 80% Success Rate 🚀 #shorts #salesforce",
       "topic": "",
@@ -4002,6 +3982,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-20T21:06:47.059355+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "BiUhID_68ws",
+      "title": "Holiday Sales 📈 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "holiday_sales",
+        "retail",
+        "sales",
+        "marketing",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-21T01:22:59.871032+00:00",
       "stats": null
     }
   ]
