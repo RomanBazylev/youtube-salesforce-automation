@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "jN-l8MEthcw",
-      "title": "🚀 Absa Bank's Salesforce Secret #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "agentforce",
-        "sme",
-        "celent",
-        "modelbank",
-        "salesforceconsultant",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-16T09:22:13.557070+00:00",
-      "stats": null
-    },
-    {
       "video_id": "vOoF7oAgVHU",
       "title": "Salesforce Careers Shift 🚀 #shorts #salesforce",
       "topic": "",
@@ -3997,6 +3976,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-21T10:17:54.296636+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "j_BWOUbgCt4",
+      "title": "Salesforce Data Cloud Struggles 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "datacloud",
+        "salesforceben",
+        "data360",
+        "businessanalyst",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-21T13:17:06.448704+00:00",
       "stats": null
     }
   ]
