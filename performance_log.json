@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "R9Bhz7kzHAE",
-      "title": "Boost Growth by 25% with Loyalty Programs 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "loyalty programs",
-        "referral marketing",
-        "customer engagement",
-        "salesforce architect",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-18T02:17:43.550862+00:00",
-      "stats": null
-    },
-    {
       "video_id": "0i_k1Y7Zdis",
       "title": "💻 80% of Salesforce Hacks Preventable 🚀 #shorts #salesforce",
       "topic": "",
@@ -3994,6 +3974,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-22T13:21:55.841500+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "PS9ZoLxzdJs",
+      "title": "Anthropic Needs Salesforce? 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "crm",
+        "anthropic",
+        "vibe-coding",
+        "salesforceben",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-22T17:13:23.883039+00:00",
       "stats": null
     }
   ]
