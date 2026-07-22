@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "WPqGKkIoeEQ",
-      "title": "Salesforce Acquires Fin: 30K AI Customers 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "fin",
-        "intercom",
-        "ai",
-        "acquisition",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-17T08:59:28.900135+00:00",
-      "stats": null
-    },
-    {
       "video_id": "vbReAhEAvR4",
       "title": "Salesforce Stock Low? Optimize Now 🚀 #shorts #salesforce",
       "topic": "",
@@ -3997,6 +3977,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-22T01:22:39.648799+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "0a-1VZqqLoU",
+      "title": "🚀 Boost Sales with £1.2M Deals #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "revenue",
+        "sales",
+        "futurepathways",
+        "apprenticeship",
+        "enterprise",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-22T06:27:21.207895+00:00",
       "stats": null
     }
   ]
