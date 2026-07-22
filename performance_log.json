@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "0i_k1Y7Zdis",
-      "title": "💻 80% of Salesforce Hacks Preventable 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "security",
-        "salesforceben",
-        "ShinyHunters",
-        "ForcedLeak",
-        "Agentforce",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-18T08:35:32.259867+00:00",
-      "stats": null
-    },
-    {
       "video_id": "mC79-zmPQFo",
       "title": "Boost Client Relationships 30% 🚀 #shorts #salesforce",
       "topic": "",
@@ -3993,6 +3972,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-22T17:13:23.883039+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "LoTA49vorZU",
+      "title": "Secure Agent Connectivity 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "security",
+        "MCP",
+        "APIs",
+        "architecture",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-22T21:00:31.324162+00:00",
       "stats": null
     }
   ]
