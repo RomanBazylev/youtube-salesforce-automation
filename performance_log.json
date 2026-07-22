@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "ewT1gzFeWvM",
-      "title": "Boost Revenue 30% with Field Service 📈 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "fieldservice",
-        "revenuegrowth",
-        "assetintensive",
-        "lifecyclemanagement",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-17T02:19:14.202373+00:00",
-      "stats": null
-    },
-    {
       "video_id": "WPqGKkIoeEQ",
       "title": "Salesforce Acquires Fin: 30K AI Customers 🚀 #shorts #salesforce",
       "topic": "",
@@ -3995,6 +3975,28 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-21T21:03:41.714920+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "ITjX8DDV38E",
+      "title": "🚀 Boost Search with Einstein 🔍 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "agenticcommerce",
+        "search",
+        "commercecloud",
+        "salesforceadmin",
+        "salesforcedeveloper",
+        "shorts",
+        "admin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-22T01:22:39.648799+00:00",
       "stats": null
     }
   ]
