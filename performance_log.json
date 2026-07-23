@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "z4ItyoNOehM",
-      "title": "Boost Sales with Audience Scoring 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "audience scoring",
-        "marketing automation",
-        "sales strategy",
-        "crm tips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-19T17:53:30.503008+00:00",
-      "stats": null
-    },
-    {
       "video_id": "MGneke1nDUA",
       "title": "Vibe Coding in Salesforce: 3 Key Limitations 🚀 #shorts #salesforce",
       "topic": "",
@@ -3987,6 +3967,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-23T13:25:10.416927+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "sZBbi2nT2CA",
+      "title": "Boost AI Chatbots 300% 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "chatbots",
+        "customer",
+        "service",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-23T20:55:37.204123+00:00",
       "stats": null
     }
   ]
