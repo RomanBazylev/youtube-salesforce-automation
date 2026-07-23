@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "fLNsWeiPmDE",
-      "title": "AI Assistants: 75% of SMEs Use Them 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "AI",
-        "SMEs",
-        "customer support",
-        "service cloud",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-19T09:03:17.947296+00:00",
-      "stats": null
-    },
-    {
       "video_id": "DsFX-pKS2SU",
       "title": "⚡️ Boost Sales with 5 Tips #shorts #salesforce",
       "topic": "",
@@ -3991,6 +3971,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-23T06:31:23.185969+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "5nZ5I4o_OFk",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-23T10:16:26.472453+00:00",
       "stats": null
     }
   ]
