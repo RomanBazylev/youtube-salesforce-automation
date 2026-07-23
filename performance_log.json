@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "mC79-zmPQFo",
-      "title": "Boost Client Relationships 30% 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "agenticadvisor",
-        "financialadvisors",
-        "wealthmanagers",
-        "ai",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-18T14:44:26.554076+00:00",
-      "stats": null
-    },
-    {
       "video_id": "rjKDn_5TBBM",
       "title": "Boost Security 360° 🚀 #shorts #salesforce",
       "topic": "",
@@ -3992,6 +3972,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-22T21:00:31.324162+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "OhDR6CCrI-A",
+      "title": "⚡️ Speed Up Salesforce Reports by 30% #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "reports",
+        "performance",
+        "optimization",
+        "productivity",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-23T01:30:11.519674+00:00",
       "stats": null
     }
   ]
