@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "rjKDn_5TBBM",
-      "title": "Boost Security 360° 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "headless360",
-        "security",
-        "governance",
-        "trust",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-19T02:45:57.325820+00:00",
-      "stats": null
-    },
-    {
       "video_id": "fLNsWeiPmDE",
       "title": "AI Assistants: 75% of SMEs Use Them 🚀 #shorts #salesforce",
       "topic": "",
@@ -3992,6 +3972,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-23T01:30:11.519674+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "lZKXXAebFD4",
+      "title": "💼 75% of Salesforce Architects Rethink Careers 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "careeradvice",
+        "salesforcearchitect",
+        "cloudcomputing",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-23T06:31:23.185969+00:00",
       "stats": null
     }
   ]
