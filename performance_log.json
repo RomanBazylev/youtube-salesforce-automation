@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "mvIr3yQA-ZM",
-      "title": "Ditch Campaigns: Always-On 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "marketing",
-        "always-on",
-        "customer-engagement",
-        "salesforce-tips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-20T17:20:07.893726+00:00",
-      "stats": null
-    },
-    {
       "video_id": "eX6dxbXv_Ug",
       "title": "🚨 75% of teams use LLMs with #salesforce data 🚫 #shorts #salesforce",
       "topic": "",
@@ -3989,6 +3969,28 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-24T17:26:27.337060+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "hzo9qNiLMGk",
+      "title": "🚀 Boost Engagement with Time Spent Tracking #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "data360",
+        "websdk",
+        "customersuccess",
+        "salesforceadmin",
+        "digitaltransformation",
+        "customerexperience",
+        "shorts",
+        "admin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-24T21:01:16.127435+00:00",
       "stats": null
     }
   ]
