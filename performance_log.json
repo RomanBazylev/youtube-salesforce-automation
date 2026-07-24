@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "MGneke1nDUA",
-      "title": "Vibe Coding in Salesforce: 3 Key Limitations 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "vibecoding",
-        "ai",
-        "enterprise",
-        "software",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-19T21:07:38.496810+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Szfn9m8cNzo",
       "title": "Unlock 90% Faster Deployments 🚀 #shorts #salesforce",
       "topic": "",
@@ -3987,6 +3967,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-23T20:55:37.204123+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "YdeR6g4LAds",
+      "title": "🚨 70% of Salesforce orgs lack proper security 🚫 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "security",
+        "openai",
+        "hacking",
+        "cyberincident",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-24T01:25:51.283210+00:00",
       "stats": null
     }
   ]
