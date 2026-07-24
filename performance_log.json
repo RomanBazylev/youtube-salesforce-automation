@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Ok1nNQyrIaE",
-      "title": "💻 9/10 Devs Fail Interviews #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforcedev",
-        "careeradvice",
-        "interviewtips",
-        "salesforcecareer",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-20T07:47:19.443861+00:00",
-      "stats": null
-    },
-    {
       "video_id": "-w8RQzz2jDQ",
       "title": "Master Salesforce Automation 🚀 #shorts #salesforce",
       "topic": "",
@@ -3986,6 +3966,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-24T06:24:25.526616+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Ld0nXI0hjF4",
+      "title": "Salesforce Leads in AI! 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "conversationalai",
+        "gartner",
+        "magicquadrant",
+        "salesforceleader",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-24T10:09:52.396292+00:00",
       "stats": null
     }
   ]
