@@ -1,28 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "hMtmk3l0sWE",
-      "title": "Unlock 30% More Revenue with Field Service 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "fieldservice",
-        "revenuegrowth",
-        "assetintensive",
-        "salesforceadmin",
-        "salesforcedeveloper",
-        "servicecloud",
-        "shorts",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-21T17:22:59.518686+00:00",
-      "stats": null
-    },
-    {
       "video_id": "JapvRdcb27Q",
       "title": "🚨 30% of Salesforce orgs exposed to OAuth hacks 🚨 #shorts #salesforce",
       "topic": "",
@@ -3990,6 +3968,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-25T12:59:53.054666+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "VpyRhUwC9Ss",
+      "title": "🚀 80% of Salesforce Users Don't Know About Claude! #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "claude",
+        "ai",
+        "crm",
+        "productivity",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-25T16:48:40.814114+00:00",
       "stats": null
     }
   ]
