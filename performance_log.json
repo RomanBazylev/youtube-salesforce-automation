@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "eX6dxbXv_Ug",
-      "title": "🚨 75% of teams use LLMs with #salesforce data 🚫 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "security",
-        "LLM",
-        "ShadowAI",
-        "SalesforceDevelopment",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-20T21:08:53.433612+00:00",
-      "stats": null
-    },
-    {
       "video_id": "ABcO_NybWDs",
       "title": "🚀 Boost Flow Efficiency #shorts #salesforce",
       "topic": "",
@@ -3991,6 +3971,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-24T21:01:16.127435+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "UJYINJ1DOJo",
+      "title": "88.9% of Salesforce Architects Use AI! 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "architecture",
+        "developer",
+        "salesforceben",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-25T01:27:00.832011+00:00",
       "stats": null
     }
   ]
