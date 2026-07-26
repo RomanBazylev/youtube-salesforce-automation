@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "ZQw6nwokTEk",
-      "title": "Boost Agent Productivity 30% 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "contactcenter",
-        "agentforce",
-        "workforceengagement",
-        "customerexperience",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-23T07:43:14.171540+00:00",
-      "stats": null
-    },
-    {
       "video_id": "lhsN3LqEp-U",
       "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
       "topic": "",
@@ -3985,6 +3965,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-26T16:49:49.418640+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "ny3cKs54FVY",
+      "title": "🚀 75% of AI answers are wrong! 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "tableau",
+        "mcp",
+        "certifieddata",
+        "aiskills",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-26T20:50:26.605489+00:00",
       "stats": null
     }
   ]
