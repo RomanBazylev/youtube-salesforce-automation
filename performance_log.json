@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "lhsN3LqEp-U",
-      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "einstein",
-        "ai",
-        "automation",
-        "admin",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-23T10:59:35.087238+00:00",
-      "stats": null
-    },
-    {
       "video_id": "e1ZXSBDV0gY",
       "title": "Boost AI with Headless 360 🚀 #shorts #salesforce",
       "topic": "",
@@ -3986,6 +3970,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-26T20:50:26.605489+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "FpuGB5vB2bs",
+      "title": "AI Chatbots in Salesforce 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "chatbots",
+        "customer service",
+        "small business",
+        "salesforce developer",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-27T01:32:12.784349+00:00",
       "stats": null
     }
   ]
