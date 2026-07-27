@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "4wyU9LQdpJc",
-      "title": "🚀 Debug Salesforce Flows 90% Faster #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "flow",
-        "debugging",
-        "salesforceben",
-        "adminsurvey2026",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-23T17:51:31.865170+00:00",
-      "stats": null
-    },
-    {
       "video_id": "sa8PmmtZiTg",
       "title": "5 Daily Salesforce Tools #shorts #salesforce",
       "topic": "",
@@ -3990,6 +3970,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-27T07:03:48.070189+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "LoRaQBNQvIM",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-27T11:07:37.650839+00:00",
       "stats": null
     }
   ]
