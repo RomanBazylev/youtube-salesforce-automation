@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "e1ZXSBDV0gY",
-      "title": "Boost AI with Headless 360 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "headless360",
-        "ai",
-        "fintech",
-        "architecture",
-        "design",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-23T14:26:02.505177+00:00",
-      "stats": null
-    },
-    {
       "video_id": "4wyU9LQdpJc",
       "title": "🚀 Debug Salesforce Flows 90% Faster #shorts #salesforce",
       "topic": "",
@@ -3991,6 +3970,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-27T01:32:12.784349+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "UjO0ancv_Vg",
+      "title": "Slack Rival Alert! 🚨 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "slack",
+        "buzz",
+        "salesforceben",
+        "jackdorsey",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-27T07:03:48.070189+00:00",
       "stats": null
     }
   ]
