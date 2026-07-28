@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "oren8-FQHZo",
-      "title": "🚀 Automate 80% of Compliance Tasks #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "compliance",
-        "automation",
-        "agentforce",
-        "privacycenter",
-        "crm",
-        "trailblazer"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-24T14:04:28.609355+00:00",
-      "stats": null
-    },
-    {
       "video_id": "bDoE-wMx8N8",
       "title": "🚨 72% of Orgs Exposed 🚨 #shorts #salesforce",
       "topic": "",
@@ -3991,6 +3972,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-28T01:20:02.211647+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "unckZp2_xzk",
+      "title": "Salesforce Wins $1.6B Contract! 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "missionforce",
+        "contract",
+        "va",
+        "usarmy",
+        "enterprise",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-28T06:25:55.302369+00:00",
       "stats": null
     }
   ]
