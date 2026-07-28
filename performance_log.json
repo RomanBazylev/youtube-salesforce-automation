@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "bDoE-wMx8N8",
-      "title": "🚨 72% of Orgs Exposed 🚨 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "security",
-        "salesforceben",
-        "sfbensurvey",
-        "orgsecurity",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-24T17:54:22.531520+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Q8M5yyHumw8",
       "title": "92% of Architects Do Hands-On Work 🚀 #shorts #salesforce",
       "topic": "",
@@ -3993,6 +3973,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-28T06:25:55.302369+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "aLAzU7x2OPs",
+      "title": "💡 Boost Productivity 30% with Salesforce OS #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "productivity",
+        "businessoperatingsystem",
+        "salesforceos",
+        "startup",
+        "salesforcebeginner",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-28T10:24:43.079773+00:00",
       "stats": null
     }
   ]
