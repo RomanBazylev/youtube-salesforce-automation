@@ -1,23 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "avRH5fPQ4cQ",
-      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "flowbuilder",
-        "automation",
-        "shorts",
-        "trailblazer",
-        "crm"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-25T10:40:03.186253+00:00",
-      "stats": null
-    },
-    {
       "video_id": "1Y956PjHygo",
       "title": "Boost Slack-Salesforce Integrations 🚀 #shorts #salesforce",
       "topic": "",
@@ -3995,6 +3978,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-29T01:25:00.003959+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "rJu9CNAPwXs",
+      "title": "1 Salesforce Architect Enough? 🤔 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "architecture",
+        "salesforceben",
+        "orgmanagement",
+        "salesforcestrategy",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-29T06:31:26.114723+00:00",
       "stats": null
     }
   ]
