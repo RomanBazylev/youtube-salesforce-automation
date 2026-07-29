@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "QclMOmRG2lw",
-      "title": "🚀 Boost Field Service #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "fieldservice",
-        "smb",
-        "salesforcefeatures",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-25T21:26:52.562815+00:00",
-      "stats": null
-    },
-    {
       "video_id": "HhJy0EFN6ko",
       "title": "5 CTA Resources 🚀 #shorts #salesforce",
       "topic": "",
@@ -3999,6 +3980,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-29T13:38:59.151612+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "v2v9_8jFe6s",
+      "title": "53% of Architects Say Experience Beats Certs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "careeradvice",
+        "salesforcearchitects",
+        "certifications",
+        "experience",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-29T17:07:52.158218+00:00",
       "stats": null
     }
   ]
