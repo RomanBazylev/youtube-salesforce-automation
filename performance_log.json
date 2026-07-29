@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "1Y956PjHygo",
-      "title": "Boost Slack-Salesforce Integrations 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "slack",
-        "integrations",
-        "salesforcearchitects",
-        "sfdc",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-25T14:03:22.984464+00:00",
-      "stats": null
-    },
-    {
       "video_id": "KED0LejunwQ",
       "title": "🚀 Boost Productivity with Claude in Slack #shorts #salesforce",
       "topic": "",
@@ -3998,6 +3978,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-29T06:31:26.114723+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "fKGc9V_tNM4",
+      "title": "Boost Agentforce with Slackbot 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "agentforce",
+        "slackbot",
+        "mcp servers",
+        "integration",
+        "authentication",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-29T10:32:08.421269+00:00",
       "stats": null
     }
   ]
