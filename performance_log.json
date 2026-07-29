@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "KED0LejunwQ",
-      "title": "🚀 Boost Productivity with Claude in Slack #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceben",
-        "anthropic",
-        "claude",
-        "slack",
-        "integration",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-25T18:06:01.259289+00:00",
-      "stats": null
-    },
-    {
       "video_id": "QclMOmRG2lw",
       "title": "🚀 Boost Field Service #shorts #salesforce",
       "topic": "",
@@ -3999,6 +3978,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-29T10:32:08.421269+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "jRfKQ4sNsMw",
+      "title": "Dreamforce 2026 Parties 🎉 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "dreamforce",
+        "trailblazers",
+        "events",
+        "parties",
+        "salesforceben",
+        "shorts",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-29T13:38:59.151612+00:00",
       "stats": null
     }
   ]
