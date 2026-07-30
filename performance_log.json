@@ -1,23 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "lz7Iebc9mug",
-      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "flowbuilder",
-        "automation",
-        "shorts",
-        "trailblazer",
-        "crm"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-26T10:49:41.285016+00:00",
-      "stats": null
-    },
-    {
       "video_id": "uR5Nna9HhAY",
       "title": "5 Salesforce Flow Ideas for 2026 🚀 #shorts #salesforce",
       "topic": "",
@@ -3999,6 +3982,28 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-30T01:16:07.207640+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "tcvwu5LKHis",
+      "title": "Boost Ecommerce Sales 25% 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "b2c commerce",
+        "ecommerce",
+        "intent-driven shopping",
+        "salesforce admin",
+        "salesforce tips",
+        "salesforce tricks",
+        "shorts",
+        "admin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-30T06:24:34.197447+00:00",
       "stats": null
     }
   ]
