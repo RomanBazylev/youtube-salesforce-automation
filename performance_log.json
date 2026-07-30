@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "wZ5rdyWzo64",
-      "title": "Boost Salesforce Skills 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforce developer",
-        "salesforce tips",
-        "salesforce tricks",
-        "salesforce skills",
-        "salesforce innovation",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-26T21:19:34.065181+00:00",
-      "stats": null
-    },
-    {
       "video_id": "tNq1k53xtWU",
       "title": "June '26 Salesforce Update 🚀 #shorts #salesforce",
       "topic": "",
@@ -4005,6 +3984,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-30T13:26:10.045595+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "hf8MlLOLrVA",
+      "title": "Unlock Salesforce Foundations 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "foundations",
+        "ai",
+        "crm",
+        "salesforcebeginner",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-30T17:21:21.858089+00:00",
       "stats": null
     }
   ]
