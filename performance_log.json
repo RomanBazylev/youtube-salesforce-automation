@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "uR5Nna9HhAY",
-      "title": "5 Salesforce Flow Ideas for 2026 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceflow",
-        "workflow",
-        "automation",
-        "2026",
-        "crm",
-        "trailblazer"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-26T14:01:39.472668+00:00",
-      "stats": null
-    },
-    {
       "video_id": "vfOa7x1cbN8",
       "title": "🚀 77% of Salesforce Admins Overwhelmed! #shorts #salesforce",
       "topic": "",
@@ -4004,6 +3985,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-30T06:24:34.197447+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "nE37qjX_4cU",
+      "title": "Connect Salesforce & SharePoint 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "sharepoint",
+        "integration",
+        "microsoft365",
+        "productivity",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-30T10:13:06.742378+00:00",
       "stats": null
     }
   ]
