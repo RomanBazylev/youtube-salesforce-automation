@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "tNq1k53xtWU",
-      "title": "June '26 Salesforce Update 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "b2c",
-        "commerce",
-        "agentforce",
-        "june26",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-27T01:58:02.017858+00:00",
-      "stats": null
-    },
-    {
       "video_id": "1DOm9ROHpc4",
       "title": "Boost Security 🚀 #shorts #salesforce",
       "topic": "",
@@ -4003,6 +3983,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-30T17:21:21.858089+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "D0O_-4Af45I",
+      "title": "Salesforce Secrets 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "crm",
+        "salesforceadmin",
+        "salesforcedeveloper",
+        "agentforce",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-30T21:02:27.634214+00:00",
       "stats": null
     }
   ]
