@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "V_yfGVAdsog",
-      "title": "5 Salesforce Secrets 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "marketing",
-        "connections2026",
-        "salesforcearchitect",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-27T13:13:53.465038+00:00",
-      "stats": null
-    },
-    {
       "video_id": "hDWnN7xCvPQ",
       "title": "AI Adoption Hacks 🚀 #shorts #salesforce",
       "topic": "",
@@ -4001,6 +3982,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-31T06:43:36.931019+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "QozFX_NJX4k",
+      "title": "🚀 Boost Salesforce Skills #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforceconsultant",
+        "crmsolutions",
+        "salesforceoptimization",
+        "productivityhacks",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-31T10:34:40.103233+00:00",
       "stats": null
     }
   ]
