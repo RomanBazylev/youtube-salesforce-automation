@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "y6BmFKc_xUU",
-      "title": "🚨 85% of APIs Exposed 🚨 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "security",
-        "api",
-        "salesforceapi",
-        "datasecurity",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-28T02:08:47.291765+00:00",
-      "stats": null
-    },
-    {
       "video_id": "uCmd3KTY5aw",
       "title": "Boost Field Service Efficiency 🚀 #shorts #salesforce",
       "topic": "",
@@ -4002,6 +3982,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-31T17:24:49.700416+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "7BW3V-_oMCw",
+      "title": "🚀 70% of Salesforce Admins Track AI Usage #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "AI",
+        "tracking",
+        "analytics",
+        "productivity",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-31T21:00:34.098828+00:00",
       "stats": null
     }
   ]
