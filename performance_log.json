@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "hDWnN7xCvPQ",
-      "title": "AI Adoption Hacks 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "adoption",
-        "sfblog",
-        "consultant",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-27T17:02:01.655628+00:00",
-      "stats": null
-    },
-    {
       "video_id": "dcXLdb67Evs",
       "title": "Salesforce Pay-Per-Resolution 🚀 #shorts #salesforce",
       "topic": "",
@@ -4002,6 +3982,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-07-31T10:34:40.103233+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "yl1nC-ZMdng",
+      "title": "Unlock AI in Salesforce 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "governed discovery",
+        "salesforce skills",
+        "repeatable discovery",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-07-31T13:29:20.594305+00:00",
       "stats": null
     }
   ]
