@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "DOq7gXnqKrQ",
-      "title": "💸 80% of SMBs Lose Money: Fix with Salesforce #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "financialmanagement",
-        "smb",
-        "accounting",
-        "integration",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-28T10:26:00.967112+00:00",
-      "stats": null
-    },
-    {
       "video_id": "gMQ6CnL23qA",
       "title": "Salesforce Ships Half-Finished Features 🚀 #shorts #salesforce",
       "topic": "",
@@ -4001,6 +3981,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-01T01:31:21.074303+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "GrJbre06xQw",
+      "title": "Data Privacy Boosts Marketing 💡 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "marketing",
+        "data",
+        "privacy",
+        "archiving",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-01T06:27:29.524984+00:00",
       "stats": null
     }
   ]
