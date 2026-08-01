@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "_01ncloXVjE",
-      "title": "92% of Salesforce Architects Do This Wrong 😱 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforcearchitect",
-        "productivityhacks",
-        "salesforcedeveloper",
-        "cloudcomputing",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-29T02:11:02.194298+00:00",
-      "stats": null
-    },
-    {
       "video_id": "LLKwAyhrEC4",
       "title": "5 Flow Ideas to Vote 🚀 #shorts #salesforce",
       "topic": "",
@@ -4001,6 +3981,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-01T16:51:14.352958+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "I37_Z0uPuCk",
+      "title": "🚀 80% of Salesforce Orgs Lack External MCP Connectivity #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "mcp",
+        "agentforce",
+        "slackbot",
+        "integration",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-01T20:48:39.670717+00:00",
       "stats": null
     }
   ]
