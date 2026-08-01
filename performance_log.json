@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "gMQ6CnL23qA",
-      "title": "Salesforce Ships Half-Finished Features 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceben",
-        "half-finished features",
-        "release management",
-        "enterprise software",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-28T13:15:34.257060+00:00",
-      "stats": null
-    },
-    {
       "video_id": "tM8fXoG5SzI",
       "title": "🚀 75% of Devs Use AI: Boost Your Skills #shorts #salesforce",
       "topic": "",
@@ -4001,6 +3981,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-01T06:27:29.524984+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "dNV5zXC_o68",
+      "title": "Revamp Loyalty Programs with Salesforce 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "loyaltyprogram",
+        "customerexperience",
+        "marketingcloud",
+        "salesforcedeveloper",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-01T09:56:32.967789+00:00",
       "stats": null
     }
   ]
