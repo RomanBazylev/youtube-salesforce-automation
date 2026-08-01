@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "tM8fXoG5SzI",
-      "title": "🚀 75% of Devs Use AI: Boost Your Skills #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "developer",
-        "agentic",
-        "resource discovery",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-28T17:02:31.232961+00:00",
-      "stats": null
-    },
-    {
       "video_id": "tAgdHwFQjwg",
       "title": "🚨 75% Of Orgs Aren't MFA Ready 🕒 #shorts #salesforce",
       "topic": "",
@@ -4001,6 +3981,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-01T09:56:32.967789+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Ns8k6S5sgVE",
+      "title": "55% Buy vs Build 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforceben",
+        "AI",
+        "buildboom",
+        "salesforcearchitects",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-01T12:54:57.830370+00:00",
       "stats": null
     }
   ]
