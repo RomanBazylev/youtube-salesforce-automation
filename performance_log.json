@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "76EF5Yk0ZFc",
-      "title": "Master Salesforce Flow 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceflow",
-        "agentforce",
-        "automation",
-        "workflow",
-        "crm",
-        "trailblazer"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-29T18:09:20.324162+00:00",
-      "stats": null
-    },
-    {
       "video_id": "u01V5vLVkR0",
       "title": "Claude Tag in Salesforce? 🚀 #shorts #salesforce",
       "topic": "",
@@ -4001,6 +3982,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-02T06:32:10.867943+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "30ypUAUczAI",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-02T09:55:25.932602+00:00",
       "stats": null
     }
   ]
