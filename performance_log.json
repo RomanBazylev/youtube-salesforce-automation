@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "LLKwAyhrEC4",
-      "title": "5 Flow Ideas to Vote 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceflow",
-        "workflow",
-        "automation",
-        "salesforceben",
-        "2026releases",
-        "crm",
-        "trailblazer"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-29T08:54:27.375703+00:00",
-      "stats": null
-    },
-    {
       "video_id": "M2b7GzL7L1w",
       "title": "Boost AI Adoption 300% 🚀 #shorts #salesforce",
       "topic": "",
@@ -4001,6 +3981,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-01T20:48:39.670717+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "7sw_Zw4DDbM",
+      "title": "Unlock AI: 10 Free Trailhead Courses 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "trailhead",
+        "ai",
+        "founders",
+        "learning",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-02T01:26:09.079874+00:00",
       "stats": null
     }
   ]
