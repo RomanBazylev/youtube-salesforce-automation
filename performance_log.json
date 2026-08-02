@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "iB01bAD3Y3k",
-      "title": "🚨 58.6% of Salesforce Admins Struggle with Complexity 🚨 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforcetips",
-        "salesforceadmin",
-        "crm",
-        "cloud",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-30T07:47:24.756019+00:00",
-      "stats": null
-    },
-    {
       "video_id": "ceL-XAqW0hk",
       "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
       "topic": "",
@@ -3998,6 +3979,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-02T16:50:50.526885+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "OamKI0bnt6k",
+      "title": "Unlock Free AI Tools 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "foundations",
+        "ai",
+        "admin",
+        "shorts",
+        "business",
+        "technology",
+        "salesforce admin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-02T20:48:18.215145+00:00",
       "stats": null
     }
   ]
