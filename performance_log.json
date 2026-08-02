@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "APCX6JGOX4g",
-      "title": "Unlock 90% Productivity in Salesforce 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "productivity",
-        "slack",
-        "communities",
-        "workflow",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-30T02:05:29.352319+00:00",
-      "stats": null
-    },
-    {
       "video_id": "iB01bAD3Y3k",
       "title": "🚨 58.6% of Salesforce Admins Struggle with Complexity 🚨 #shorts #salesforce",
       "topic": "",
@@ -3998,6 +3978,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-02T12:56:25.480284+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "h5RQdlFyYag",
+      "title": "AI in Salesforce: 75% of Jobs Unchanged 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "AI",
+        "careerdevelopment",
+        "salesforcejobs",
+        "salesforceconsultant",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-02T16:50:50.526885+00:00",
       "stats": null
     }
   ]
