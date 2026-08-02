@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "M2b7GzL7L1w",
-      "title": "Boost AI Adoption 300% 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "AI",
-        "adoption",
-        "gamification",
-        "architecture",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-29T15:30:24.103917+00:00",
-      "stats": null
-    },
-    {
       "video_id": "76EF5Yk0ZFc",
       "title": "Master Salesforce Flow 🚀 #shorts #salesforce",
       "topic": "",
@@ -4001,6 +3981,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-02T01:26:09.079874+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "_-dE8ALHyp8",
+      "title": "Sync Team & AI 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "humanai",
+        "synergy",
+        "customerexperience",
+        "salesforceconsultant",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-02T06:32:10.867943+00:00",
       "stats": null
     }
   ]
