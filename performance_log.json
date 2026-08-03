@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "DNpw8iTYe0c",
-      "title": "Boost AE Skills 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "accountexecutive",
-        "salesstrategy",
-        "crossfunctionalexperience",
-        "customerSuccess",
-        "businessdevelopment",
-        "shorts",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-30T17:52:31.290872+00:00",
-      "stats": null
-    },
-    {
       "video_id": "vNUaFyNPrns",
       "title": "Meet 2026 Salesforce MVPs 🚀 #shorts #salesforce",
       "topic": "",
@@ -4003,6 +3982,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-03T06:56:12.324493+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "q50NFGTX-rw",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-03T11:10:50.512902+00:00",
       "stats": null
     }
   ]
