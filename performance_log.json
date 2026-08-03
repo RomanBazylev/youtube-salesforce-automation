@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "R-1uxAL6Iuo",
-      "title": "10 Hidden Salesforce Challenges 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceadmin",
-        "productivityhacks",
-        "salesforcechallenges",
-        "adminlife",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-01T02:10:26.623353+00:00",
-      "stats": null
-    },
-    {
       "video_id": "YNH7kaXnsRY",
       "title": "Winter '27 Release 🚀 #shorts #salesforce",
       "topic": "",
@@ -3999,6 +3979,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-03T14:16:56.304726+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "O8BeDeph1mc",
+      "title": "💡 75% of Users Ask AI for Answers 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "aeo",
+        "salesforceadmin",
+        "startup",
+        "ai",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-03T17:37:42.271245+00:00",
       "stats": null
     }
   ]
