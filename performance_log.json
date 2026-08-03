@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "vNUaFyNPrns",
-      "title": "Meet 2026 Salesforce MVPs 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "mvp",
-        "admin",
-        "trailblazer",
-        "community",
-        "leadership",
-        "salesforce2026",
-        "shorts",
-        "crm",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-30T21:27:26.160739+00:00",
-      "stats": null
-    },
-    {
       "video_id": "R-1uxAL6Iuo",
       "title": "10 Hidden Salesforce Challenges 🚀 #shorts #salesforce",
       "topic": "",
@@ -3999,6 +3979,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-03T11:10:50.512902+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "yyZ-jtyf4II",
+      "title": "🚀 5 Salesforce Hacks #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "mfa",
+        "certification",
+        "productivity",
+        "salesforceben",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-03T14:16:56.304726+00:00",
       "stats": null
     }
   ]
