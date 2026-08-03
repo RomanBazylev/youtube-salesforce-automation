@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "ceL-XAqW0hk",
-      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "soql",
-        "apex",
-        "developer",
-        "performance",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-06-30T10:54:13.036097+00:00",
-      "stats": null
-    },
-    {
       "video_id": "YfyTRxfA-j4",
       "title": "Boost Data Efficiency 🚀 #shorts #salesforce",
       "topic": "",
@@ -4000,6 +3984,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-02T20:48:18.215145+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "QlU6P3z1U1Q",
+      "title": "🚀 Connect Salesforce & SharePoint #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "sharepoint",
+        "integration",
+        "admin",
+        "microsoft365",
+        "crm",
+        "businessprocesses",
+        "shorts",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-03T01:30:02.700759+00:00",
       "stats": null
     }
   ]
