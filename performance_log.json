@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "RZKdPmmBK0I",
-      "title": "💻 AI in Order Servicing #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "AI",
-        "order servicing",
-        "customer service",
-        "salesforce tips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-01T14:06:41.283130+00:00",
-      "stats": null
-    },
-    {
       "video_id": "fS_feTXbw-s",
       "title": "2026 Salesforce Trends 🚀 #shorts #salesforce",
       "topic": "",
@@ -3999,6 +3979,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-04T01:25:36.167221+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "IBglQI4IYo0",
+      "title": "Boost Loyalty 25% with Salesforce 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "loyaltyprogram",
+        "salesforcearchitect",
+        "customerrelationshipmanagement",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-04T06:25:43.681825+00:00",
       "stats": null
     }
   ]
