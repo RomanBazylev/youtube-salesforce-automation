@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "YYvmqsvC8As",
-      "title": "Boost Agent Productivity 30% 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "conversational flows",
-        "agent script",
-        "deterministic state management",
-        "salesforce consulting",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-01T11:31:58.114577+00:00",
-      "stats": null
-    },
-    {
       "video_id": "RZKdPmmBK0I",
       "title": "💻 AI in Order Servicing #shorts #salesforce",
       "topic": "",
@@ -3999,6 +3979,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-03T20:59:38.919931+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "UmfL1l_MfJs",
+      "title": "Fix 80% of Deduplication Issues in 5 Mins 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "deduplication",
+        "admin",
+        "shorts",
+        "salesforceben",
+        "crm",
+        "tips",
+        "bestpractices",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-04T01:25:36.167221+00:00",
       "stats": null
     }
   ]
