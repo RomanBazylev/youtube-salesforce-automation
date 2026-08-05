@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "afGIStrFj0Y",
-      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "permission sets",
-        "profiles",
-        "admin",
-        "security",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-02T10:33:09.291843+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Aqapl-6VTAc",
       "title": "Boost GRC with 75% fewer risks 🚀 #shorts #salesforce",
       "topic": "",
@@ -3998,6 +3982,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-04T21:08:41.968960+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "dAhli4J5LuY",
+      "title": "Digital Transformation Over? 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "digitaltransformation",
+        "salesforceben",
+        "anthropic",
+        "crm",
+        "cloud",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-05T01:21:56.542900+00:00",
       "stats": null
     }
   ]
