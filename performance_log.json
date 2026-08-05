@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "2fAdjnVihwE",
-      "title": "🚨 Avoid App Trap! 💸 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceadmin",
-        "productivity",
-        "appmanagement",
-        "salesforceoptimization",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-03T01:34:30.710761+00:00",
-      "stats": null
-    },
-    {
       "video_id": "RfPGXkPNVAw",
       "title": "🚨 75% of OAuth attacks target Salesforce! 🚨 #shorts #salesforce",
       "topic": "",
@@ -4002,6 +3982,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-05T13:39:33.526555+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "jPgv5zHisds",
+      "title": "25 Years of Salesforce Acquisitions 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "MandA",
+        "acquisitions",
+        "salesforceben",
+        "cloudcomputing",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-05T17:26:29.034481+00:00",
       "stats": null
     }
   ]
