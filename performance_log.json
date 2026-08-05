@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Aqapl-6VTAc",
-      "title": "Boost GRC with 75% fewer risks 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "grc",
-        "governance",
-        "risk",
-        "compliance",
-        "salesforceadmin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-02T13:30:41.442434+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Yxyn2dzDoEE",
       "title": "Unlock Data 360 with Code 🚀 #shorts #salesforce",
       "topic": "",
@@ -4002,6 +3981,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-05T01:21:56.542900+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "clm-I0PGwg4",
+      "title": "10 Free AI Courses 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "trailhead",
+        "ai",
+        "founders",
+        "businessowners",
+        "salesforcelearning",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-05T06:23:27.091284+00:00",
       "stats": null
     }
   ]
