@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "En-zX074sJk",
-      "title": "6 IdeaExchange Ideas to Vote 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ideaxchange",
-        "salesforceben",
-        "businessanalyst",
-        "productivity",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-03T13:33:50.718961+00:00",
-      "stats": null
-    },
-    {
       "video_id": "zy4sV1JxrRs",
       "title": "MFA Pause Alert! 🚨 #shorts #salesforce",
       "topic": "",
@@ -4006,6 +3986,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-06T01:21:22.639978+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "OEkXjV4iss8",
+      "title": "🚀 Boost Salesforce Skills #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforcedeveloper",
+        "salesforceconsultant",
+        "crm",
+        "productivity",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-06T06:28:05.045483+00:00",
       "stats": null
     }
   ]
