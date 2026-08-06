@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "zy4sV1JxrRs",
-      "title": "MFA Pause Alert! 🚨 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "mfa",
-        "security",
-        "admin",
-        "shorts",
-        "salesforceben",
-        "developer",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-03T17:18:21.244552+00:00",
-      "stats": null
-    },
-    {
       "video_id": "N6dxYDoakaQ",
       "title": "Fix 90% of Flow Errors 🚀 #shorts #salesforce",
       "topic": "",
@@ -4005,6 +3985,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-06T06:28:05.045483+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "X_9zAOhUXgg",
+      "title": "Boost Revenue 30% with AI Agents 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "revenuehub",
+        "aiagents",
+        "salesforcedeveloper",
+        "sfblog",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-06T10:29:45.409875+00:00",
       "stats": null
     }
   ]
