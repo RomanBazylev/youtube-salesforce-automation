@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "gzJXAHqv4y8",
-      "title": "Boost Salesforce Admin Skills 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceben",
-        "adminsurvey",
-        "2026trends",
-        "salesforcejobs",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-04T06:47:57.891443+00:00",
-      "stats": null
-    },
-    {
       "video_id": "r86T88s4KmU",
       "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
       "topic": "",
@@ -4006,6 +3986,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-07T00:57:03.262502+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Kf-bvapaE1E",
+      "title": "🚀 Eliminate Identity Debt in 4 Steps #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "datamanagement",
+        "agenticai",
+        "data360",
+        "identitydebt",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-07T05:32:47.933363+00:00",
       "stats": null
     }
   ]
