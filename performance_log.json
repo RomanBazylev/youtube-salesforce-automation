@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "lHSO4pSiAOg",
-      "title": "🚀 7 Flow Fails to Fix Now 🕒 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "flow",
-        "automation",
-        "screen flow",
-        "record-triggered flow",
-        "schedule-triggered flow",
-        "crm",
-        "trailblazer"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-04T01:35:28.741651+00:00",
-      "stats": null
-    },
-    {
       "video_id": "gzJXAHqv4y8",
       "title": "Boost Salesforce Admin Skills 🚀 #shorts #salesforce",
       "topic": "",
@@ -4005,6 +3985,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-06T13:36:23.109892+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "rNvdte9pZio",
+      "title": "💼 250+ Tech Layoffs: Boost Your Skills #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "career",
+        "tech",
+        "layoffs",
+        "salesforceben",
+        "crisismanagement",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-07T00:57:03.262502+00:00",
       "stats": null
     }
   ]
