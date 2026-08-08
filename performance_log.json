@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "8GuBGoLAeKs",
-      "title": "95% of AI Fails Without CRM 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "crm",
-        "ai",
-        "salesforceadmin",
-        "customerrelationshipmanagement",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-05T20:52:26.676265+00:00",
-      "stats": null
-    },
-    {
       "video_id": "ZOtvRX3R1-I",
       "title": "6 Salesforce Ideas to Vote in 2026 🚀 #shorts #salesforce",
       "topic": "",
@@ -4007,6 +3988,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-08T16:25:13.650143+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Orf6KFw04hg",
+      "title": "🚀 Map Collection in Salesforce Flow #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "flow",
+        "development",
+        "clicksnotcode",
+        "salesforceflow",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-08T20:22:13.288882+00:00",
       "stats": null
     }
   ]
