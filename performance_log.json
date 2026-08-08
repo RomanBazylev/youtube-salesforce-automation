@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "lg_acF_Do9c",
-      "title": "Boost Conversions 30% 🚀 with Immersive Marketing #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "immersive",
-        "marketing",
-        "sales",
-        "architecture",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-05T16:58:39.678505+00:00",
-      "stats": null
-    },
-    {
       "video_id": "8GuBGoLAeKs",
       "title": "95% of AI Fails Without CRM 🚀 #shorts #salesforce",
       "topic": "",
@@ -4007,6 +3987,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-08T12:25:33.508975+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "G4HdUWtNZMI",
+      "title": "Boost User Experience with Radio Buttons in Salesforce Flow 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforceflow",
+        "summerv26",
+        "radiobuttons",
+        "userexperience",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-08T16:25:13.650143+00:00",
       "stats": null
     }
   ]
