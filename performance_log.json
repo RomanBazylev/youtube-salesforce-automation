@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "d1TvHnqjCKM",
-      "title": "💡 Avoid 7 Agentforce Mistakes 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforcedev",
-        "agentforce",
-        "dreamforce",
-        "productivity",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-05T07:04:39.193194+00:00",
-      "stats": null
-    },
-    {
       "video_id": "nrGRpaLyvHU",
       "title": "Boost Data 360 with Code 🚀 #shorts #salesforce",
       "topic": "",
@@ -4010,6 +3990,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-08T00:50:13.479291+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "kE_7Z81mr0o",
+      "title": "Map Collection in Salesforce Flow 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforceflow",
+        "mapcollection",
+        "clicksnotcode",
+        "salesforceben",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-08T04:49:22.898682+00:00",
       "stats": null
     }
   ]
