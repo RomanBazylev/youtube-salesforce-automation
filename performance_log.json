@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "-0ZL8mhMU6Y",
-      "title": "🚨 75% of Salesforce Orgs Exposed to OAuth Attacks 🤖 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "oauth",
-        "security",
-        "salesforceben",
-        "klue",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-05T13:07:33.134864+00:00",
-      "stats": null
-    },
-    {
       "video_id": "lg_acF_Do9c",
       "title": "Boost Conversions 30% 🚀 with Immersive Marketing #shorts #salesforce",
       "topic": "",
@@ -4006,6 +3986,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-08T08:32:49.392626+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "uA00rXsp8xs",
+      "title": "Salesforce Layoffs: 3 Rounds in 2026 🚨 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "tableau",
+        "trailhead",
+        "layoffs",
+        "salesforceben",
+        "technews",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-08T12:25:33.508975+00:00",
       "stats": null
     }
   ]
