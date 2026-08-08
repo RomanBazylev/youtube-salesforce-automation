@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "nrGRpaLyvHU",
-      "title": "Boost Data 360 with Code 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "data360",
-        "codeextension",
-        "admin",
-        "shorts",
-        "salesforcedev",
-        "datamanagement",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-05T10:09:19.725684+00:00",
-      "stats": null
-    },
-    {
       "video_id": "-0ZL8mhMU6Y",
       "title": "🚨 75% of Salesforce Orgs Exposed to OAuth Attacks 🤖 #shorts #salesforce",
       "topic": "",
@@ -4010,6 +3990,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-08T04:49:22.898682+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "_zrK5qSQ62s",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-08T08:32:49.392626+00:00",
       "stats": null
     }
   ]
