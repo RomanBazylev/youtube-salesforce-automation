@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "hlgY4nK0FLM",
-      "title": "SaaS Launch Secrets 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "saas",
-        "launch",
-        "product",
-        "business",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-06T21:26:43.714451+00:00",
-      "stats": null
-    },
-    {
       "video_id": "rXrczySw9Dk",
       "title": "Unlock 90% of Salesforce Features 🚀 #shorts #salesforce",
       "topic": "",
@@ -4005,6 +3985,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-09T12:29:03.557198+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "qmD3SIdADyg",
+      "title": "5 AI Insights in 1 Min 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "ai",
+        "customer service",
+        "state of service",
+        "salesforce developer",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-09T16:25:47.682449+00:00",
       "stats": null
     }
   ]
