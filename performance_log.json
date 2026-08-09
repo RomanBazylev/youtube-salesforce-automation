@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "rXrczySw9Dk",
-      "title": "Unlock 90% of Salesforce Features 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceben",
-        "AgentExchange",
-        "open source",
-        "AppExchange",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-07T01:48:44.130406+00:00",
-      "stats": null
-    },
-    {
       "video_id": "jt_DM5tW2e0",
       "title": "Scale B2B Sales 🚀 #shorts #salesforce",
       "topic": "",
@@ -4005,6 +3985,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-09T16:25:47.682449+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "rc7_voy52I0",
+      "title": "Unlock Agentic HR 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "hr",
+        "agenticai",
+        "employeeexperience",
+        "datatrust",
+        "salesforcehr",
+        "shorts",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-09T20:24:36.790775+00:00",
       "stats": null
     }
   ]
