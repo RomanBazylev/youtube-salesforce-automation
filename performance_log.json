@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "HUo9lGkikfc",
-      "title": "Boost GRC with 75% fewer risks 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "grc",
-        "governance",
-        "compliance",
-        "riskmanagement",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-06T18:12:21.513202+00:00",
-      "stats": null
-    },
-    {
       "video_id": "hlgY4nK0FLM",
       "title": "SaaS Launch Secrets 🚀 #shorts #salesforce",
       "topic": "",
@@ -4005,6 +3985,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-09T08:34:25.330807+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "sGWI6Lyi5f8",
+      "title": "Eliminate Identity Debt 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "data360",
+        "agenticai",
+        "identitydebt",
+        "salesforcedeveloper",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-09T12:29:03.557198+00:00",
       "stats": null
     }
   ]
