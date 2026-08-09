@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "FlTO797alTM",
-      "title": "🚨 75% of Salesforce Admins Unprepared for Winter '27 📊 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "winter27",
-        "releaseupdate",
-        "salesforceben",
-        "setup",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-06T08:14:20.015099+00:00",
-      "stats": null
-    },
-    {
       "video_id": "z686d3aB3mw",
       "title": "🚨 75% of Salesforce Pros Hate Renames 🤯 #shorts #salesforce",
       "topic": "",
@@ -4008,6 +3988,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-09T00:48:59.371524+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "eDkPavTEp0Q",
+      "title": "Boost Success with Agentforce #shorts #salesforce 🚀",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "agentforce",
+        "customer success",
+        "sfdc",
+        "salesforce admin",
+        "salesforce consultant",
+        "crm",
+        "shorts",
+        "admin",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-09T05:01:34.345674+00:00",
       "stats": null
     }
   ]
