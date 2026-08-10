@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "ZYbsfd1whpM",
-      "title": "Boost Report Security 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "security",
-        "step-up",
-        "authentication",
-        "reports",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-08T01:27:40.904411+00:00",
-      "stats": null
-    },
-    {
       "video_id": "tJCEAxf8TNo",
       "title": "Avoid 60% Implementation Failures 🚀 #shorts #salesforce",
       "topic": "",
@@ -4006,6 +3986,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-10T12:45:30.726626+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "NB1dPwrTtPs",
+      "title": "Unlock 95% Team Potential 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "leadership",
+        "team management",
+        "salesforce tips",
+        "emergent leadership",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-10T16:48:26.202663+00:00",
       "stats": null
     }
   ]
