@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "tJCEAxf8TNo",
-      "title": "Avoid 60% Implementation Failures 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "implementation",
-        "technicaldebt",
-        "salesforceben",
-        "tips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-08T06:30:28.712968+00:00",
-      "stats": null
-    },
-    {
       "video_id": "aEXbM3wLg_0",
       "title": "💻 70% of Salesforce Jobs Require AI Skills by 2030 🚀 #shorts #salesforce",
       "topic": "",
@@ -4006,6 +3986,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-10T16:48:26.202663+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "bIhbUFitUms",
+      "title": "🚨 80% of Service ROI Lost 📉 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "banking",
+        "servicecloud",
+        "salesforceconfig",
+        "customerexperience",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-10T20:36:17.605259+00:00",
       "stats": null
     }
   ]
