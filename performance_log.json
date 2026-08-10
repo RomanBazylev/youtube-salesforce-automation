@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "L5mI9q7KYWI",
-      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "einstein",
-        "ai",
-        "automation",
-        "admin",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-07T10:50:28.504801+00:00",
-      "stats": null
-    },
-    {
       "video_id": "MSYCKlHuOe0",
       "title": "AI Agents Delayed: 3 Salesforce Hacks 🚀 #shorts #salesforce",
       "topic": "",
@@ -4005,6 +3989,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-10T00:49:29.413563+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "ptgAoI9i9Ng",
+      "title": "AI-Powered Salesforce: 8x Faster Proposals 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "agentforce",
+        "coworker",
+        "ai",
+        "productivity",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-10T05:19:45.666504+00:00",
       "stats": null
     }
   ]
