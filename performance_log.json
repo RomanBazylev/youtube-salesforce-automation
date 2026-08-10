@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "jt_DM5tW2e0",
-      "title": "Scale B2B Sales 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "b2b sales",
-        "multi-agent architecture",
-        "data discipline",
-        "pipeline management",
-        "sales strategy",
-        "shorts",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-07T07:34:03.386863+00:00",
-      "stats": null
-    },
-    {
       "video_id": "L5mI9q7KYWI",
       "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
       "topic": "",
@@ -4006,6 +3985,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-09T20:24:36.790775+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "XsPPpd-fjjg",
+      "title": "💡 Salesforce Wins AI Race? #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "AI",
+        "SaaS",
+        "enterprise",
+        "consultant",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-10T00:49:29.413563+00:00",
       "stats": null
     }
   ]
