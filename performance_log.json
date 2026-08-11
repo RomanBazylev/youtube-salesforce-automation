@@ -1,36 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "JLrgLMg_Kl0",
-      "title": "Salesforce AI Agents 🤖",
-      "topic": "Your AI Agents, Any Cloud: Building the Agentic Enterprise with Agentforce and Amazon Agentcore",
-      "tags": [
-        "salesforce",
-        "ai",
-        "agentforce",
-        "amazon agentcore",
-        "agentic enterprise",
-        "integration",
-        "mcp",
-        "model context protocol",
-        "external systems",
-        "customer experience",
-        "single source of truth",
-        "security",
-        "governance",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation",
-        "tutorial",
-        "salesforce tutorial",
-        "salesforce admin"
-      ],
-      "format": "long",
-      "uploaded_at": "2026-07-08T10:29:36.190752+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Y9TP8tJwrxA",
       "title": "💻 62% of Architects Use AI! 🚀 #shorts #salesforce",
       "topic": "",
@@ -4005,6 +3975,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-11T00:50:14.109044+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "4qFEhoUmgwA",
+      "title": "5 Salesforce Conversations 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "careeradvice",
+        "salesforceconsultant",
+        "crm",
+        "cloudcomputing",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-11T05:02:50.993654+00:00",
       "stats": null
     }
   ]
