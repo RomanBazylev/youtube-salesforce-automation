@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "aEXbM3wLg_0",
-      "title": "💻 70% of Salesforce Jobs Require AI Skills by 2030 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforcecareers",
-        "AI",
-        "2030",
-        "jobs",
-        "upskill",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-08T10:10:50.385514+00:00",
-      "stats": null
-    },
-    {
       "video_id": "JLrgLMg_Kl0",
       "title": "Salesforce AI Agents 🤖",
       "topic": "Your AI Agents, Any Cloud: Building the Agentic Enterprise with Agentforce and Amazon Agentcore",
@@ -4006,6 +3985,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-10T20:36:17.605259+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "K6HBKZZV3LY",
+      "title": "40% of Salesforce Pros Consider Leaving 🚨 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "career",
+        "jobmarket",
+        "salesforceben",
+        "sfben",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-11T00:50:14.109044+00:00",
       "stats": null
     }
   ]
