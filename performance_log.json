@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Y9TP8tJwrxA",
-      "title": "💻 62% of Architects Use AI! 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforcearchitect",
-        "ai",
-        "survey",
-        "2026",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-08T13:28:48.496389+00:00",
-      "stats": null
-    },
-    {
       "video_id": "FMyPeEuOcp0",
       "title": "Slackbot Now Does 90% of CRM Tasks 🚀 #shorts #salesforce",
       "topic": "",
@@ -3994,6 +3974,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-11T05:02:50.993654+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "xcfQCwp_cfM",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-11T08:48:18.515006+00:00",
       "stats": null
     }
   ]
