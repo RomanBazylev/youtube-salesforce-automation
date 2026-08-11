@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "LiGId314A4o",
-      "title": "Boost Salesforce Insights 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "googleanalytics",
-        "salesinsights",
-        "analytics",
-        "integration",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-09T01:34:43.922348+00:00",
-      "stats": null
-    },
-    {
       "video_id": "zemW4yrMdZE",
       "title": "Unlock Salesforce Flow Data Table 🚀 #shorts #salesforce",
       "topic": "",
@@ -3990,6 +3970,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-11T16:48:55.903018+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "XSM-8k8WpbQ",
+      "title": "🚀 1% of Pros Hold CTA! #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "cta",
+        "certification",
+        "career",
+        "architect",
+        "admin",
+        "development",
+        "shorts",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-11T20:41:02.412192+00:00",
       "stats": null
     }
   ]
