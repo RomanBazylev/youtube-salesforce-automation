@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "FMyPeEuOcp0",
-      "title": "Slackbot Now Does 90% of CRM Tasks 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceben",
-        "slackbot",
-        "crm",
-        "tableau",
-        "data360",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-08T17:21:41.089098+00:00",
-      "stats": null
-    },
-    {
       "video_id": "rKsZ9e6GgRI",
       "title": "💻 HubSpot's AI Data Sharing Mistake: 3 Salesforce Security Tips #shorts #salesforce",
       "topic": "",
@@ -3990,6 +3970,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-11T08:48:18.515006+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "CnNLgKjfAyM",
+      "title": "🚀 80% of Salesforce Data Unused? #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforceben",
+        "archiving",
+        "ai",
+        "data",
+        "optimization",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-11T12:42:52.018659+00:00",
       "stats": null
     }
   ]
