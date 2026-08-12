@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "VMb8xXRQv3o",
-      "title": "Unlock AI-Powered Insights 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "tableau",
-        "slackbot",
-        "intelligence briefs",
-        "conversational analytics",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-09T14:33:32.573076+00:00",
-      "stats": null
-    },
-    {
       "video_id": "lJRy9wBmP5s",
       "title": "🚀 70% of SMBs Switch to Vibe-Coded CRMs #shorts #salesforce",
       "topic": "",
@@ -3980,6 +3960,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-12T05:27:03.477084+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "KR7COGqzQGs",
+      "title": "Dreamforce 2026 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "dreamforce",
+        "trailblazers",
+        "developer",
+        "salesforceben",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-12T09:03:31.046255+00:00",
       "stats": null
     }
   ]
