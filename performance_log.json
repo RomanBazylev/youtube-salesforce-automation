@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "lJRy9wBmP5s",
-      "title": "🚀 70% of SMBs Switch to Vibe-Coded CRMs #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "vibecoding",
-        "crm",
-        "lowcode",
-        "smb",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-09T17:51:51.589715+00:00",
-      "stats": null
-    },
-    {
       "video_id": "CrV3KI7Y7Gs",
       "title": "🚀 Boost Startup Growth 500% #shorts #salesforce",
       "topic": "",
@@ -3980,6 +3961,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-12T09:03:31.046255+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "0oOujatjW5M",
+      "title": "Boost Productivity with Claude 🚀 #salesforce #shorts",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "anthropic",
+        " claude",
+        "productivity",
+        "salesforcepro",
+        "salesforceadmin",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-12T12:47:31.571638+00:00",
       "stats": null
     }
   ]
