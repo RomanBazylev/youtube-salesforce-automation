@@ -1,36 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "eWuIq4ow1J0",
-      "title": "Salesforce AI Agents 🚀💻",
-      "topic": "Selling With AI Agents? Here’s What You Need to Know",
-      "tags": [
-        "salesforce",
-        "ai agents",
-        "sales productivity",
-        "digital sales assistants",
-        "automating administrative tasks",
-        "customer experience",
-        "agentforce",
-        "salesforce platform",
-        "trailhead",
-        "sales development representatives",
-        "autonomous workflows",
-        "modular growth",
-        "feedback loops",
-        "future-proof",
-        "business growth",
-        "sales strategy",
-        "revenue growth",
-        "salesforce suites",
-        "foundations",
-        "salesforce trust layer"
-      ],
-      "format": "long",
-      "uploaded_at": "2026-07-09T11:05:02.212999+00:00",
-      "stats": null
-    },
-    {
       "video_id": "VMb8xXRQv3o",
       "title": "Unlock AI-Powered Insights 🚀 #shorts #salesforce",
       "topic": "",
@@ -3990,6 +3960,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-12T00:55:11.240666+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "d1r6kyiFvqs",
+      "title": "Dreamforce Tips 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "dreamforce",
+        "salesforce developer",
+        "startup",
+        "SMB",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-12T05:27:03.477084+00:00",
       "stats": null
     }
   ]
