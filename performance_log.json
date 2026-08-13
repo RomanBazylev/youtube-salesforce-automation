@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "TzfnZWk-FBY",
-      "title": "75% of Salesforce Admins Prefer Clicks Over Code 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "clicksnotcode",
-        "lowcode",
-        "salesforceben",
-        "salesforceadmin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-10T17:48:51.744311+00:00",
-      "stats": null
-    },
-    {
       "video_id": "L7ClQzevVj4",
       "title": "🚀 Boost AI Trust: 5 Salesforce Tips #shorts #salesforce",
       "topic": "",
@@ -3981,6 +3961,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-13T09:08:59.558287+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "ilEDyK-b_Bo",
+      "title": "45% of Salesforce Alumni Return 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforceben",
+        "boomerang",
+        "hiring",
+        "careers",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-13T12:45:51.470544+00:00",
       "stats": null
     }
   ]
