@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "DKpMpaWkkgY",
-      "title": "Boost Adoption 300% 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "marketingcloud",
-        "onboarding",
-        "adoption",
-        "salesforceconsultant",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-10T07:31:12.527786+00:00",
-      "stats": null
-    },
-    {
       "video_id": "7fTuWhVXZs0",
       "title": "🚀 Boost Marketing Cloud Next #shorts #salesforce",
       "topic": "",
@@ -3983,6 +3963,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-12T20:40:02.130194+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "X63RLo7E6Rk",
+      "title": "💡 Boost AI Skills in 60s 🕒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "nocode",
+        "ai",
+        "salesforceblog",
+        "sfblog",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-13T00:56:52.499549+00:00",
       "stats": null
     }
   ]
