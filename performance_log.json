@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "0x46gyx7OhM",
-      "title": "Salesforce Updates: 80% of Admins Rely on Profiles 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforce permissions",
-        "permission sets",
-        "profiles",
-        "spring 26 updates",
-        "salesforce best practices",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-11T01:22:21.978902+00:00",
-      "stats": null
-    },
-    {
       "video_id": "EimW7m8WwTs",
       "title": "Upskill for AI 💻 #shorts #salesforce",
       "topic": "",
@@ -3981,6 +3960,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-13T16:48:36.348484+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "NKu_iY1sz7w",
+      "title": "AI in Commerce: 80% Pilots Fail 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "commerce",
+        "ai",
+        "sfblog",
+        "salesforcecommerce",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-13T20:36:02.258270+00:00",
       "stats": null
     }
   ]
