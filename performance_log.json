@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "67hN--SJqMY",
-      "title": "Boost Sales with 12 Tips 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "socialmedia",
-        "advertising",
-        "sales",
-        "marketing",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-10T13:58:58.736923+00:00",
-      "stats": null
-    },
-    {
       "video_id": "TzfnZWk-FBY",
       "title": "75% of Salesforce Admins Prefer Clicks Over Code 🚀 #shorts #salesforce",
       "topic": "",
@@ -3984,6 +3964,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-13T05:31:28.049949+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "OBvwMMkD_KY",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-13T09:08:59.558287+00:00",
       "stats": null
     }
   ]
