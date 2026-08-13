@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "7fTuWhVXZs0",
-      "title": "🚀 Boost Marketing Cloud Next #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "marketingcloud",
-        "marketingautomation",
-        "salesforceben",
-        "martech",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-10T10:49:37.833104+00:00",
-      "stats": null
-    },
-    {
       "video_id": "67hN--SJqMY",
       "title": "Boost Sales with 12 Tips 🚀 #shorts #salesforce",
       "topic": "",
@@ -3983,6 +3963,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-13T00:56:52.499549+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "GmLD_P2Dp0E",
+      "title": "Dreamforce '26 Tips 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "dreamforce",
+        "admin",
+        "developer",
+        "salesforceben",
+        "trailblazers",
+        "sfdev",
+        "shorts",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-13T05:31:28.049949+00:00",
       "stats": null
     }
   ]
