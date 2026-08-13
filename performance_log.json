@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "L7ClQzevVj4",
-      "title": "🚀 Boost AI Trust: 5 Salesforce Tips #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "trust",
-        "architecture",
-        "agent",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-10T21:06:27.852651+00:00",
-      "stats": null
-    },
-    {
       "video_id": "0x46gyx7OhM",
       "title": "Salesforce Updates: 80% of Admins Rely on Profiles 🚀 #shorts #salesforce",
       "topic": "",
@@ -3981,6 +3961,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-13T12:45:51.470544+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "D9qwr2mqQ4I",
+      "title": "560K+ Salesforce Attacks 🚨 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforce security",
+        "data theft",
+        "experience cloud",
+        "service now",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-13T16:48:36.348484+00:00",
       "stats": null
     }
   ]
