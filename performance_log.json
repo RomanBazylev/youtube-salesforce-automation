@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "EimW7m8WwTs",
-      "title": "Upskill for AI 💻 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "reskilling",
-        "careerdevelopment",
-        "salesforceben",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-11T06:12:13.744536+00:00",
-      "stats": null
-    },
-    {
       "video_id": "nfDUxcLg5HE",
       "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
       "topic": "",
@@ -3980,6 +3960,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-13T20:36:02.258270+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "N2Ha6KNs7V0",
+      "title": "💸 Salesforce Salaries 2026: 15% Drop? #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "salesforcecareers",
+        "salaries2026",
+        "sfben",
+        "salesforcejobs",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-14T00:59:44.311038+00:00",
       "stats": null
     }
   ]
