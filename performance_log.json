@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "wAov5DRpMvU",
-      "title": "Unlock $15M Pipeline 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "agentforce",
-        "salesforceconsultant",
-        "pipelinegrowth",
-        "leanteams",
-        "salesforcedeployment",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-12T01:26:25.893684+00:00",
-      "stats": null
-    },
-    {
       "video_id": "akQPIKGAK1E",
       "title": "Winter '27 Release 🚨 #shorts #salesforce",
       "topic": "",
@@ -3975,6 +3954,27 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-14T16:48:29.490529+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "UspaTfWPKuQ",
+      "title": "Marc Benioff Invests in AI: Boost Your Skills 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "artificialintelligence",
+        "salesforceconsultant",
+        "marcbenioff",
+        "juneai",
+        "aiinsalesforce",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-14T20:28:15.611209+00:00",
       "stats": null
     }
   ]
