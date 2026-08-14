@@ -1,28 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "NuX5WqDK8cM",
-      "title": "Boost Sales with Tableau Next! 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "tableau next",
-        "slackbot skills",
-        "ai-ready semantic models",
-        "conversational analytics",
-        "salesforce admin",
-        "salesforce consultant",
-        "shorts",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-11T20:44:30.041009+00:00",
-      "stats": null
-    },
-    {
       "video_id": "wAov5DRpMvU",
       "title": "Unlock $15M Pipeline 🚀 #shorts #salesforce",
       "topic": "",
@@ -3978,6 +3956,25 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-14T12:40:43.626202+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "au_5Jz0gnrc",
+      "title": " Unlock Dreamforce '26 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "dreamforce",
+        "agenticenterprise",
+        "salesforceevents",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-14T16:48:29.490529+00:00",
       "stats": null
     }
   ]
