@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "t0suIISKzcI",
-      "title": "🚀 4,800 Jobs Cut: Future-Proof Your Salesforce Career #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "careeradvice",
-        "salesforcecareers",
-        "ai",
-        "futureproof",
-        "salesforcearchitect",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-11T12:52:27.048881+00:00",
-      "stats": null
-    },
-    {
       "video_id": "o_9Cbp1_FB4",
       "title": "Slackbot Now Replaces Salesforce? 🚀 #shorts #salesforce",
       "topic": "",
@@ -3983,6 +3962,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-14T05:33:21.213221+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "LTHsj6lc5EM",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-14T09:02:42.843861+00:00",
       "stats": null
     }
   ]
