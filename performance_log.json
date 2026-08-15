@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "kzh6HIeBTrw",
-      "title": "🔒 Boost Report Security 90% with Step-Up Auth #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "reportsecurity",
-        "stepupauthentication",
-        "salesforcedeveloper",
-        "salesforceupdates",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-12T09:45:37.754414+00:00",
-      "stats": null
-    },
-    {
       "video_id": "iiYBJzBnTOo",
       "title": "Auto 67% Inquiries 🚀 #shorts #salesforce",
       "topic": "",
@@ -3975,6 +3955,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-15T00:33:01.521419+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "1nlSYW2MB_E",
+      "title": "💻 70% of Salesforce Tasks Automated by 2027? 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "automation",
+        "AI",
+        "consultant",
+        "upscale",
+        "career",
+        "crm",
+        "trailblazer"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-15T04:25:48.571805+00:00",
       "stats": null
     }
   ]
