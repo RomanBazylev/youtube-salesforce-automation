@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "iiYBJzBnTOo",
-      "title": "Auto 67% Inquiries 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "automation",
-        "customer service",
-        "admin",
-        "shorts",
-        "salesforce tips",
-        "agentforce",
-        "crm",
-        "trailblazer"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-12T12:53:39.315471+00:00",
-      "stats": null
-    },
-    {
       "video_id": "0PQuJHdj_wE",
       "title": "🚀 Boost Sales with Social Ads #shorts #salesforce",
       "topic": "",
@@ -3975,6 +3956,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-15T04:25:48.571805+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "jdj79MCQ1PE",
+      "title": "🚀 Boost Trust with AI: 5 Salesforce Tips #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "AI",
+        "accessibility",
+        "trust",
+        "salesforce tips",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-15T08:21:50.076353+00:00",
       "stats": null
     }
   ]
