@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "sI6CuFODrmg",
-      "title": "Unlock Salesforce Flow 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceflow",
-        "flowdatatables",
-        "productivity",
-        "salesforceben",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-13T01:26:01.849774+00:00",
-      "stats": null
-    },
-    {
       "video_id": "v7FFgfvdUjM",
       "title": "5 Salesforce Marketing Hacks 🚀 #shorts #salesforce",
       "topic": "",
@@ -3976,6 +3956,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-15T16:16:14.866828+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "lOQjHzyln5I",
+      "title": "Unlock AI Trust 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "AI",
+        "accessibility",
+        "trustworthy",
+        "useradoption",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-15T20:16:59.430191+00:00",
       "stats": null
     }
   ]
