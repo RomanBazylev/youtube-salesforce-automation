@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "8xVOp1tkRNY",
-      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "soql",
-        "apex",
-        "developer",
-        "performance",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-13T10:54:45.044634+00:00",
-      "stats": null
-    },
-    {
       "video_id": "mDSZHqgpNlo",
       "title": "Boost Sales with Einstein 🚀 #shorts #salesforce",
       "topic": "",
@@ -3976,6 +3960,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-16T00:35:14.884355+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "TWgoWc_BjFQ",
+      "title": "20+ Validation Rules 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "validationrules",
+        "salesforceben",
+        "productivity",
+        "salesforcetips",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-16T04:31:44.332294+00:00",
       "stats": null
     }
   ]
