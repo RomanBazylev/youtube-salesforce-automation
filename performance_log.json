@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "l61V0QIDwB8",
-      "title": "52.7% of Architects Prefer Customer Roles 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "careergoals",
-        "salesforcearchitect",
-        "endcustomerroles",
-        "salesforcecareer",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-13T17:54:03.658091+00:00",
-      "stats": null
-    },
-    {
       "video_id": "wAzmHSk7yCw",
       "title": "Franken-Stacked? Simplify with Salesforce 🚀 #shorts #salesforce",
       "topic": "",
@@ -3976,6 +3956,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-16T08:21:25.356866+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "qJH2UyM14jI",
+      "title": "🚨 560K+ Attacks: Secure Your Salesforce 🚫 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "security",
+        "admin",
+        "shorts",
+        "salesforceben",
+        "datatheft",
+        "cityforum",
+        "crm",
+        "trailblazer",
+        "automation"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-16T12:20:38.015884+00:00",
       "stats": null
     }
   ]
