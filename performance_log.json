@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "v7FFgfvdUjM",
-      "title": "5 Salesforce Marketing Hacks 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "marketing",
-        "startup",
-        "campaigns",
-        "success",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-13T06:52:49.171780+00:00",
-      "stats": null
-    },
-    {
       "video_id": "8xVOp1tkRNY",
       "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
       "topic": "",
@@ -3976,6 +3956,26 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-15T20:16:59.430191+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "tjicv5JaUfo",
+      "title": "50% of Admin Tasks Automated 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "shorts",
+        "automation",
+        "AI",
+        "development",
+        "consulting",
+        "upskill",
+        "crm",
+        "trailblazer"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-16T00:35:14.884355+00:00",
       "stats": null
     }
   ]
