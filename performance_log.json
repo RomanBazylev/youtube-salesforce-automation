@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "mDSZHqgpNlo",
-      "title": "Boost Sales with Einstein 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "einsteinanalytics",
-        "googleanalytics",
-        "salesforcetips",
-        "admin",
-        "shorts",
-        "salesforceconsultant",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-13T14:03:31.360126+00:00",
-      "stats": null
-    },
-    {
       "video_id": "l61V0QIDwB8",
       "title": "52.7% of Architects Prefer Customer Roles 🚀 #shorts #salesforce",
       "topic": "",
@@ -3980,6 +3960,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-16T04:31:44.332294+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "j5SU4X4kp7w",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-16T08:21:25.356866+00:00",
       "stats": null
     }
   ]
