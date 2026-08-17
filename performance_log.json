@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "uXm_gkG5PC4",
-      "title": "🚀 Boost Capacity 13.9% with AI! #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "canadagoose",
-        "agentforce",
-        "customerexperience",
-        "revenuegrowth",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-14T17:06:21.556969+00:00",
-      "stats": null
-    },
-    {
       "video_id": "okyG1pkgUJc",
       "title": "Debug Salesforce Flows Fast 🚀 #shorts #salesforce",
       "topic": "",
@@ -3967,6 +3946,34 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-17T08:35:46.109890+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "araNsB4DTL8",
+      "title": "The Experimentation Phase of AI Is Over: What Commerce Leaders Are Focusing on Now 🚀📈",
+      "topic": "The Experimentation Phase of AI Is Over. Here’s What Commerce Leaders Are Focusing on Now",
+      "tags": [
+        "salesforce",
+        "ai",
+        "ml",
+        "commerce",
+        "customer-data",
+        "data-quality",
+        "integration",
+        "roi",
+        "scaling-ai",
+        "unified-data",
+        "admin",
+        "crm",
+        "trailblazer",
+        "automation",
+        "tutorial",
+        "salesforce tutorial",
+        "salesforce admin",
+        "salesforce developer"
+      ],
+      "format": "long",
+      "uploaded_at": "2026-08-17T08:51:04.041456+00:00",
       "stats": null
     }
   ]
