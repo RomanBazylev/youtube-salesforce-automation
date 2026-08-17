@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "xKOUgjikMs0",
-      "title": "Boost Leads 300% 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "leadmagnet",
-        "marketing",
-        "sales",
-        "businessgrowth",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-15T01:15:53.804793+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Hi0bPiZCp4E",
       "title": "🚀 Boost AI Trust with 5 Requirements #shorts #salesforce",
       "topic": "",
@@ -3970,6 +3950,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-17T12:24:01.241601+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "kEDj4PLK9ow",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-17T16:19:18.048929+00:00",
       "stats": null
     }
   ]
