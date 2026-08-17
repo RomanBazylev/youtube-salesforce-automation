@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Hi0bPiZCp4E",
-      "title": "🚀 Boost AI Trust with 5 Requirements #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "trust",
-        "architecture",
-        "requirements",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-15T06:11:57.743280+00:00",
-      "stats": null
-    },
-    {
       "video_id": "kkBjhimGTjg",
       "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
       "topic": "",
@@ -3966,6 +3946,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-17T16:19:18.048929+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "-g7l7V0LCEQ",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-17T20:20:04.822496+00:00",
       "stats": null
     }
   ]
