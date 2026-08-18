@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "7XBwZljm678",
-      "title": "Boost Capacity 13.9% with AI! 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "AI",
-        "Agentforce",
-        "customer satisfaction",
-        "revenue generation",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-15T20:55:20.687037+00:00",
-      "stats": null
-    },
-    {
       "video_id": "UovxvsX3_YQ",
       "title": "Authentic Marketing 🚀 #shorts #salesforce",
       "topic": "",
@@ -3940,6 +3920,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-18T12:26:08.047993+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "m6M4cJmVwFM",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-18T16:28:07.960174+00:00",
       "stats": null
     }
   ]
