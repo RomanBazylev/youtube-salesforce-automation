@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "8KODLFciX-U",
-      "title": "🚀 85% of Salesforce orgs use Headless Architecture #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "headless",
-        "architecture",
-        "ai",
-        "salesforceadmin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-16T13:18:42.062329+00:00",
-      "stats": null
-    },
-    {
       "video_id": "mLkzgZmp-GY",
       "title": "AI Era Data Trust 🚀 #shorts #salesforce",
       "topic": "",
@@ -3925,6 +3905,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-19T04:32:31.861920+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "TZ0ZEfikePI",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-19T08:28:39.566180+00:00",
       "stats": null
     }
   ]
