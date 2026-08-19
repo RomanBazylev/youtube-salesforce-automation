@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "_cQplIxPmQE",
-      "title": "Salesforce Permissions U-Turn 🚨 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "permissions",
-        "profiles",
-        "permissionsets",
-        "salesforceben",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-16T09:58:36.935225+00:00",
-      "stats": null
-    },
-    {
       "video_id": "8KODLFciX-U",
       "title": "🚀 85% of Salesforce orgs use Headless Architecture #shorts #salesforce",
       "topic": "",
@@ -3929,6 +3909,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-19T00:34:35.068844+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "cKKlIrdesw0",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-19T04:32:31.861920+00:00",
       "stats": null
     }
   ]
