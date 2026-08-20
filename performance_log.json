@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "I7nUBWK8gXA",
-      "title": "🚀 92% of AI Fails: Fix Data Protection #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "data protection",
-        "enterprise",
-        "security",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-16T20:50:19.656514+00:00",
-      "stats": null
-    },
-    {
       "video_id": "hot8ojWCOaE",
       "title": "🚀 75% of Salesforce Pros Use This Feature! #shorts #salesforce",
       "topic": "",
@@ -3917,6 +3897,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-19T12:28:20.736480+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "-y8yvvLSbvw",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-20T00:34:13.967070+00:00",
       "stats": null
     }
   ]
