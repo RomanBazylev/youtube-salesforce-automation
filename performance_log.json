@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "D5t0TzQnC-k",
-      "title": "💡 75% of Salesforce Events Changed: What's Next? #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "dreamforce",
-        "trailblazerdx",
-        "trailblazer",
-        "salesforceevents",
-        "crm",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-18T12:50:38.735809+00:00",
-      "stats": null
-    },
-    {
       "video_id": "AUEgWs7BWlk",
       "title": "Take Salesforce Survey by July 19 📊 #shorts #salesforce",
       "topic": "",
@@ -3884,6 +3865,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-21T12:26:59.601825+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "GvKSVLD19tk",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-21T16:28:51.986527+00:00",
       "stats": null
     }
   ]
