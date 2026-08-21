@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "PYMbwBbiTgM",
-      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "soql",
-        "apex",
-        "developer",
-        "performance",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-18T09:22:20.684785+00:00",
-      "stats": null
-    },
-    {
       "video_id": "D5t0TzQnC-k",
       "title": "💡 75% of Salesforce Events Changed: What's Next? #shorts #salesforce",
       "topic": "",
@@ -3884,6 +3868,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-21T08:31:46.757929+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "IBvHjAQJbRE",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-21T12:26:59.601825+00:00",
       "stats": null
     }
   ]
