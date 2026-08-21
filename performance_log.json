@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "o7t7YLmO6Lw",
-      "title": "🚀 Agentforce Pricing: 75% of Users Switched! #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "agentforce",
-        "pricing",
-        "pay-per-resolution",
-        "salesforce admin",
-        "crm",
-        "salesforce tips",
-        "shorts",
-        "admin",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-17T20:48:00.875059+00:00",
-      "stats": null
-    },
-    {
       "video_id": "s5IyQspJ57A",
       "title": "Salesforce Survival in AI Era 🚀 #shorts #salesforce",
       "topic": "",
@@ -3896,6 +3875,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-20T20:20:57.929606+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "344p1m0clWk",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-21T00:37:19.643839+00:00",
       "stats": null
     }
   ]
