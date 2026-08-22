@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "EuhGCIlHmLY",
-      "title": "💡 75% of Customers Prefer Trusted Data 📊 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "data",
-        "ai",
-        "trust",
-        "salesforceadmin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-19T09:47:34.699165+00:00",
-      "stats": null
-    },
-    {
       "video_id": "kHWDgu7WWBQ",
       "title": "🚀 AI-Assisted Org Discovery #shorts #salesforce",
       "topic": "",
@@ -3869,6 +3849,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-22T08:21:28.456168+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "liwQkN6vv_0",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-22T12:21:28.339794+00:00",
       "stats": null
     }
   ]
