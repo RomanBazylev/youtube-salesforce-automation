@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "MOkvduCzEis",
-      "title": "🚀 Cut Agentforce Costs by 30% with Pay-Per-Resolution #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "agentforce",
-        "pay-per-resolution",
-        "customer service",
-        "salesforce tips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-19T06:27:19.565252+00:00",
-      "stats": null
-    },
-    {
       "video_id": "EuhGCIlHmLY",
       "title": "💡 75% of Customers Prefer Trusted Data 📊 #shorts #salesforce",
       "topic": "",
@@ -3873,6 +3853,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-22T04:26:58.685211+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "zOB6duTsKnY",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-22T08:21:28.456168+00:00",
       "stats": null
     }
   ]
