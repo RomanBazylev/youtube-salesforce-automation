@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "9tCd7MpvGvw",
-      "title": "🚀 85% of AI Fails: Protect Data First #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "security",
-        "data protection",
-        "salesforce developer",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-19T01:22:47.078804+00:00",
-      "stats": null
-    },
-    {
       "video_id": "MOkvduCzEis",
       "title": "🚀 Cut Agentforce Costs by 30% with Pay-Per-Resolution #shorts #salesforce",
       "topic": "",
@@ -3877,6 +3857,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-22T00:35:59.299036+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "59muD9uKmfo",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-22T04:26:58.685211+00:00",
       "stats": null
     }
   ]
