@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "LhBCLA_T9Ds",
-      "title": "🚀 Boost Customer Satisfaction by 21.2% with AI #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "customer satisfaction",
-        "salesforce developer",
-        "canada goose",
-        "agentforce",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-19T16:47:22.585854+00:00",
-      "stats": null
-    },
-    {
       "video_id": "ciaRqSZq_-k",
       "title": "💻 27% Demand Surge for Salesforce Architects in 2026! #shorts #salesforce",
       "topic": "",
@@ -3862,6 +3841,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-22T16:16:19.087884+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "vbb2ZoTsvZk",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-22T20:17:21.723469+00:00",
       "stats": null
     }
   ]
