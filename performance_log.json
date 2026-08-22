@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "kHWDgu7WWBQ",
-      "title": "🚀 AI-Assisted Org Discovery #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "orgdiscovery",
-        "architecture",
-        "salesforcearchitect",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-19T12:52:02.750541+00:00",
-      "stats": null
-    },
-    {
       "video_id": "LhBCLA_T9Ds",
       "title": "🚀 Boost Customer Satisfaction by 21.2% with AI #shorts #salesforce",
       "topic": "",
@@ -3866,6 +3846,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-22T12:21:28.339794+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "EvfTR5IKs0Y",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-22T16:16:19.087884+00:00",
       "stats": null
     }
   ]
