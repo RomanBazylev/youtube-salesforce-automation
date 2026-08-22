@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "KAiLj5xrZGk",
-      "title": "Salesforce U-Turn: 75% of Admins Relief 🚨 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "permissions",
-        "profiles",
-        "salesforceben",
-        "trailblazer",
-        "crm",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-18T20:43:16.211537+00:00",
-      "stats": null
-    },
-    {
       "video_id": "9tCd7MpvGvw",
       "title": "🚀 85% of AI Fails: Protect Data First #shorts #salesforce",
       "topic": "",
@@ -3879,6 +3860,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-21T20:22:26.379316+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "PAVZn_vkPSI",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-22T00:35:59.299036+00:00",
       "stats": null
     }
   ]
