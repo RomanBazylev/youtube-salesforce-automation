@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "ZcHEnD5NLyM",
-      "title": "Slack Hacks in Salesforce 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "slack",
-        "productivity",
-        "salesforcearchitect",
-        "integration",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-20T13:47:02.662669+00:00",
-      "stats": null
-    },
-    {
       "video_id": "_QxhgYtp-t0",
       "title": "💻 Boost AI with Multi-Agents #shorts #salesforce",
       "topic": "",
@@ -3837,6 +3817,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-23T12:20:48.484418+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "xkKLPBFMTlU",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-23T16:18:34.582095+00:00",
       "stats": null
     }
   ]
