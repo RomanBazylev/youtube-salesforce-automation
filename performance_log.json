@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "jLfo867d0Nc",
-      "title": "Outgrow Your CRM? 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "crm",
-        "salesforcecrm",
-        "customerrelationshipmanagement",
-        "salesforcedeveloper",
-        "salesforceconsultant",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-21T17:14:35.944282+00:00",
-      "stats": null
-    },
-    {
       "video_id": "ksAKzn0gJro",
       "title": "Upgrade Agent to Agent Script Now 🚀 #shorts #salesforce",
       "topic": "",
@@ -3816,6 +3796,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-24T16:27:54.995850+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "qPGh9nNmy28",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-24T20:22:43.621951+00:00",
       "stats": null
     }
   ]
