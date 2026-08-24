@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "BiUhID_68ws",
-      "title": "Holiday Sales 📈 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "holiday_sales",
-        "retail",
-        "sales",
-        "marketing",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-21T01:22:59.871032+00:00",
-      "stats": null
-    },
-    {
       "video_id": "QIDTsE8E9Io",
       "title": "💻 92% of Salesforce Architects satisfied 🚀 #shorts #salesforce",
       "topic": "",
@@ -3828,6 +3808,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-24T00:35:23.974811+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "D7GIrg_vENQ",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-24T04:42:34.961183+00:00",
       "stats": null
     }
   ]
