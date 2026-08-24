@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "j_BWOUbgCt4",
-      "title": "Salesforce Data Cloud Struggles 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "datacloud",
-        "salesforceben",
-        "data360",
-        "businessanalyst",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-21T13:17:06.448704+00:00",
-      "stats": null
-    },
-    {
       "video_id": "jLfo867d0Nc",
       "title": "Outgrow Your CRM? 🚀 #shorts #salesforce",
       "topic": "",
@@ -3820,6 +3800,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-24T12:27:26.974635+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "bPZtMY6jeXY",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-24T16:27:54.995850+00:00",
       "stats": null
     }
   ]
