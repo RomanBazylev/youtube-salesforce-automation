@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "STTceqoxkHo",
-      "title": "Deploy Flows 30% Faster 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "flows",
-        "deployment",
-        "automation",
-        "salesforceben",
-        "bestpractices",
-        "shorts",
-        "crm",
-        "trailblazer"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-22T10:17:22.884986+00:00",
-      "stats": null
-    },
-    {
       "video_id": "-pxFqcLgO8c",
       "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
       "topic": "",
@@ -3799,6 +3779,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-25T08:35:47.546464+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "XOlDmoLBrFg",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-25T12:28:10.214602+00:00",
       "stats": null
     }
   ]
