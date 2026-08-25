@@ -1,28 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "ITjX8DDV38E",
-      "title": "🚀 Boost Search with Einstein 🔍 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "einstein",
-        "agenticcommerce",
-        "search",
-        "commercecloud",
-        "salesforceadmin",
-        "salesforcedeveloper",
-        "shorts",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-22T01:22:39.648799+00:00",
-      "stats": null
-    },
-    {
       "video_id": "0a-1VZqqLoU",
       "title": "🚀 Boost Sales with £1.2M Deals #shorts #salesforce",
       "topic": "",
@@ -3808,6 +3786,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-25T00:36:10.842476+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "ftm3T5j8bTY",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-25T04:35:10.189403+00:00",
       "stats": null
     }
   ]
