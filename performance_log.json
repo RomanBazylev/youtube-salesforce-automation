@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "sZBbi2nT2CA",
-      "title": "Boost AI Chatbots 300% 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "chatbots",
-        "customer",
-        "service",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-23T20:55:37.204123+00:00",
-      "stats": null
-    },
-    {
       "video_id": "YdeR6g4LAds",
       "title": "🚨 70% of Salesforce orgs lack proper security 🚫 #shorts #salesforce",
       "topic": "",
@@ -3779,6 +3759,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-26T16:48:30.194248+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "WXSSDNeiHMw",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-26T22:41:42.499275+00:00",
       "stats": null
     }
   ]
