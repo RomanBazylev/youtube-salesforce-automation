@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "ZSS6VEbzF34",
-      "title": "Boost Healthcare CRM 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "healthcare",
-        "crm",
-        "salesforcehealthcare",
-        "healthcarecrmtools",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-23T13:25:10.416927+00:00",
-      "stats": null
-    },
-    {
       "video_id": "sZBbi2nT2CA",
       "title": "Boost AI Chatbots 300% 🚀 #shorts #salesforce",
       "topic": "",
@@ -3782,6 +3763,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-26T12:28:34.611894+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "AF7fpR0z19A",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-26T16:48:30.194248+00:00",
       "stats": null
     }
   ]
