@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Ld0nXI0hjF4",
-      "title": "Salesforce Leads in AI! 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "conversationalai",
-        "gartner",
-        "magicquadrant",
-        "salesforceleader",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-24T10:09:52.396292+00:00",
-      "stats": null
-    },
-    {
       "video_id": "OsS_Z1PuKps",
       "title": "🚀 Boost Agent Productivity #shorts #salesforce",
       "topic": "",
@@ -3768,6 +3748,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-27T18:33:40.545969+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "6XPnz46ThP4",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-28T04:01:50.891016+00:00",
       "stats": null
     }
   ]
