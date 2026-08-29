@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "OsS_Z1PuKps",
-      "title": "🚀 Boost Agent Productivity #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "customerfacing",
-        "employeeagents",
-        "productivityhacks",
-        "salesforcetips",
-        "aiagents",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-24T13:20:03.557715+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Z7XKsNsDYeM",
       "title": "Boost Data Cloud 🚀 #shorts #salesforce",
       "topic": "",
@@ -3765,6 +3744,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-28T04:01:50.891016+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "xC-QMmcM2OU",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-29T00:21:17.340529+00:00",
       "stats": null
     }
   ]
