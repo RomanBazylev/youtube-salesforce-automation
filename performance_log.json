@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "mTW_oC5qL10",
-      "title": "AI Pitfalls in Salesforce? 🚨 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "tableau",
-        "mcp",
-        "data",
-        "accuracy",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-25T20:46:34.686037+00:00",
-      "stats": null
-    },
-    {
       "video_id": "1PvnSI2RVT8",
       "title": "Optimize Marketing with Einstein 🚀 #shorts #salesforce",
       "topic": "",
@@ -3733,6 +3712,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-30T15:40:13.091175+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "zf0qynWTUGw",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-30T18:59:24.775715+00:00",
       "stats": null
     }
   ]
