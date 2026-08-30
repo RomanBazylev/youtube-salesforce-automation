@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "2R5I3fTzBYc",
-      "title": "💻 120k+ Layoffs in 2026: Future-Proof Your Salesforce Career #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "career development",
-        "layoff-proof",
-        "salesforce ecosystem",
-        "tech jobs",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-25T09:31:26.291085+00:00",
-      "stats": null
-    },
-    {
       "video_id": "rYSL6N_5mp8",
       "title": "🚀 Dedupe like a Pro #shorts #salesforce",
       "topic": "",
@@ -3744,6 +3724,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-29T22:13:22.468706+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Q-G375jFe2Y",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-30T01:59:33.700737+00:00",
       "stats": null
     }
   ]
