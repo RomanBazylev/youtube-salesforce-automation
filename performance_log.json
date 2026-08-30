@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "rYSL6N_5mp8",
-      "title": "🚀 Dedupe like a Pro #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "dataquality",
-        "deduplication",
-        "salesforceben",
-        "data360",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-25T12:59:53.054666+00:00",
-      "stats": null
-    },
-    {
       "video_id": "VpyRhUwC9Ss",
       "title": "🚀 80% of Salesforce Users Don't Know About Claude! #shorts #salesforce",
       "topic": "",
@@ -3740,6 +3720,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-30T01:59:33.700737+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "pkf4gmYM638",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-30T09:39:13.786660+00:00",
       "stats": null
     }
   ]
