@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "1PvnSI2RVT8",
-      "title": "Optimize Marketing with Einstein 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "einstein",
-        "marketing",
-        "optimization",
-        "agentic",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-26T01:31:11.670620+00:00",
-      "stats": null
-    },
-    {
       "video_id": "iSgOZebRG2U",
       "title": "Salesforce Leads in AI 🚀 #shorts #salesforce",
       "topic": "",
@@ -3728,6 +3708,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-30T18:59:24.775715+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "_c0bwJ2iTVI",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-30T22:20:39.008920+00:00",
       "stats": null
     }
   ]
