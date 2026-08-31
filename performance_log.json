@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "iSgOZebRG2U",
-      "title": "Salesforce Leads in AI 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "conversationalai",
-        "gartner",
-        "magicquadrant",
-        "aiplatforms",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-26T06:34:49.189379+00:00",
-      "stats": null
-    },
-    {
       "video_id": "rM6_p0lqb8U",
       "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
       "topic": "",
@@ -3724,6 +3704,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-30T22:20:39.008920+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "wLFsSSTsfwc",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-08-31T01:54:26.858889+00:00",
       "stats": null
     }
   ]
