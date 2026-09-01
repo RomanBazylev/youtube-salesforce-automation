@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "ny3cKs54FVY",
-      "title": "🚀 75% of AI answers are wrong! 🤖 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "tableau",
-        "mcp",
-        "certifieddata",
-        "aiskills",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-26T20:50:26.605489+00:00",
-      "stats": null
-    },
-    {
       "video_id": "FpuGB5vB2bs",
       "title": "AI Chatbots in Salesforce 🤖 #shorts #salesforce",
       "topic": "",
@@ -3712,6 +3691,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-08-31T23:36:27.390979+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "aDvf0vUDQwo",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-01T02:19:04.211358+00:00",
       "stats": null
     }
   ]
