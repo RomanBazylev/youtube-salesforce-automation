@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "LoRaQBNQvIM",
-      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "permission sets",
-        "profiles",
-        "admin",
-        "security",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-27T11:07:37.650839+00:00",
-      "stats": null
-    },
-    {
       "video_id": "9JT3K-D-cng",
       "title": "💸 25% Market Share: Salesforce Dominance #shorts #salesforce",
       "topic": "",
@@ -3701,6 +3685,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-01T15:47:09.623563+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "W-0OP2ZuusI",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-01T22:16:58.834719+00:00",
       "stats": null
     }
   ]
