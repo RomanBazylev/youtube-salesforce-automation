@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "UjO0ancv_Vg",
-      "title": "Slack Rival Alert! 🚨 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "slack",
-        "buzz",
-        "salesforceben",
-        "jackdorsey",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-27T07:03:48.070189+00:00",
-      "stats": null
-    },
-    {
       "video_id": "LoRaQBNQvIM",
       "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
       "topic": "",
@@ -3704,6 +3684,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-01T09:05:42.985628+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "yqbOVK_gXrs",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-01T15:47:09.623563+00:00",
       "stats": null
     }
   ]
