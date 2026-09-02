@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "9JT3K-D-cng",
-      "title": "💸 25% Market Share: Salesforce Dominance #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "crm",
-        "cloud",
-        "enterprise",
-        "businessanalysis",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-27T14:13:32.977508+00:00",
-      "stats": null
-    },
-    {
       "video_id": "O_2NOCLQPXU",
       "title": "Retired Salesforce Certs? 🤔 #shorts #salesforce",
       "topic": "",
@@ -3701,6 +3682,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-01T22:16:58.834719+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "FB9pNgD8eMA",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-02T01:39:21.164790+00:00",
       "stats": null
     }
   ]
