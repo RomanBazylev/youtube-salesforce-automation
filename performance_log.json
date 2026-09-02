@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "iCondBB2nEE",
-      "title": "Fix Onboarding 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "itsm",
-        "onboarding",
-        "admin",
-        "architecture",
-        "workflow",
-        "optimization",
-        "shorts",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-28T01:20:02.211647+00:00",
-      "stats": null
-    },
-    {
       "video_id": "unckZp2_xzk",
       "title": "Salesforce Wins $1.6B Contract! 🚀 #shorts #salesforce",
       "topic": "",
@@ -3691,6 +3670,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-02T15:33:54.618029+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "lim1KA-NEYk",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-02T19:06:51.535192+00:00",
       "stats": null
     }
   ]
