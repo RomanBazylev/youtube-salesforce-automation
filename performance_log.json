@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "rJu9CNAPwXs",
-      "title": "1 Salesforce Architect Enough? 🤔 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "architecture",
-        "salesforceben",
-        "orgmanagement",
-        "salesforcestrategy",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-29T06:31:26.114723+00:00",
-      "stats": null
-    },
-    {
       "video_id": "fKGc9V_tNM4",
       "title": "Boost Agentforce with Slackbot 🚀 #shorts #salesforce",
       "topic": "",
@@ -3667,6 +3647,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-03T19:05:34.486936+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "1isH-3e8I2o",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-03T22:06:19.111379+00:00",
       "stats": null
     }
   ]
