@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "MgGiXgDtgpI",
-      "title": "Boost Sales 25% with Opportunity Management! 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "opportunitymanagement",
-        "salesperformance",
-        "crm",
-        "salesforceadmin",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-29T01:25:00.003959+00:00",
-      "stats": null
-    },
-    {
       "video_id": "rJu9CNAPwXs",
       "title": "1 Salesforce Architect Enough? 🤔 #shorts #salesforce",
       "topic": "",
@@ -3669,6 +3650,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-03T15:25:58.946432+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Jm2xMRsVAH8",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-03T19:05:34.486936+00:00",
       "stats": null
     }
   ]
