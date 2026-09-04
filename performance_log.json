@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "v2v9_8jFe6s",
-      "title": "53% of Architects Say Experience Beats Certs 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "careeradvice",
-        "salesforcearchitects",
-        "certifications",
-        "experience",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-29T17:07:52.158218+00:00",
-      "stats": null
-    },
-    {
       "video_id": "L2CnY9NgOXI",
       "title": "🚀 Salesforce Tracks AI Use #shorts #salesforce",
       "topic": "",
@@ -3654,6 +3634,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-04T08:24:56.373387+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "xyU2eC2QRAE",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-04T15:20:25.438269+00:00",
       "stats": null
     }
   ]
