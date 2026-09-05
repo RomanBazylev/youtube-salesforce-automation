@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "D0O_-4Af45I",
-      "title": "Salesforce Secrets 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "crm",
-        "salesforceadmin",
-        "salesforcedeveloper",
-        "agentforce",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-30T21:02:27.634214+00:00",
-      "stats": null
-    },
-    {
       "video_id": "_e3T8APtgFk",
       "title": "Unlock 95% Customer Trust 🚀 #shorts #salesforce",
       "topic": "",
@@ -3625,6 +3606,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-05T14:10:58.621575+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "fyiA9Iy2zo8",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-05T17:52:54.637164+00:00",
       "stats": null
     }
   ]
