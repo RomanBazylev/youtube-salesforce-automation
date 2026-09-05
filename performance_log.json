@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "nE37qjX_4cU",
-      "title": "Connect Salesforce & SharePoint 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "sharepoint",
-        "integration",
-        "microsoft365",
-        "productivity",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-30T10:13:06.742378+00:00",
-      "stats": null
-    },
-    {
       "video_id": "z9BkBXwWYjA",
       "title": "Boost AI Skills 300% 🚀 #shorts #salesforce",
       "topic": "",
@@ -3635,6 +3615,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-05T01:39:12.567217+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "T8buEC53ptQ",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-05T08:02:40.584042+00:00",
       "stats": null
     }
   ]
