@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "z9BkBXwWYjA",
-      "title": "Boost AI Skills 300% 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "orgdiscovery",
-        "productivity",
-        "salesforce tips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-30T13:26:10.045595+00:00",
-      "stats": null
-    },
-    {
       "video_id": "hf8MlLOLrVA",
       "title": "Unlock Salesforce Foundations 🚀 #shorts #salesforce",
       "topic": "",
@@ -3632,6 +3612,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-05T08:02:40.584042+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "KJOdEJ3lFAU",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-05T11:32:48.757512+00:00",
       "stats": null
     }
   ]
