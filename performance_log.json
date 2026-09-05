@@ -1,28 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "tcvwu5LKHis",
-      "title": "Boost Ecommerce Sales 25% 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "b2c commerce",
-        "ecommerce",
-        "intent-driven shopping",
-        "salesforce admin",
-        "salesforce tips",
-        "salesforce tricks",
-        "shorts",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-30T06:24:34.197447+00:00",
-      "stats": null
-    },
-    {
       "video_id": "nE37qjX_4cU",
       "title": "Connect Salesforce & SharePoint 🚀 #shorts #salesforce",
       "topic": "",
@@ -3641,6 +3619,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-04T22:01:43.116391+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "s9_rOhTeOTA",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-05T01:39:12.567217+00:00",
       "stats": null
     }
   ]
