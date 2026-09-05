@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "_e3T8APtgFk",
-      "title": "Unlock 95% Customer Trust 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "marketing",
-        "data",
-        "privacy",
-        "archiving",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-31T01:29:21.795549+00:00",
-      "stats": null
-    },
-    {
       "video_id": "ssFSFLO-NBw",
       "title": "🚀 70% of Salesforce Certs Retired! 🤔 #shorts #salesforce",
       "topic": "",
@@ -3622,6 +3602,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-05T17:52:54.637164+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "FvYr_Ldq5BE",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-05T21:54:46.743530+00:00",
       "stats": null
     }
   ]
