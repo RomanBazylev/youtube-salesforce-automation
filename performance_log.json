@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "hf8MlLOLrVA",
-      "title": "Unlock Salesforce Foundations 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "foundations",
-        "ai",
-        "crm",
-        "salesforcebeginner",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-30T17:21:21.858089+00:00",
-      "stats": null
-    },
-    {
       "video_id": "D0O_-4Af45I",
       "title": "Salesforce Secrets 🚀 #shorts #salesforce",
       "topic": "",
@@ -3628,6 +3609,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-05T11:32:48.757512+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "TeCanGi-zvM",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-05T14:10:58.621575+00:00",
       "stats": null
     }
   ]
