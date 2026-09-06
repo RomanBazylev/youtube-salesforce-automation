@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Wp4Z5YtFyNs",
-      "title": "Dreamforce 2026 Prep 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "dreamforce",
-        "trailblazer",
-        "salesforceben",
-        "sfben",
-        "cloudcomputing",
-        "shorts",
-        "crm",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-31T17:24:49.700416+00:00",
-      "stats": null
-    },
-    {
       "video_id": "7BW3V-_oMCw",
       "title": "🚀 70% of Salesforce Admins Track AI Usage #shorts #salesforce",
       "topic": "",
@@ -3607,6 +3587,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-06T14:34:48.676531+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "qBBYBQ9Bvqs",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-06T17:55:34.555321+00:00",
       "stats": null
     }
   ]
