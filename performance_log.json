@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "ssFSFLO-NBw",
-      "title": "🚀 70% of Salesforce Certs Retired! 🤔 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "certifications",
-        "retired",
-        "salesforceben",
-        "career",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-31T06:43:36.931019+00:00",
-      "stats": null
-    },
-    {
       "video_id": "QozFX_NJX4k",
       "title": "🚀 Boost Salesforce Skills #shorts #salesforce",
       "topic": "",
@@ -3618,6 +3598,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-05T21:54:46.743530+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "h2i54n4NUVY",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-06T01:34:16.909842+00:00",
       "stats": null
     }
   ]
