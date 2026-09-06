@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "yl1nC-ZMdng",
-      "title": "Unlock AI in Salesforce 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "governed discovery",
-        "salesforce skills",
-        "repeatable discovery",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-07-31T13:29:20.594305+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Wp4Z5YtFyNs",
       "title": "Dreamforce 2026 Prep 🚀 #shorts #salesforce",
       "topic": "",
@@ -3611,6 +3591,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-06T08:18:40.950044+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "WH8gHjcr-H8",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-06T14:34:48.676531+00:00",
       "stats": null
     }
   ]
