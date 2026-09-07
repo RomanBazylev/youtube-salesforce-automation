@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "uRb__gyuD6o",
-      "title": "ServiceNow Layoffs: Boost Your Salesforce Skills 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "servicenow",
-        "layoffs",
-        "careeradvice",
-        "salesforcecareers",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-01T01:31:21.074303+00:00",
-      "stats": null
-    },
-    {
       "video_id": "GrJbre06xQw",
       "title": "Data Privacy Boosts Marketing 💡 #shorts #salesforce",
       "topic": "",
@@ -3599,6 +3579,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-06T21:55:07.479717+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "ndx8WmeviRI",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-07T01:32:18.189575+00:00",
       "stats": null
     }
   ]
