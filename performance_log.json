@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Ns8k6S5sgVE",
-      "title": "55% Buy vs Build 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceben",
-        "AI",
-        "buildboom",
-        "salesforcearchitects",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-01T12:54:57.830370+00:00",
-      "stats": null
-    },
-    {
       "video_id": "1SHVFvahPAo",
       "title": "85% of Salesforce Pros Use AI! 🤖 #shorts #salesforce",
       "topic": "",
@@ -3587,6 +3567,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-07T16:49:41.362164+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "y96KnbbPvgY",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-07T22:27:36.890636+00:00",
       "stats": null
     }
   ]
