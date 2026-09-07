@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "dNV5zXC_o68",
-      "title": "Revamp Loyalty Programs with Salesforce 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "loyaltyprogram",
-        "customerexperience",
-        "marketingcloud",
-        "salesforcedeveloper",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-01T09:56:32.967789+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Ns8k6S5sgVE",
       "title": "55% Buy vs Build 🚀 #shorts #salesforce",
       "topic": "",
@@ -3591,6 +3571,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-07T08:49:48.410332+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "RcX2zw-KbVA",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-07T16:49:41.362164+00:00",
       "stats": null
     }
   ]
