@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "1SHVFvahPAo",
-      "title": "85% of Salesforce Pros Use AI! 🤖 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforcecareers",
-        "ai",
-        "careeradvice",
-        "cloudcomputing",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-01T16:51:14.352958+00:00",
-      "stats": null
-    },
-    {
       "video_id": "I37_Z0uPuCk",
       "title": "🚀 80% of Salesforce Orgs Lack External MCP Connectivity #shorts #salesforce",
       "topic": "",
@@ -3583,6 +3563,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-07T22:27:36.890636+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "lvJIbmsIdEw",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-08T01:42:07.260698+00:00",
       "stats": null
     }
   ]
