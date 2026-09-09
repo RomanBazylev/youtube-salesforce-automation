@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "aPr7iANShRQ",
-      "title": "💻 Connect Salesforce & SharePoint #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "sharepoint",
-        "microsoft365",
-        "integration",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-02T12:56:25.480284+00:00",
-      "stats": null
-    },
-    {
       "video_id": "h5RQdlFyYag",
       "title": "AI in Salesforce: 75% of Jobs Unchanged 🚀 #shorts #salesforce",
       "topic": "",
@@ -3568,6 +3549,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-08T22:12:15.403681+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "NmjF6AqQpyU",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-09T01:48:07.626258+00:00",
       "stats": null
     }
   ]
