@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "OamKI0bnt6k",
-      "title": "Unlock Free AI Tools 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "foundations",
-        "ai",
-        "admin",
-        "shorts",
-        "business",
-        "technology",
-        "salesforce admin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-02T20:48:18.215145+00:00",
-      "stats": null
-    },
-    {
       "video_id": "QlU6P3z1U1Q",
       "title": "🚀 Connect Salesforce & SharePoint #shorts #salesforce",
       "topic": "",
@@ -3562,6 +3541,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-09T08:34:07.123343+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "nrjTbTVeoqI",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-09T15:30:51.440079+00:00",
       "stats": null
     }
   ]
