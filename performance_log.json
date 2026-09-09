@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "QlU6P3z1U1Q",
-      "title": "🚀 Connect Salesforce & SharePoint #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "sharepoint",
-        "integration",
-        "admin",
-        "microsoft365",
-        "crm",
-        "businessprocesses",
-        "shorts",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-03T01:30:02.700759+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Ry0-cr6j2Ek",
       "title": "Dreamforce Prep 🚀 #shorts #salesforce",
       "topic": "",
@@ -3557,6 +3537,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-09T15:30:51.440079+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "mYOaH2DixZQ",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-09T19:00:05.913697+00:00",
       "stats": null
     }
   ]
