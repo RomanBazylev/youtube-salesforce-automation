@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "h5RQdlFyYag",
-      "title": "AI in Salesforce: 75% of Jobs Unchanged 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "AI",
-        "careerdevelopment",
-        "salesforcejobs",
-        "salesforceconsultant",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-02T16:50:50.526885+00:00",
-      "stats": null
-    },
-    {
       "video_id": "OamKI0bnt6k",
       "title": "Unlock Free AI Tools 🚀 #shorts #salesforce",
       "topic": "",
@@ -3565,6 +3545,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-09T01:48:07.626258+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "8VSiiXKR5fE",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-09T08:34:07.123343+00:00",
       "stats": null
     }
   ]
