@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Ry0-cr6j2Ek",
-      "title": "Dreamforce Prep 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "dreamforce",
-        "salesforceben",
-        "trailblazers",
-        "sfben",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-03T06:56:12.324493+00:00",
-      "stats": null
-    },
-    {
       "video_id": "q50NFGTX-rw",
       "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
       "topic": "",
@@ -3553,6 +3533,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-09T19:00:05.913697+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "UTC2LGcAQmQ",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-10T01:44:52.403809+00:00",
       "stats": null
     }
   ]
