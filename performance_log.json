@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "HhIYR9zm4uU",
-      "title": "💻 AI Pricing Revolution #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "pricing",
-        "enterprise",
-        "software",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-03T20:59:38.919931+00:00",
-      "stats": null
-    },
-    {
       "video_id": "UmfL1l_MfJs",
       "title": "Fix 80% of Deduplication Issues in 5 Mins 🚀 #shorts #salesforce",
       "topic": "",
@@ -3540,6 +3520,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-10T18:51:30.510501+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "_exX9FPBmQ8",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-10T22:10:24.567979+00:00",
       "stats": null
     }
   ]
