@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "yyZ-jtyf4II",
-      "title": "🚀 5 Salesforce Hacks #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "mfa",
-        "certification",
-        "productivity",
-        "salesforceben",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-03T14:16:56.304726+00:00",
-      "stats": null
-    },
-    {
       "video_id": "O8BeDeph1mc",
       "title": "💡 75% of Users Ask AI for Answers 🤖 #shorts #salesforce",
       "topic": "",
@@ -3548,6 +3528,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-10T08:35:26.784954+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "_L2buGyLOgI",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-10T15:25:23.954102+00:00",
       "stats": null
     }
   ]
