@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "NTmMfpywgCE",
-      "title": "Salesforce AE Secrets 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "techsales",
-        "accountexecutive",
-        "salesforceae",
-        "salesstrategy",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-04T10:28:28.725509+00:00",
-      "stats": null
-    },
-    {
       "video_id": "b7akJ85TXe4",
       "title": "🚀 Boost Productivity with Dynamic Forms #shorts #salesforce",
       "topic": "",
@@ -3529,6 +3509,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-11T15:26:46.829011+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "fQcqCI_gaVQ",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-11T18:57:39.153127+00:00",
       "stats": null
     }
   ]
