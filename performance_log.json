@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "IBglQI4IYo0",
-      "title": "Boost Loyalty 25% with Salesforce 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "loyaltyprogram",
-        "salesforcearchitect",
-        "customerrelationshipmanagement",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-04T06:25:43.681825+00:00",
-      "stats": null
-    },
-    {
       "video_id": "NTmMfpywgCE",
       "title": "Salesforce AE Secrets 🚀 #shorts #salesforce",
       "topic": "",
@@ -3532,6 +3513,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-11T01:45:20.767575+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "eLnVsHQoO0g",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-11T15:26:46.829011+00:00",
       "stats": null
     }
   ]
