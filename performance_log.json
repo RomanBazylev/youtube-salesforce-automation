@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "9EqvWccw0mw",
-      "title": "Summer '26: Radio Button Groups in Flow 📻 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "flow",
-        "salesforceben",
-        "summer26",
-        "radiobutton",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-05T10:26:07.714308+00:00",
-      "stats": null
-    },
-    {
       "video_id": "CFgcITBYpoc",
       "title": "🚀 80% of Salesforce Admins Are Reactive! #shorts #salesforce",
       "topic": "",
@@ -3503,6 +3483,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-12T18:03:03.966325+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "_ds9pGNLw_I",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-12T21:50:25.508552+00:00",
       "stats": null
     }
   ]
