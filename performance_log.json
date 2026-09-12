@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "YwETFYaLoe8",
-      "title": "💸 ServiceNow Hits $1B in AI Revenue! 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "AI",
-        "ServiceNow",
-        "revenue",
-        "SalesforceBen",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-04T17:34:55.046854+00:00",
-      "stats": null
-    },
-    {
       "video_id": "40QlU4-ToxQ",
       "title": "Boost B2B Sales 30% with Smarter Merchandising 🚀 #shorts #salesforce",
       "topic": "",
@@ -3521,6 +3501,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-11T22:11:24.783038+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "OrU5hXfZ3ZU",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-12T01:49:22.213151+00:00",
       "stats": null
     }
   ]
