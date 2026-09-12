@@ -1,28 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "40QlU4-ToxQ",
-      "title": "Boost B2B Sales 30% with Smarter Merchandising 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "b2bcommerce",
-        "merchandising",
-        "digitalstorefront",
-        "salesforcedeveloper",
-        "e-commerce",
-        "b2bsales",
-        "shorts",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-04T21:08:41.968960+00:00",
-      "stats": null
-    },
-    {
       "video_id": "dAhli4J5LuY",
       "title": "Digital Transformation Over? 🚀 #shorts #salesforce",
       "topic": "",
@@ -3517,6 +3495,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-12T01:49:22.213151+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "vTJCA1n9z_Q",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-12T08:18:39.352425+00:00",
       "stats": null
     }
   ]
