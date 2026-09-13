@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "CFgcITBYpoc",
-      "title": "🚀 80% of Salesforce Admins Are Reactive! #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "productivity",
-        "salesforceadmin",
-        "salesforcedeveloper",
-        "trailhead",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-05T13:39:33.526555+00:00",
-      "stats": null
-    },
-    {
       "video_id": "jPgv5zHisds",
       "title": "25 Years of Salesforce Acquisitions 🚀 #shorts #salesforce",
       "topic": "",
@@ -3499,6 +3479,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-12T21:50:25.508552+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "-BHuvNTihIA",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-13T01:39:53.450769+00:00",
       "stats": null
     }
   ]
