@@ -1,28 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Di0pMOljwvs",
-      "title": "🚨 75% of Salesforce Customers Use Overly Permissive Guest User Configs 🚨 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "security",
-        "experiencecloud",
-        "guestuser",
-        "salesforceadmin",
-        "cloudsecurity",
-        "salesforcehacks",
-        "shorts",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-06T01:21:22.639978+00:00",
-      "stats": null
-    },
-    {
       "video_id": "OEkXjV4iss8",
       "title": "🚀 Boost Salesforce Skills #shorts #salesforce",
       "topic": "",
@@ -3488,6 +3466,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-13T15:16:42.348834+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "-qLKshyQYqQ",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-13T18:30:49.165305+00:00",
       "stats": null
     }
   ]
