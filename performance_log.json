@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "KBDFCrOJrZ4",
-      "title": "📹 AI Video Tips for Salesforce #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "videocontent",
-        "aivideo",
-        "salesforcedeveloper",
-        "salesforcepro",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-05T21:02:10.334924+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Di0pMOljwvs",
       "title": "🚨 75% of Salesforce Customers Use Overly Permissive Guest User Configs 🚨 #shorts #salesforce",
       "topic": "",
@@ -3491,6 +3471,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-13T08:42:17.346783+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "rx1RHirAmRw",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-13T15:16:42.348834+00:00",
       "stats": null
     }
   ]
