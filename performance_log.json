@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "rNvdte9pZio",
-      "title": "💼 250+ Tech Layoffs: Boost Your Skills #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "career",
-        "tech",
-        "layoffs",
-        "salesforceben",
-        "crisismanagement",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-07T00:57:03.262502+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Kf-bvapaE1E",
       "title": "🚀 Eliminate Identity Debt in 4 Steps #shorts #salesforce",
       "topic": "",
@@ -3472,6 +3451,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-14T09:27:34.543882+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "A-WeavP1TOY",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-14T17:14:09.561163+00:00",
       "stats": null
     }
   ]
