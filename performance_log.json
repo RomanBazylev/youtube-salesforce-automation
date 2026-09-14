@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "X_9zAOhUXgg",
-      "title": "Boost Revenue 30% with AI Agents 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "revenuehub",
-        "aiagents",
-        "salesforcedeveloper",
-        "sfblog",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-06T10:29:45.409875+00:00",
-      "stats": null
-    },
-    {
       "video_id": "3NuTsr_w8KQ",
       "title": "🚀 Empower Your Team with 80% More Leads #shorts #salesforce",
       "topic": "",
@@ -3479,6 +3459,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-13T21:58:05.672999+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "loPSnv_uR-g",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-14T01:57:45.568714+00:00",
       "stats": null
     }
   ]
