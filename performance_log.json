@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "rxH36Huy4i8",
-      "title": "5 AI Insights 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "customer service",
-        "salesforce developer",
-        "state of service",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-07T16:46:59.867324+00:00",
-      "stats": null
-    },
-    {
       "video_id": "UimgTj-wvqA",
       "title": "🚀 Boost Success with Agentforce #shorts #salesforce",
       "topic": "",
@@ -3456,6 +3436,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-15T09:09:02.165776+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "u6buZP4ihUs",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-15T15:53:19.267813+00:00",
       "stats": null
     }
   ]
