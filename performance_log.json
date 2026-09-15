@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "UimgTj-wvqA",
-      "title": "🚀 Boost Success with Agentforce #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "customer success",
-        "agentforce",
-        "2026 awards",
-        "salesforce tips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-07T20:34:39.510357+00:00",
-      "stats": null
-    },
-    {
       "video_id": "lW7BQ3Qq02U",
       "title": "🚀 Salesforce AI Edge #shorts #salesforce",
       "topic": "",
@@ -3452,6 +3432,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-15T15:53:19.267813+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "_ITDi76qwCw",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-15T19:28:55.764612+00:00",
       "stats": null
     }
   ]
