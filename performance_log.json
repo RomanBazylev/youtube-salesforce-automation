@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "lW7BQ3Qq02U",
-      "title": "🚀 Salesforce AI Edge #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "einstein",
-        "ai",
-        "enterprise",
-        "saas",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-08T00:50:13.479291+00:00",
-      "stats": null
-    },
-    {
       "video_id": "kE_7Z81mr0o",
       "title": "Map Collection in Salesforce Flow 🚀 #shorts #salesforce",
       "topic": "",
@@ -3448,6 +3428,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-15T19:28:55.764612+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "3cE9X94ujtU",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-15T22:37:01.499568+00:00",
       "stats": null
     }
   ]
