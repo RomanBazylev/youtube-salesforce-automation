@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "Orf6KFw04hg",
-      "title": "🚀 Map Collection in Salesforce Flow #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "flow",
-        "development",
-        "clicksnotcode",
-        "salesforceflow",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-08T20:22:13.288882+00:00",
-      "stats": null
-    },
-    {
       "video_id": "FJdV3YThZIk",
       "title": "💸 75% of Gen Z Use Mobile for Shopping #shorts #salesforce",
       "topic": "",
@@ -3433,6 +3413,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-16T19:17:48.248257+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "PuwUJ5ipRco",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-16T22:34:25.536927+00:00",
       "stats": null
     }
   ]
