@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "G4HdUWtNZMI",
-      "title": "Boost User Experience with Radio Buttons in Salesforce Flow 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforceflow",
-        "summerv26",
-        "radiobuttons",
-        "userexperience",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-08T16:25:13.650143+00:00",
-      "stats": null
-    },
-    {
       "video_id": "Orf6KFw04hg",
       "title": "🚀 Map Collection in Salesforce Flow #shorts #salesforce",
       "topic": "",
@@ -3437,6 +3417,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-16T15:47:26.534074+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "FRRzVl-q3bo",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-16T19:17:48.248257+00:00",
       "stats": null
     }
   ]
