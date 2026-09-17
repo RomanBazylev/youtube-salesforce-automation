@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "eDkPavTEp0Q",
-      "title": "Boost Success with Agentforce #shorts #salesforce 🚀",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "agentforce",
-        "customer success",
-        "sfdc",
-        "salesforce admin",
-        "salesforce consultant",
-        "crm",
-        "shorts",
-        "admin",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-09T05:01:34.345674+00:00",
-      "stats": null
-    },
-    {
       "video_id": "y-_pbohqHxU",
       "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
       "topic": "",
@@ -3426,6 +3405,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-17T02:03:42.594089+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "bUPws9C3nNk",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-17T09:05:57.840791+00:00",
       "stats": null
     }
   ]
