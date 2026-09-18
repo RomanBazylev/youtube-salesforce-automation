@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "ptgAoI9i9Ng",
-      "title": "AI-Powered Salesforce: 8x Faster Proposals 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "agentforce",
-        "coworker",
-        "ai",
-        "productivity",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-10T05:19:45.666504+00:00",
-      "stats": null
-    },
-    {
       "video_id": "ThBsQBJq6qo",
       "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
       "topic": "",
@@ -3406,6 +3386,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-18T08:40:46.960814+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "8uygKeiWMOc",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-18T15:23:59.977333+00:00",
       "stats": null
     }
   ]
