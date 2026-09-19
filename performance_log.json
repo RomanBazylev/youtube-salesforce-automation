@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "xcfQCwp_cfM",
-      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "soql",
-        "apex",
-        "developer",
-        "performance",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-11T08:48:18.515006+00:00",
-      "stats": null
-    },
-    {
       "video_id": "CnNLgKjfAyM",
       "title": "🚀 80% of Salesforce Data Unused? #shorts #salesforce",
       "topic": "",
@@ -3384,6 +3368,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-19T18:22:34.229738+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "JQdgd4NDluE",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-19T21:58:18.153876+00:00",
       "stats": null
     }
   ]
