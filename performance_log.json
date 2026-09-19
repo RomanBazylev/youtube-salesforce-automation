@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "bIhbUFitUms",
-      "title": "🚨 80% of Service ROI Lost 📉 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "banking",
-        "servicecloud",
-        "salesforceconfig",
-        "customerexperience",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-10T20:36:17.605259+00:00",
-      "stats": null
-    },
-    {
       "video_id": "K6HBKZZV3LY",
       "title": "40% of Salesforce Pros Consider Leaving 🚨 #shorts #salesforce",
       "topic": "",
@@ -3395,6 +3375,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-19T01:54:22.685315+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "qxdKHHrObr8",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-19T08:28:37.909327+00:00",
       "stats": null
     }
   ]
