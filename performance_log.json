@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "NB1dPwrTtPs",
-      "title": "Unlock 95% Team Potential 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "leadership",
-        "team management",
-        "salesforce tips",
-        "emergent leadership",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-10T16:48:26.202663+00:00",
-      "stats": null
-    },
-    {
       "video_id": "bIhbUFitUms",
       "title": "🚨 80% of Service ROI Lost 📉 #shorts #salesforce",
       "topic": "",
@@ -3399,6 +3379,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-18T22:07:44.071659+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "bzenvYiw4as",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-19T01:54:22.685315+00:00",
       "stats": null
     }
   ]
