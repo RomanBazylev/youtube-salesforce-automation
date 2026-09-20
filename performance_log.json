@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "d1r6kyiFvqs",
-      "title": "Dreamforce Tips 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "dreamforce",
-        "salesforce developer",
-        "startup",
-        "SMB",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-12T05:27:03.477084+00:00",
-      "stats": null
-    },
-    {
       "video_id": "KR7COGqzQGs",
       "title": "Dreamforce 2026 🚀 #shorts #salesforce",
       "topic": "",
@@ -3368,6 +3348,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-20T18:28:08.391908+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "iF2MvwPkd9I",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-20T22:04:31.515097+00:00",
       "stats": null
     }
   ]
