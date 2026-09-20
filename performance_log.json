@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "XSM-8k8WpbQ",
-      "title": "🚀 1% of Pros Hold CTA! #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "cta",
-        "certification",
-        "career",
-        "architect",
-        "admin",
-        "development",
-        "shorts",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-11T20:41:02.412192+00:00",
-      "stats": null
-    },
-    {
       "video_id": "1o__YolhqwM",
       "title": "Salesforce Agents of Change 🚀 #shorts #salesforce",
       "topic": "",
@@ -3376,6 +3355,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-20T08:59:25.777374+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "hNWhVPDxqiM",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-20T15:04:36.626721+00:00",
       "stats": null
     }
   ]
