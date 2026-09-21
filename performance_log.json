@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "SqAxK8gmRHY",
-      "title": "💸 Save 20% with Salesforce-Jira Integration #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "jira",
-        "integration",
-        "salesforcejira",
-        "salesforcetips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-12T16:51:33.706265+00:00",
-      "stats": null
-    },
-    {
       "video_id": "kHW-dWLKpLo",
       "title": "5 Systems for Headless 360 🚀 #shorts #salesforce",
       "topic": "",
@@ -3355,6 +3335,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-21T09:29:28.726309+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "K8rqTxzQV6E",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-21T17:24:59.752744+00:00",
       "stats": null
     }
   ]
