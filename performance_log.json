@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "0oOujatjW5M",
-      "title": "Boost Productivity with Claude 🚀 #salesforce #shorts",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "anthropic",
-        " claude",
-        "productivity",
-        "salesforcepro",
-        "salesforceadmin",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-12T12:47:31.571638+00:00",
-      "stats": null
-    },
-    {
       "video_id": "SqAxK8gmRHY",
       "title": "💸 Save 20% with Salesforce-Jira Integration #shorts #salesforce",
       "topic": "",
@@ -3360,6 +3339,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-21T01:58:41.279061+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "mA7eXiEpNCM",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-21T09:29:28.726309+00:00",
       "stats": null
     }
   ]
