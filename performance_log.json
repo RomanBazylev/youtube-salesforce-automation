@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "kHW-dWLKpLo",
-      "title": "5 Systems for Headless 360 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "headless",
-        "360architecture",
-        "admin",
-        "developer",
-        "salesforce360",
-        "architecture",
-        "shorts",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-12T20:40:02.130194+00:00",
-      "stats": null
-    },
-    {
       "video_id": "X63RLo7E6Rk",
       "title": "💡 Boost AI Skills in 60s 🕒 #shorts #salesforce",
       "topic": "",
@@ -3352,6 +3331,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-21T17:24:59.752744+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "cp57zQtNYtE",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-21T23:00:20.619334+00:00",
       "stats": null
     }
   ]
