@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "KR7COGqzQGs",
-      "title": "Dreamforce 2026 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "dreamforce",
-        "trailblazers",
-        "developer",
-        "salesforceben",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-12T09:03:31.046255+00:00",
-      "stats": null
-    },
-    {
       "video_id": "0oOujatjW5M",
       "title": "Boost Productivity with Claude 🚀 #salesforce #shorts",
       "topic": "",
@@ -3364,6 +3344,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-20T22:04:31.515097+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "AHUv4KUvpbg",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-21T01:58:41.279061+00:00",
       "stats": null
     }
   ]
