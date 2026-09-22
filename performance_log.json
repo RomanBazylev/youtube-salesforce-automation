@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "GmLD_P2Dp0E",
-      "title": "Dreamforce '26 Tips 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "dreamforce",
-        "admin",
-        "developer",
-        "salesforceben",
-        "trailblazers",
-        "sfdev",
-        "shorts",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-13T05:31:28.049949+00:00",
-      "stats": null
-    },
-    {
       "video_id": "OBvwMMkD_KY",
       "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
       "topic": "",
@@ -3343,6 +3322,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-22T02:07:30.613861+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "kY8FoT93vWk",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-22T08:55:18.780145+00:00",
       "stats": null
     }
   ]
