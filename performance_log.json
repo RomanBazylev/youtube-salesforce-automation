@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "X63RLo7E6Rk",
-      "title": "💡 Boost AI Skills in 60s 🕒 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "nocode",
-        "ai",
-        "salesforceblog",
-        "sfblog",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-13T00:56:52.499549+00:00",
-      "stats": null
-    },
-    {
       "video_id": "GmLD_P2Dp0E",
       "title": "Dreamforce '26 Tips 🚀 #shorts #salesforce",
       "topic": "",
@@ -3347,6 +3327,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-21T23:00:20.619334+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "TWiv5ZqEGtk",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-22T02:07:30.613861+00:00",
       "stats": null
     }
   ]
