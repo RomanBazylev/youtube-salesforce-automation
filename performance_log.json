@@ -1,23 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "OBvwMMkD_KY",
-      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "flowbuilder",
-        "automation",
-        "shorts",
-        "trailblazer",
-        "crm"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-13T09:08:59.558287+00:00",
-      "stats": null
-    },
-    {
       "video_id": "ilEDyK-b_Bo",
       "title": "45% of Salesforce Alumni Return 🚀 #shorts #salesforce",
       "topic": "",
@@ -3338,6 +3321,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-22T08:55:18.780145+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "GZYxP29SjoM",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-22T15:55:21.023115+00:00",
       "stats": null
     }
   ]
