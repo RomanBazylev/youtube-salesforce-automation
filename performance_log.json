@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "D9qwr2mqQ4I",
-      "title": "560K+ Salesforce Attacks 🚨 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforce security",
-        "data theft",
-        "experience cloud",
-        "service now",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-13T16:48:36.348484+00:00",
-      "stats": null
-    },
-    {
       "video_id": "NKu_iY1sz7w",
       "title": "AI in Commerce: 80% Pilots Fail 🚀 #shorts #salesforce",
       "topic": "",
@@ -3334,6 +3314,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-22T19:28:46.392271+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "2iKM-5J9uhY",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-22T22:34:08.835060+00:00",
       "stats": null
     }
   ]
