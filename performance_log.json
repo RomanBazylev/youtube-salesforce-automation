@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "NKu_iY1sz7w",
-      "title": "AI in Commerce: 80% Pilots Fail 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "commerce",
-        "ai",
-        "sfblog",
-        "salesforcecommerce",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-13T20:36:02.258270+00:00",
-      "stats": null
-    },
-    {
       "video_id": "N2Ha6KNs7V0",
       "title": "💸 Salesforce Salaries 2026: 15% Drop? #shorts #salesforce",
       "topic": "",
@@ -3330,6 +3310,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-22T22:34:08.835060+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "RcmyjHQAkO0",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-23T02:05:07.271927+00:00",
       "stats": null
     }
   ]
