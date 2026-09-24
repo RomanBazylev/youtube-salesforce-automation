@@ -1,27 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "UspaTfWPKuQ",
-      "title": "Marc Benioff Invests in AI: Boost Your Skills 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "artificialintelligence",
-        "salesforceconsultant",
-        "marcbenioff",
-        "juneai",
-        "aiinsalesforce",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-14T20:28:15.611209+00:00",
-      "stats": null
-    },
-    {
       "video_id": "bOnlfwjSODo",
       "title": "Boost Productivity with 20+ Validation Rules 🚀 #shorts #salesforce",
       "topic": "",
@@ -3314,6 +3293,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-24T01:55:04.149720+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "vemWOW2yBlg",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-24T08:57:22.649099+00:00",
       "stats": null
     }
   ]
