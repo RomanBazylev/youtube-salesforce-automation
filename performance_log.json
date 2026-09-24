@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "bOnlfwjSODo",
-      "title": "Boost Productivity with 20+ Validation Rules 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "validationrules",
-        "salesforceben",
-        "productivity",
-        "dataquality",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-15T00:33:01.521419+00:00",
-      "stats": null
-    },
-    {
       "video_id": "1nlSYW2MB_E",
       "title": "💻 70% of Salesforce Tasks Automated by 2027? 🤖 #shorts #salesforce",
       "topic": "",
@@ -3309,6 +3289,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-24T08:57:22.649099+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "otfKw9VhF6E",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-24T16:08:17.634984+00:00",
       "stats": null
     }
   ]
