@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "TWgoWc_BjFQ",
-      "title": "20+ Validation Rules 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "validationrules",
-        "salesforceben",
-        "productivity",
-        "salesforcetips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-16T04:31:44.332294+00:00",
-      "stats": null
-    },
-    {
       "video_id": "j5SU4X4kp7w",
       "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
       "topic": "",
@@ -3283,6 +3263,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-25T19:52:58.805149+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "dWos4Pkymc4",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-25T22:59:03.723464+00:00",
       "stats": null
     }
   ]
