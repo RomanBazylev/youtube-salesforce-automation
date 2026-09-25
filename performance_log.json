@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "tjicv5JaUfo",
-      "title": "50% of Admin Tasks Automated 🤖 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "automation",
-        "AI",
-        "development",
-        "consulting",
-        "upskill",
-        "crm",
-        "trailblazer"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-16T00:35:14.884355+00:00",
-      "stats": null
-    },
-    {
       "video_id": "TWgoWc_BjFQ",
       "title": "20+ Validation Rules 🚀 #shorts #salesforce",
       "topic": "",
@@ -3287,6 +3267,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-25T16:06:23.945237+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "dSsasLMZmoU",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-25T19:52:58.805149+00:00",
       "stats": null
     }
   ]
