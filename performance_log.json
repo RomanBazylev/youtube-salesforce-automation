@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "wKbMCk5ldos",
-      "title": "🚀 Headless 360: Scale Agent Dev #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforce360",
-        "headless",
-        "agentdevelopment",
-        "sfblog",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-15T16:16:14.866828+00:00",
-      "stats": null
-    },
-    {
       "video_id": "lOQjHzyln5I",
       "title": "Unlock AI Trust 🚀 #shorts #salesforce",
       "topic": "",
@@ -3295,6 +3275,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-25T02:11:08.941385+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "PxiFfkI9Akg",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-25T09:15:30.672147+00:00",
       "stats": null
     }
   ]
