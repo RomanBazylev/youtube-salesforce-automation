@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "CJG7b1jmuNs",
-      "title": "🚀 Scale Support with AI: 5 Tips #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "customer-support",
-        "ai-agents",
-        "smb",
-        "service-cloud",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-15T12:22:11.223986+00:00",
-      "stats": null
-    },
-    {
       "video_id": "wKbMCk5ldos",
       "title": "🚀 Headless 360: Scale Agent Dev #shorts #salesforce",
       "topic": "",
@@ -3298,6 +3278,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-24T22:53:35.762144+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "ZUx5G0hpErk",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-25T02:11:08.941385+00:00",
       "stats": null
     }
   ]
