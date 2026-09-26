@@ -1,25 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "43G4nQMIWKE",
-      "title": "12 CRM Tips 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "crm",
-        "customerrecords",
-        "salesforcedev",
-        "salesforceadmin",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-16T20:14:22.771436+00:00",
-      "stats": null
-    },
-    {
       "video_id": "_nZZRPUrFV8",
       "title": "Marc Benioff Invests in AI! 🚀 #shorts #salesforce",
       "topic": "",
@@ -3271,6 +3252,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-26T15:19:14.448785+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "q8aGgro8csM",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-26T18:53:59.283047+00:00",
       "stats": null
     }
   ]
