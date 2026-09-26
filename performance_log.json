@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "dRzp6_CxjLM",
-      "title": "🚀 Boost AI Reliability by 30% with Anti-Hallucination #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "ai",
-        "machinelearning",
-        "salesforceadmin",
-        "antihallucination",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-16T16:16:49.616047+00:00",
-      "stats": null
-    },
-    {
       "video_id": "43G4nQMIWKE",
       "title": "12 CRM Tips 🚀 #shorts #salesforce",
       "topic": "",
@@ -3275,6 +3255,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-26T09:01:10.332733+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "DiAMPiyvDdY",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-26T15:19:14.448785+00:00",
       "stats": null
     }
   ]
