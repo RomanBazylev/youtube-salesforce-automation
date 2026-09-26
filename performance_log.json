@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "qJH2UyM14jI",
-      "title": "🚨 560K+ Attacks: Secure Your Salesforce 🚫 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "security",
-        "admin",
-        "shorts",
-        "salesforceben",
-        "datatheft",
-        "cityforum",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-16T12:20:38.015884+00:00",
-      "stats": null
-    },
-    {
       "video_id": "dRzp6_CxjLM",
       "title": "🚀 Boost AI Reliability by 30% with Anti-Hallucination #shorts #salesforce",
       "topic": "",
@@ -3279,6 +3259,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-26T02:15:44.067468+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "Osd6E-2O_x4",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-26T09:01:10.332733+00:00",
       "stats": null
     }
   ]
