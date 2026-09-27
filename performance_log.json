@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "znPgRUVoYtI",
-      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "permission sets",
-        "profiles",
-        "admin",
-        "security",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-17T08:35:46.109890+00:00",
-      "stats": null
-    },
-    {
       "video_id": "araNsB4DTL8",
       "title": "The Experimentation Phase of AI Is Over: What Commerce Leaders Are Focusing on Now 🚀📈",
       "topic": "The Experimentation Phase of AI Is Over. Here’s What Commerce Leaders Are Focusing on Now",
@@ -3261,6 +3245,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-27T02:08:51.483024+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "_bnyw38cc1M",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-27T09:38:55.385929+00:00",
       "stats": null
     }
   ]
