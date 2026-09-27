@@ -1,26 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "3sJB40XQQj4",
-      "title": "Unlock Salesforce Secrets 🤫 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "shorts",
-        "salesforce2026",
-        "agentsOfChange",
-        "salesforceDeveloper",
-        "salesforceTips",
-        "crm",
-        "trailblazer",
-        "automation"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-17T04:38:01.218830+00:00",
-      "stats": null
-    },
-    {
       "video_id": "znPgRUVoYtI",
       "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
       "topic": "",
@@ -3264,6 +3244,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-26T22:21:28.724108+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "rGydJwytovk",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-27T02:08:51.483024+00:00",
       "stats": null
     }
   ]
