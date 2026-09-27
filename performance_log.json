@@ -1,34 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "araNsB4DTL8",
-      "title": "The Experimentation Phase of AI Is Over: What Commerce Leaders Are Focusing on Now 🚀📈",
-      "topic": "The Experimentation Phase of AI Is Over. Here’s What Commerce Leaders Are Focusing on Now",
-      "tags": [
-        "salesforce",
-        "ai",
-        "ml",
-        "commerce",
-        "customer-data",
-        "data-quality",
-        "integration",
-        "roi",
-        "scaling-ai",
-        "unified-data",
-        "admin",
-        "crm",
-        "trailblazer",
-        "automation",
-        "tutorial",
-        "salesforce tutorial",
-        "salesforce admin",
-        "salesforce developer"
-      ],
-      "format": "long",
-      "uploaded_at": "2026-08-17T08:51:04.041456+00:00",
-      "stats": null
-    },
-    {
       "video_id": "UAkMkZCAsCk",
       "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
       "topic": "",
@@ -3261,6 +3233,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-09-27T09:38:55.385929+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "xm5QAPi-8Xs",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-09-27T16:00:13.241935+00:00",
       "stats": null
     }
   ]
