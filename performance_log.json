@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "0xeW-LcbaXA",
-      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "soql",
-        "apex",
-        "developer",
-        "performance",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-08-25T16:30:11.798781+00:00",
-      "stats": null
-    },
-    {
       "video_id": "9YishryhBLU",
       "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
       "topic": "",
@@ -3244,6 +3228,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-10-09T20:31:02.089964+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "SUAtO1TzCDM",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-10-10T02:59:58.019190+00:00",
       "stats": null
     }
   ]
