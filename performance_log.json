@@ -1,23 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "yqbOVK_gXrs",
-      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "admin",
-        "flowbuilder",
-        "automation",
-        "shorts",
-        "trailblazer",
-        "crm"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-09-01T15:47:09.623563+00:00",
-      "stats": null
-    },
-    {
       "video_id": "W-0OP2ZuusI",
       "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
       "topic": "",
@@ -3242,6 +3225,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-10-17T08:14:41.867741+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "YRwF5_dgFpo",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-10-17T14:39:09.204118+00:00",
       "stats": null
     }
   ]
