@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "W-0OP2ZuusI",
-      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "permission sets",
-        "profiles",
-        "admin",
-        "security",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-09-01T22:16:58.834719+00:00",
-      "stats": null
-    },
-    {
       "video_id": "FB9pNgD8eMA",
       "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
       "topic": "",
@@ -3241,6 +3225,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-10-17T14:39:09.204118+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "1CCuD5dv94Y",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-10-17T18:07:30.765884+00:00",
       "stats": null
     }
   ]
