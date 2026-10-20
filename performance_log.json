@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "1isH-3e8I2o",
-      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "einstein",
-        "ai",
-        "automation",
-        "admin",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-09-03T22:06:19.111379+00:00",
-      "stats": null
-    },
-    {
       "video_id": "oVVdd-chIuM",
       "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
       "topic": "",
@@ -3240,6 +3224,23 @@
       ],
       "format": "short",
       "uploaded_at": "2026-10-19T23:19:20.603625+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "ldPkP_Kq6K0",
+      "title": "5 Flow Builder Tricks Every Admin Needs 🚀 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "admin",
+        "flowbuilder",
+        "automation",
+        "shorts",
+        "trailblazer",
+        "crm"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-10-20T02:23:46.477040+00:00",
       "stats": null
     }
   ]
