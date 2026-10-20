@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "xyU2eC2QRAE",
-      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "permission sets",
-        "profiles",
-        "admin",
-        "security",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-09-04T15:20:25.438269+00:00",
-      "stats": null
-    },
-    {
       "video_id": "JFcau0BYDtU",
       "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
       "topic": "",
@@ -3242,6 +3226,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-10-20T19:52:45.578008+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "itrXrqLW6S4",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-10-20T22:50:07.294001+00:00",
       "stats": null
     }
   ]
