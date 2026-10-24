@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "RcX2zw-KbVA",
-      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "soql",
-        "apex",
-        "developer",
-        "performance",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-09-07T16:49:41.362164+00:00",
-      "stats": null
-    },
-    {
       "video_id": "y96KnbbPvgY",
       "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
       "topic": "",
@@ -3244,6 +3228,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-10-24T18:33:54.853345+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "riXSYdXXnhc",
+      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "soql",
+        "apex",
+        "developer",
+        "performance",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-10-24T22:08:17.590128+00:00",
       "stats": null
     }
   ]
