@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "u6buZP4ihUs",
-      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "einstein",
-        "ai",
-        "automation",
-        "admin",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-09-15T15:53:19.267813+00:00",
-      "stats": null
-    },
-    {
       "video_id": "_ITDi76qwCw",
       "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
       "topic": "",
@@ -3251,6 +3235,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-11-05T11:50:05.300014+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "BNeqnW_3cks",
+      "title": "Permission Sets vs Profiles — Do It Right 🔒 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "permission sets",
+        "profiles",
+        "admin",
+        "security",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-11-05T19:14:04.576341+00:00",
       "stats": null
     }
   ]
