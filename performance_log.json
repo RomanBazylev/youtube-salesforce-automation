@@ -1,22 +1,6 @@
 {
   "videos": [
     {
-      "video_id": "bzenvYiw4as",
-      "title": "4 SOQL Fixes That Actually Work ⚡ #shorts #salesforce",
-      "topic": "",
-      "tags": [
-        "salesforce",
-        "soql",
-        "apex",
-        "developer",
-        "performance",
-        "shorts"
-      ],
-      "format": "short",
-      "uploaded_at": "2026-09-19T01:54:22.685315+00:00",
-      "stats": null
-    },
-    {
       "video_id": "qxdKHHrObr8",
       "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
       "topic": "",
@@ -3249,6 +3233,22 @@
       ],
       "format": "short",
       "uploaded_at": "2026-11-11T19:06:22.489690+00:00",
+      "stats": null
+    },
+    {
+      "video_id": "zuJm3Z8P37Y",
+      "title": "Einstein AI Features You're Not Using 🤖 #shorts #salesforce",
+      "topic": "",
+      "tags": [
+        "salesforce",
+        "einstein",
+        "ai",
+        "automation",
+        "admin",
+        "shorts"
+      ],
+      "format": "short",
+      "uploaded_at": "2026-11-12T01:51:39.939616+00:00",
       "stats": null
     }
   ]
